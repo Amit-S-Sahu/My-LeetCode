@@ -10,19 +10,35 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if (head == null) return head;
-        ArrayList<Integer> arr = new ArrayList<>();
-        ListNode temp = head;
-        while (temp != null) {
-            arr.add(temp.val);
-            temp = temp.next;
+        return quickSort(head, null);
+    }
+
+    private ListNode quickSort(ListNode start , ListNode end){
+        if (start == null || start.next == null || start == end) return start;
+
+        ListNode left = start, right = start, curr = start.next;
+        boolean isSorted = true;
+
+        while(curr != end){
+            ListNode temp = curr.next;
+
+            if (curr.val < start.val) {
+                isSorted = false;
+                curr.next = left;
+                left = curr;
+                right.next = temp;
+            }
+            else {
+                if (right.val > curr.val) isSorted = false;
+                right = curr;
+            }
+            curr = temp;
         }
-        Collections.sort(arr);
-        temp = head;
-        for (int i = 0; i < arr.size(); i++) {
-            temp.val = arr.get(i);
-            temp = temp.next;
-        }
-        return head;
+        if(isSorted) return left;
+
+        left = quickSort(left,start);
+        start.next = quickSort(start.next,end);
+        
+        return left;
     }
 }
