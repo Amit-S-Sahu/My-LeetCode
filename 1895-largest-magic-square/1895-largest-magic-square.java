@@ -4,7 +4,6 @@ class Solution {
         int m = grid[0].length;
 
         int min = Math.min(n, m); 
-        int ans = 1; 
 
         for (int k = min; k > 1; k--) { 
             for (int i = 0; i <= n - k; i++) { 
@@ -51,14 +50,11 @@ class Solution {
                     }
                     if (right_diag != first_row) isMagic = false;
 
-                    if (isMagic) {
-                        ans = Math.max(ans, k);
-                        return ans;
-                    } 
+                    if (isMagic) return k;
                 }
             }
         }
 
-        return ans;
+        return 1;
     }
 }
