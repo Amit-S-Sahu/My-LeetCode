@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 99/3312
+### Solved: 100/3312
 
-[░░░░░░░░░░░░░░░░░░░░] 2%
+[░░░░░░░░░░░░░░░░░░░░] 3%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -72,7 +72,7 @@
 | 64 | ❌ [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | 65.1% | <span style="color: orange;">Medium</span> |
 | 65 | ❌ [Valid Number](https://leetcode.com/problems/valid-number/description/) | 20.4% | <span style="color: red;">Hard</span> |
 | 66 | ✔️ [Plus One](https://leetcode.com/problems/plus-one/description/) | 46.3% | <span style="color: green;">Easy</span> |
-| 67 | ❌ [Add Binary](https://leetcode.com/problems/add-binary/description/) | 54.4% | <span style="color: green;">Easy</span> |
+| 67 | ✔️ [Add Binary](https://leetcode.com/problems/add-binary/description/) | 54.4% | <span style="color: green;">Easy</span> |
 | 68 | ❌ [Text Justification](https://leetcode.com/problems/text-justification/description/) | 45.4% | <span style="color: red;">Hard</span> |
 | 69 | ❌ [Sqrt(x)](https://leetcode.com/problems/sqrt(x)/description/) | 39.4% | <span style="color: green;">Easy</span> |
 | 70 | ❌ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | 53.2% | <span style="color: green;">Easy</span> |
