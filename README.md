@@ -32,7 +32,7 @@
 | 24 | ❌ [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | 65.5% | <span style="color: orange;">Medium</span> |
 | 25 | ❌ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | 60.6% | <span style="color: red;">Hard</span> |
 | 26 | ✔️ [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 57.9% | <span style="color: green;">Easy</span> |
-| 27 | ❌ [Remove Element](https://leetcode.com/problems/remove-element/description/) | 58.4% | <span style="color: green;">Easy</span> |
+| 27 | ✔️ [Remove Element](https://leetcode.com/problems/remove-element/description/) | 58.4% | <span style="color: green;">Easy</span> |
 | 28 | ✔️ [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 43.6% | <span style="color: green;">Easy</span> |
 | 29 | ❌ [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | 17.8% | <span style="color: orange;">Medium</span> |
 | 30 | ❌ [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | 32.5% | <span style="color: red;">Hard</span> |
