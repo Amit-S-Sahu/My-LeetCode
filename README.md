@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 98/3312
+### Solved: 99/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 2%
 
