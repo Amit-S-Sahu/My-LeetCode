@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 100/3312
+### Solved: 101/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1968,7 +1968,7 @@
 | 1960 | ❌ [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/) | 31.3% | <span style="color: red;">Hard</span> |
 | 1961 | ❌ [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/description/) | 52.9% | <span style="color: green;">Easy</span> |
 | 1962 | ❌ [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/) | 62.9% | <span style="color: orange;">Medium</span> |
-| 1963 | ❌ [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) | 72.2% | <span style="color: orange;">Medium</span> |
+| 1963 | ✔️ [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) | 72.2% | <span style="color: orange;">Medium</span> |
 | 1964 | ❌ [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/) | 62.8% | <span style="color: red;">Hard</span> |
 | 1965 | ❌ [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/) | 72.5% | <span style="color: green;">Easy</span> |
 | 1966 | ❌ [Binary Searchable Numbers in an Unsorted Array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/) | 64.1% | <span style="color: orange;">Medium</span> |
