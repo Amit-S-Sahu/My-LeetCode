@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 101/3312
+### Solved: 102/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -926,7 +926,7 @@
 | 918 | ❌ [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | 45.8% | <span style="color: orange;">Medium</span> |
 | 919 | ❌ [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | 66.0% | <span style="color: orange;">Medium</span> |
 | 920 | ❌ [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | 60.4% | <span style="color: red;">Hard</span> |
-| 921 | ❌ [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | 74.8% | <span style="color: orange;">Medium</span> |
+| 921 | ✔️ [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | 74.8% | <span style="color: orange;">Medium</span> |
 | 922 | ❌ [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | 70.9% | <span style="color: green;">Easy</span> |
 | 923 | ❌ [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) | 45.6% | <span style="color: orange;">Medium</span> |
 | 924 | ❌ [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | 42.1% | <span style="color: red;">Hard</span> |
