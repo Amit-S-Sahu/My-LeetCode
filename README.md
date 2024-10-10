@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 102/3312
+### Solved: 103/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -967,7 +967,7 @@
 | 959 | ❌ [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) | 78.0% | <span style="color: orange;">Medium</span> |
 | 960 | ❌ [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/) | 58.4% | <span style="color: red;">Hard</span> |
 | 961 | ❌ [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) | 77.0% | <span style="color: green;">Easy</span> |
-| 962 | ❌ [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/) | 50.9% | <span style="color: orange;">Medium</span> |
+| 962 | ✔️ [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/) | 50.9% | <span style="color: orange;">Medium</span> |
 | 963 | ❌ [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/description/) | 55.2% | <span style="color: orange;">Medium</span> |
 | 964 | ❌ [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/description/) | 48.7% | <span style="color: red;">Hard</span> |
 | 965 | ❌ [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/) | 71.4% | <span style="color: green;">Easy</span> |
