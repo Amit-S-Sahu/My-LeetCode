@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 103/3312
+### Solved: 104/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1947,7 +1947,7 @@
 | 1939 | ❌ [Users That Actively Request Confirmation Messages](https://leetcode.com/problems/users-that-actively-request-confirmation-messages/description/) | 56.4% | <span style="color: green;">Easy</span> |
 | 1940 | ❌ [Longest Common Subsequence Between Sorted Arrays](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/description/) | 81.3% | <span style="color: orange;">Medium</span> |
 | 1941 | ❌ [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/) | 78.0% | <span style="color: green;">Easy</span> |
-| 1942 | ❌ [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/) | 42.8% | <span style="color: orange;">Medium</span> |
+| 1942 | ✔️ [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/) | 42.8% | <span style="color: orange;">Medium</span> |
 | 1943 | ❌ [Describe the Painting](https://leetcode.com/problems/describe-the-painting/description/) | 50.3% | <span style="color: orange;">Medium</span> |
 | 1944 | ❌ [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/) | 70.0% | <span style="color: red;">Hard</span> |
 | 1945 | ❌ [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/) | 74.9% | <span style="color: green;">Easy</span> |
