@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 104/3312
+### Solved: 105/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -2411,7 +2411,7 @@
 | 2403 | ❌ [Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/) | 56.5% | <span style="color: red;">Hard</span> |
 | 2404 | ❌ [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | 50.9% | <span style="color: green;">Easy</span> |
 | 2405 | ❌ [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) | 78.0% | <span style="color: orange;">Medium</span> |
-| 2406 | ❌ [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | 47.8% | <span style="color: orange;">Medium</span> |
+| 2406 | ✔️ [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | 47.8% | <span style="color: orange;">Medium</span> |
 | 2407 | ❌ [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | 24.5% | <span style="color: red;">Hard</span> |
 | 2408 | ❌ [Design SQL](https://leetcode.com/problems/design-sql/description/) | 78.2% | <span style="color: orange;">Medium</span> |
 | 2409 | ❌ [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/) | 45.6% | <span style="color: green;">Easy</span> |
