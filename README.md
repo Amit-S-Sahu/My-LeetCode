@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 105/3312
+### Solved: 106/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -637,7 +637,7 @@
 | 629 | ❌ [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) | 49.3% | <span style="color: red;">Hard</span> |
 | 630 | ❌ [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) | 40.3% | <span style="color: red;">Hard</span> |
 | 631 | ❌ [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) | 44.1% | <span style="color: red;">Hard</span> |
-| 632 | ❌ [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | 63.4% | <span style="color: red;">Hard</span> |
+| 632 | ✔️ [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) | 63.4% | <span style="color: red;">Hard</span> |
 | 633 | ❌ [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | 36.5% | <span style="color: orange;">Medium</span> |
 | 634 | ❌ [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) | 41.9% | <span style="color: orange;">Medium</span> |
 | 635 | ❌ [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) | 60.0% | <span style="color: orange;">Medium</span> |
