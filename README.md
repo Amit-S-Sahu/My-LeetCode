@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 107/3312
+### Solved: 108/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -2943,7 +2943,7 @@
 | 2935 | ❌ [Maximum Strong Pair XOR II](https://leetcode.com/problems/maximum-strong-pair-xor-ii/description/) | 30.6% | <span style="color: red;">Hard</span> |
 | 2936 | ❌ [Number of Equal Numbers Blocks](https://leetcode.com/problems/number-of-equal-numbers-blocks/description/) | 66.3% | <span style="color: orange;">Medium</span> |
 | 2937 | ❌ [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/) | 43.7% | <span style="color: green;">Easy</span> |
-| 2938 | ❌ [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/) | 53.6% | <span style="color: orange;">Medium</span> |
+| 2938 | ✔️ [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/) | 53.6% | <span style="color: orange;">Medium</span> |
 | 2939 | ❌ [Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/description/) | 26.7% | <span style="color: orange;">Medium</span> |
 | 2940 | ❌ [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/) | 35.3% | <span style="color: red;">Hard</span> |
 | 2941 | ❌ [Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/) | 46.3% | <span style="color: red;">Hard</span> |
