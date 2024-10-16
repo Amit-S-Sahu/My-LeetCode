@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 108/3312
+### Solved: 109/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1410,7 +1410,7 @@
 | 1402 | ❌ [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | 76.3% | <span style="color: red;">Hard</span> |
 | 1403 | ❌ [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/description/) | 72.8% | <span style="color: green;">Easy</span> |
 | 1404 | ❌ [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/) | 61.5% | <span style="color: orange;">Medium</span> |
-| 1405 | ❌ [Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/) | 57.5% | <span style="color: orange;">Medium</span> |
+| 1405 | ✔️ [Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/) | 57.5% | <span style="color: orange;">Medium</span> |
 | 1406 | ❌ [Stone Game III](https://leetcode.com/problems/stone-game-iii/description/) | 63.6% | <span style="color: red;">Hard</span> |
 | 1407 | ❌ [Top Travellers](https://leetcode.com/problems/top-travellers/description/) | 57.4% | <span style="color: green;">Easy</span> |
 | 1408 | ❌ [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/) | 64.2% | <span style="color: green;">Easy</span> |
