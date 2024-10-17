@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 109/3312
+### Solved: 110/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -675,7 +675,7 @@
 | 667 | ❌ [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | 60.3% | <span style="color: orange;">Medium</span> |
 | 668 | ❌ [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/) | 52.2% | <span style="color: red;">Hard</span> |
 | 669 | ❌ [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | 66.3% | <span style="color: orange;">Medium</span> |
-| 670 | ❌ [Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) | 49.1% | <span style="color: orange;">Medium</span> |
+| 670 | ✔️ [Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) | 49.1% | <span style="color: orange;">Medium</span> |
 | 671 | ❌ [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | 44.8% | <span style="color: green;">Easy</span> |
 | 672 | ❌ [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | 50.1% | <span style="color: orange;">Medium</span> |
 | 673 | ❌ [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | 48.9% | <span style="color: orange;">Medium</span> |
