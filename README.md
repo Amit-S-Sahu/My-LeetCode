@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 110/3312
+### Solved: 111/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -2049,7 +2049,7 @@
 | 2041 | ❌ [Accepted Candidates From the Interviews](https://leetcode.com/problems/accepted-candidates-from-the-interviews/description/) | 78.4% | <span style="color: orange;">Medium</span> |
 | 2042 | ❌ [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/) | 70.3% | <span style="color: green;">Easy</span> |
 | 2043 | ❌ [Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/) | 63.7% | <span style="color: orange;">Medium</span> |
-| 2044 | ❌ [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) | 78.2% | <span style="color: orange;">Medium</span> |
+| 2044 | ✔️ [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) | 78.2% | <span style="color: orange;">Medium</span> |
 | 2045 | ❌ [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/) | 63.0% | <span style="color: red;">Hard</span> |
 | 2046 | ❌ [Sort Linked List Already Sorted Using Absolute Values](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/description/) | 67.0% | <span style="color: orange;">Medium</span> |
 | 2047 | ❌ [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/description/) | 29.4% | <span style="color: green;">Easy</span> |
