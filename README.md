@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 111/3312
+### Solved: 112/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1550,7 +1550,7 @@
 | 1542 | ❌ [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/description/) | 44.3% | <span style="color: red;">Hard</span> |
 | 1543 | ❌ [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format/description/) | 59.3% | <span style="color: green;">Easy</span> |
 | 1544 | ❌ [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | 68.3% | <span style="color: green;">Easy</span> |
-| 1545 | ❌ [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) | 59.2% | <span style="color: orange;">Medium</span> |
+| 1545 | ✔️ [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) | 59.2% | <span style="color: orange;">Medium</span> |
 | 1546 | ❌ [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/description/) | 48.0% | <span style="color: orange;">Medium</span> |
 | 1547 | ❌ [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/) | 61.7% | <span style="color: red;">Hard</span> |
 | 1548 | ❌ [The Most Similar Path in a Graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph/description/) | 59.2% | <span style="color: red;">Hard</span> |
