@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 112/3312
+### Solved: 113/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1111,7 +1111,7 @@
 | 1103 | ❌ [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/description/) | 65.7% | <span style="color: green;">Easy</span> |
 | 1104 | ❌ [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/) | 75.5% | <span style="color: orange;">Medium</span> |
 | 1105 | ❌ [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) | 68.8% | <span style="color: orange;">Medium</span> |
-| 1106 | ❌ [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) | 60.0% | <span style="color: red;">Hard</span> |
+| 1106 | ✔️ [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) | 60.0% | <span style="color: red;">Hard</span> |
 | 1107 | ❌ [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/description/) | 44.6% | <span style="color: orange;">Medium</span> |
 | 1108 | ❌ [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) | 89.4% | <span style="color: green;">Easy</span> |
 | 1109 | ❌ [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/) | 62.7% | <span style="color: orange;">Medium</span> |
