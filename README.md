@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 118/3312
+### Solved: 119/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -61,7 +61,7 @@
 | 53 | ✔️ [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 51.3% | <span style="color: orange;">Medium</span> |
 | 54 | ❌ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 51.5% | <span style="color: orange;">Medium</span> |
 | 55 | ❌ [Jump Game](https://leetcode.com/problems/jump-game/description/) | 38.8% | <span style="color: orange;">Medium</span> |
-| 56 | ❌ [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | 48.0% | <span style="color: orange;">Medium</span> |
+| 56 | ✔️ [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | 48.0% | <span style="color: orange;">Medium</span> |
 | 57 | ❌ [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | 42.3% | <span style="color: orange;">Medium</span> |
 | 58 | ✔️ [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | 53.9% | <span style="color: green;">Easy</span> |
 | 59 | ❌ [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | 72.2% | <span style="color: orange;">Medium</span> |
