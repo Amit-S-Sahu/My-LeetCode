@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 116/3312
+### Solved: 117/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -292,7 +292,7 @@
 | 284 | ❌ [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) | 59.9% | <span style="color: orange;">Medium</span> |
 | 285 | ❌ [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) | 50.2% | <span style="color: orange;">Medium</span> |
 | 286 | ❌ [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | 62.0% | <span style="color: orange;">Medium</span> |
-| 287 | ❌ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 61.7% | <span style="color: orange;">Medium</span> |
+| 287 | ✔️ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 61.7% | <span style="color: orange;">Medium</span> |
 | 288 | ❌ [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) | 26.6% | <span style="color: orange;">Medium</span> |
 | 289 | ❌ [Game of Life](https://leetcode.com/problems/game-of-life/description/) | 70.2% | <span style="color: orange;">Medium</span> |
 | 290 | ❌ [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | 42.5% | <span style="color: green;">Easy</span> |
