@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 117/3312
+### Solved: 118/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -239,7 +239,7 @@
 | 231 | ❌ [Power of Two](https://leetcode.com/problems/power-of-two/description/) | 48.0% | <span style="color: green;">Easy</span> |
 | 232 | ❌ [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | 67.1% | <span style="color: green;">Easy</span> |
 | 233 | ❌ [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) | 35.0% | <span style="color: red;">Hard</span> |
-| 234 | ❌ [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | 54.3% | <span style="color: green;">Easy</span> |
+| 234 | ✔️ [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | 54.3% | <span style="color: green;">Easy</span> |
 | 235 | ❌ [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | 66.2% | <span style="color: orange;">Medium</span> |
 | 236 | ❌ [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | 64.0% | <span style="color: orange;">Medium</span> |
 | 237 | ✔️ [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | 80.9% | <span style="color: orange;">Medium</span> |
