@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 113/3312
+### Solved: 114/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1598,7 +1598,7 @@
 | 1590 | ✔️ [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/) | 39.7% | <span style="color: orange;">Medium</span> |
 | 1591 | ❌ [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/description/) | 59.7% | <span style="color: red;">Hard</span> |
 | 1592 | ❌ [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/description/) | 43.4% | <span style="color: green;">Easy</span> |
-| 1593 | ❌ [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/) | 57.0% | <span style="color: orange;">Medium</span> |
+| 1593 | ✔️ [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/) | 57.0% | <span style="color: orange;">Medium</span> |
 | 1594 | ❌ [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/) | 34.1% | <span style="color: orange;">Medium</span> |
 | 1595 | ❌ [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/) | 48.6% | <span style="color: red;">Hard</span> |
 | 1596 | ❌ [The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/description/) | 78.3% | <span style="color: orange;">Medium</span> |
