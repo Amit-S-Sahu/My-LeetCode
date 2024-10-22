@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 133/3312
+### Solved: 134/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -233,7 +233,7 @@
 | 225 | ❌ [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | 65.4% | <span style="color: green;">Easy</span> |
 | 226 | ❌ [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | 77.9% | <span style="color: green;">Easy</span> |
 | 227 | ❌ [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | 44.3% | <span style="color: orange;">Medium</span> |
-| 228 | ❌ [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | 51.7% | <span style="color: green;">Easy</span> |
+| 228 | ✔️ [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | 51.7% | <span style="color: green;">Easy</span> |
 | 229 | ❌ [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 52.8% | <span style="color: orange;">Medium</span> |
 | 230 | ❌ [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | 73.8% | <span style="color: orange;">Medium</span> |
 | 231 | ❌ [Power of Two](https://leetcode.com/problems/power-of-two/description/) | 48.0% | <span style="color: green;">Easy</span> |
