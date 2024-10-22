@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 120/3312
+### Solved: 121/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -2588,7 +2588,7 @@
 | 2580 | ❌ [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/description/) | 36.7% | <span style="color: orange;">Medium</span> |
 | 2581 | ❌ [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/description/) | 46.5% | <span style="color: red;">Hard</span> |
 | 2582 | ❌ [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/) | 56.9% | <span style="color: green;">Easy</span> |
-| 2583 | ❌ [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | 47.9% | <span style="color: orange;">Medium</span> |
+| 2583 | ✔️ [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | 47.9% | <span style="color: orange;">Medium</span> |
 | 2584 | ❌ [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/description/) | 23.3% | <span style="color: red;">Hard</span> |
 | 2585 | ❌ [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/description/) | 57.8% | <span style="color: red;">Hard</span> |
 | 2586 | ❌ [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/) | 74.4% | <span style="color: green;">Easy</span> |
