@@ -9,7 +9,6 @@ class Solution {
             if (i < n) ans.append(word1.charAt(i++));
             if (j < m) ans.append(word2.charAt(j++));
         }
-
         return ans.toString();
     }
 }
