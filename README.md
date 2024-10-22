@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 126/3312
+### Solved: 127/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -80,7 +80,7 @@
 | 72 | ❌ [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | 57.4% | <span style="color: orange;">Medium</span> |
 | 73 | ❌ [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | 57.6% | <span style="color: orange;">Medium</span> |
 | 74 | ❌ [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | 51.1% | <span style="color: orange;">Medium</span> |
-| 75 | ❌ [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 65.2% | <span style="color: orange;">Medium</span> |
+| 75 | ✔️ [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 65.2% | <span style="color: orange;">Medium</span> |
 | 76 | ❌ [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | 43.8% | <span style="color: red;">Hard</span> |
 | 77 | ❌ [Combinations](https://leetcode.com/problems/combinations/description/) | 71.4% | <span style="color: orange;">Medium</span> |
 | 78 | ❌ [Subsets](https://leetcode.com/problems/subsets/description/) | 79.3% | <span style="color: orange;">Medium</span> |
