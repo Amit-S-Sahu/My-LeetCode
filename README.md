@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 125/3312
+### Solved: 126/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1688,7 +1688,7 @@
 | 1680 | ❌ [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/) | 57.2% | <span style="color: orange;">Medium</span> |
 | 1681 | ❌ [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/description/) | 39.3% | <span style="color: red;">Hard</span> |
 | 1682 | ❌ [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/) | 50.2% | <span style="color: orange;">Medium</span> |
-| 1683 | ❌ [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | 85.5% | <span style="color: green;">Easy</span> |
+| 1683 | ✔️ [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | 85.5% | <span style="color: green;">Easy</span> |
 | 1684 | ❌ [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/) | 88.1% | <span style="color: green;">Easy</span> |
 | 1685 | ❌ [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/) | 68.3% | <span style="color: orange;">Medium</span> |
 | 1686 | ❌ [Stone Game VI](https://leetcode.com/problems/stone-game-vi/description/) | 57.9% | <span style="color: orange;">Medium</span> |
