@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 132/3312
+### Solved: 133/3312
 
-[░░░░░░░░░░░░░░░░░░░░] 3%
+[░░░░░░░░░░░░░░░░░░░░] 4%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -19,7 +19,7 @@
 | 11 | ✔️ [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | 56.3% | <span style="color: orange;">Medium</span> |
 | 12 | ❌ [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | 66.5% | <span style="color: orange;">Medium</span> |
 | 13 | ✔️ [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | 62.8% | <span style="color: green;">Easy</span> |
-| 14 | ❌ [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | 43.9% | <span style="color: green;">Easy</span> |
+| 14 | ✔️ [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | 43.9% | <span style="color: green;">Easy</span> |
 | 15 | ✔️ [3Sum](https://leetcode.com/problems/3sum/description/) | 35.5% | <span style="color: orange;">Medium</span> |
 | 16 | ❌ [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | 46.1% | <span style="color: orange;">Medium</span> |
 | 17 | ❌ [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 61.9% | <span style="color: orange;">Medium</span> |
