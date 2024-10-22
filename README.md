@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 129/3312
+### Solved: 130/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -2154,7 +2154,7 @@
 | 2146 | ❌ [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/) | 43.5% | <span style="color: orange;">Medium</span> |
 | 2147 | ❌ [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/) | 49.3% | <span style="color: red;">Hard</span> |
 | 2148 | ❌ [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/description/) | 59.5% | <span style="color: green;">Easy</span> |
-| 2149 | ❌ [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | 84.1% | <span style="color: orange;">Medium</span> |
+| 2149 | ✔️ [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | 84.1% | <span style="color: orange;">Medium</span> |
 | 2150 | ❌ [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/description/) | 60.9% | <span style="color: orange;">Medium</span> |
 | 2151 | ❌ [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/description/) | 50.7% | <span style="color: red;">Hard</span> |
 | 2152 | ❌ [Minimum Number of Lines to Cover Points](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/description/) | 43.2% | <span style="color: orange;">Medium</span> |
