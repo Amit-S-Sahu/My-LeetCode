@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 134/3312
+### Solved: 135/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -59,7 +59,7 @@
 | 51 | ❌ [N-Queens](https://leetcode.com/problems/n-queens/description/) | 70.2% | <span style="color: red;">Hard</span> |
 | 52 | ❌ [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | 75.1% | <span style="color: red;">Hard</span> |
 | 53 | ✔️ [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 51.3% | <span style="color: orange;">Medium</span> |
-| 54 | ❌ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 51.5% | <span style="color: orange;">Medium</span> |
+| 54 | ✔️ [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | 51.5% | <span style="color: orange;">Medium</span> |
 | 55 | ❌ [Jump Game](https://leetcode.com/problems/jump-game/description/) | 38.8% | <span style="color: orange;">Medium</span> |
 | 56 | ✔️ [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | 48.0% | <span style="color: orange;">Medium</span> |
 | 57 | ✔️ [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | 42.3% | <span style="color: orange;">Medium</span> |
