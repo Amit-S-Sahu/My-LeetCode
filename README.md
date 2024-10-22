@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 127/3312
+### Solved: 128/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -174,7 +174,7 @@
 | 166 | ❌ [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) | 25.4% | <span style="color: orange;">Medium</span> |
 | 167 | ❌ [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted/description/) | 62.2% | <span style="color: orange;">Medium</span> |
 | 168 | ❌ [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | 41.8% | <span style="color: green;">Easy</span> |
-| 169 | ❌ [Majority Element](https://leetcode.com/problems/majority-element/description/) | 65.3% | <span style="color: green;">Easy</span> |
+| 169 | ✔️ [Majority Element](https://leetcode.com/problems/majority-element/description/) | 65.3% | <span style="color: green;">Easy</span> |
 | 170 | ❌ [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii---data-structure-design/description/) | 38.3% | <span style="color: green;">Easy</span> |
 | 171 | ❌ [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | 64.6% | <span style="color: green;">Easy</span> |
 | 172 | ❌ [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | 43.9% | <span style="color: orange;">Medium</span> |
