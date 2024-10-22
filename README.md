@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 121/3312
+### Solved: 122/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1762,7 +1762,7 @@
 | 1754 | ❌ [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/description/) | 49.0% | <span style="color: orange;">Medium</span> |
 | 1755 | ❌ [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/description/) | 40.2% | <span style="color: red;">Hard</span> |
 | 1756 | ❌ [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) | 75.8% | <span style="color: orange;">Medium</span> |
-| 1757 | ❌ [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | 89.3% | <span style="color: green;">Easy</span> |
+| 1757 | ✔️ [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | 89.3% | <span style="color: green;">Easy</span> |
 | 1758 | ❌ [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) | 63.8% | <span style="color: green;">Easy</span> |
 | 1759 | ❌ [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/) | 57.6% | <span style="color: orange;">Medium</span> |
 | 1760 | ❌ [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/) | 60.4% | <span style="color: orange;">Medium</span> |
