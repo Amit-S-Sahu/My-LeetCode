@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 122/3312
+### Solved: 123/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -589,7 +589,7 @@
 | 581 | ❌ [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | 37.1% | <span style="color: orange;">Medium</span> |
 | 582 | ❌ [Kill Process](https://leetcode.com/problems/kill-process/description/) | 69.7% | <span style="color: orange;">Medium</span> |
 | 583 | ❌ [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | 62.7% | <span style="color: orange;">Medium</span> |
-| 584 | ❌ [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | 71.0% | <span style="color: green;">Easy</span> |
+| 584 | ✔️ [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | 71.0% | <span style="color: green;">Easy</span> |
 | 585 | ❌ [Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/) | 49.0% | <span style="color: orange;">Medium</span> |
 | 586 | ❌ [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | 64.6% | <span style="color: green;">Easy</span> |
 | 587 | ❌ [Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/) | 52.0% | <span style="color: red;">Hard</span> |
