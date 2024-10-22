@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 130/3312
+### Solved: 131/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -2244,7 +2244,7 @@
 | 2236 | ❌ [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/) | 84.7% | <span style="color: green;">Easy</span> |
 | 2237 | ❌ [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/description/) | 61.5% | <span style="color: orange;">Medium</span> |
 | 2238 | ❌ [Number of Times a Driver Was a Passenger](https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger/description/) | 71.5% | <span style="color: orange;">Medium</span> |
-| 2239 | ❌ [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/) | 46.5% | <span style="color: green;">Easy</span> |
+| 2239 | ✔️ [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/) | 46.5% | <span style="color: green;">Easy</span> |
 | 2240 | ❌ [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/description/) | 57.4% | <span style="color: orange;">Medium</span> |
 | 2241 | ❌ [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/description/) | 42.6% | <span style="color: orange;">Medium</span> |
 | 2242 | ❌ [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/description/) | 38.9% | <span style="color: red;">Hard</span> |
