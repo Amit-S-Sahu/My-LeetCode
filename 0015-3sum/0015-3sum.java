@@ -24,14 +24,11 @@ class Solution {
                     
                     left++;
                     right--;
-                } else if (sum < target) {
-                    left++;
-                } else {
-                    right--;
-                }
+                } 
+                else if (sum < target) left++;
+                else right--;
             }
         }
-        
         return ans;
     }
 }
