@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 123/3312
+### Solved: 124/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -600,7 +600,7 @@
 | 592 | ❌ [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) | 66.1% | <span style="color: orange;">Medium</span> |
 | 593 | ❌ [Valid Square](https://leetcode.com/problems/valid-square/description/) | 44.2% | <span style="color: orange;">Medium</span> |
 | 594 | ❌ [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | 55.5% | <span style="color: green;">Easy</span> |
-| 595 | ❌ [Big Countries](https://leetcode.com/problems/big-countries/description/) | 68.1% | <span style="color: green;">Easy</span> |
+| 595 | ✔️ [Big Countries](https://leetcode.com/problems/big-countries/description/) | 68.1% | <span style="color: green;">Easy</span> |
 | 596 | ❌ [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) | 57.6% | <span style="color: green;">Easy</span> |
 | 597 | ❌ [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i:-overall-acceptance-rate/description/) | 41.7% | <span style="color: green;">Easy</span> |
 | 598 | ❌ [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | 56.5% | <span style="color: green;">Easy</span> |
