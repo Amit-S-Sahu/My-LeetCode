@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 124/3312
+### Solved: 125/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 3%
 
@@ -1153,7 +1153,7 @@
 | 1145 | ❌ [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/) | 52.3% | <span style="color: orange;">Medium</span> |
 | 1146 | ❌ [Snapshot Array](https://leetcode.com/problems/snapshot-array/description/) | 36.8% | <span style="color: orange;">Medium</span> |
 | 1147 | ❌ [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) | 58.8% | <span style="color: red;">Hard</span> |
-| 1148 | ❌ [Article Views I](https://leetcode.com/problems/article-views-i/description/) | 76.6% | <span style="color: green;">Easy</span> |
+| 1148 | ✔️ [Article Views I](https://leetcode.com/problems/article-views-i/description/) | 76.6% | <span style="color: green;">Easy</span> |
 | 1149 | ❌ [Article Views II](https://leetcode.com/problems/article-views-ii/description/) | 47.0% | <span style="color: orange;">Medium</span> |
 | 1150 | ❌ [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/description/) | 59.0% | <span style="color: green;">Easy</span> |
 | 1151 | ❌ [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1's-together/description/) | 60.3% | <span style="color: orange;">Medium</span> |
