@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 139/3312
+### Solved: 140/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -1194,7 +1194,7 @@
 | 1186 | ❌ [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) | 44.3% | <span style="color: orange;">Medium</span> |
 | 1187 | ❌ [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/) | 58.1% | <span style="color: red;">Hard</span> |
 | 1188 | ❌ [Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/description/) | 72.5% | <span style="color: orange;">Medium</span> |
-| 1189 | ❌ [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | 59.7% | <span style="color: green;">Easy</span> |
+| 1189 | ✔️ [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | 59.7% | <span style="color: green;">Easy</span> |
 | 1190 | ❌ [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) | 71.8% | <span style="color: orange;">Medium</span> |
 | 1191 | ❌ [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/description/) | 24.0% | <span style="color: orange;">Medium</span> |
 | 1192 | ❌ [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) | 56.6% | <span style="color: red;">Hard</span> |
