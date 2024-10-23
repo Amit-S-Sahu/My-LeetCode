@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 135/3312
+### Solved: 136/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -2646,7 +2646,7 @@
 | 2638 | ❌ [Count the Number of K-Free Subsets](https://leetcode.com/problems/count-the-number-of-k-free-subsets/description/) | 46.8% | <span style="color: orange;">Medium</span> |
 | 2639 | ❌ [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/description/) | 68.1% | <span style="color: green;">Easy</span> |
 | 2640 | ❌ [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/description/) | 71.1% | <span style="color: orange;">Medium</span> |
-| 2641 | ❌ [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/) | 67.4% | <span style="color: orange;">Medium</span> |
+| 2641 | ✔️ [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/) | 67.4% | <span style="color: orange;">Medium</span> |
 | 2642 | ❌ [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/) | 70.6% | <span style="color: red;">Hard</span> |
 | 2643 | ❌ [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/description/) | 75.5% | <span style="color: green;">Easy</span> |
 | 2644 | ❌ [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/description/) | 49.7% | <span style="color: green;">Easy</span> |
