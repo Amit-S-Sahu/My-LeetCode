@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 138/3312
+### Solved: 139/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -222,7 +222,7 @@
 | 214 | ✔️ [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) | 39.8% | <span style="color: red;">Hard</span> |
 | 215 | ❌ [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | 67.2% | <span style="color: orange;">Medium</span> |
 | 216 | ❌ [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | 70.6% | <span style="color: orange;">Medium</span> |
-| 217 | ❌ [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 62.3% | <span style="color: green;">Easy</span> |
+| 217 | ✔️ [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 62.3% | <span style="color: green;">Easy</span> |
 | 218 | ❌ [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | 43.1% | <span style="color: red;">Hard</span> |
 | 219 | ❌ [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | 46.6% | <span style="color: green;">Easy</span> |
 | 220 | ❌ [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | 23.0% | <span style="color: red;">Hard</span> |
