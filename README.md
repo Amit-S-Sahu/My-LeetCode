@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 140/3312
+### Solved: 141/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -956,7 +956,7 @@
 | 948 | ❌ [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/) | 59.0% | <span style="color: orange;">Medium</span> |
 | 949 | ❌ [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/) | 35.5% | <span style="color: orange;">Medium</span> |
 | 950 | ❌ [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) | 83.0% | <span style="color: orange;">Medium</span> |
-| 951 | ❌ [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | 67.1% | <span style="color: orange;">Medium</span> |
+| 951 | ✔️ [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | 67.1% | <span style="color: orange;">Medium</span> |
 | 952 | ❌ [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/description/) | 41.0% | <span style="color: red;">Hard</span> |
 | 953 | ❌ [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) | 55.2% | <span style="color: green;">Easy</span> |
 | 954 | ❌ [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/) | 39.2% | <span style="color: orange;">Medium</span> |
