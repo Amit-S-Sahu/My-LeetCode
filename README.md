@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 141/3312
+### Solved: 142/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -1238,7 +1238,7 @@
 | 1230 | ❌ [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/description/) | 58.2% | <span style="color: orange;">Medium</span> |
 | 1231 | ❌ [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/description/) | 59.0% | <span style="color: red;">Hard</span> |
 | 1232 | ❌ [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/) | 39.5% | <span style="color: green;">Easy</span> |
-| 1233 | ❌ [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) | 66.1% | <span style="color: orange;">Medium</span> |
+| 1233 | ✔️ [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) | 66.1% | <span style="color: orange;">Medium</span> |
 | 1234 | ❌ [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/) | 38.6% | <span style="color: orange;">Medium</span> |
 | 1235 | ❌ [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | 54.3% | <span style="color: red;">Hard</span> |
 | 1236 | ❌ [Web Crawler](https://leetcode.com/problems/web-crawler/description/) | 68.0% | <span style="color: orange;">Medium</span> |
