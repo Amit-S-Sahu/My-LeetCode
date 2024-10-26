@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 142/3312
+### Solved: 143/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -2463,7 +2463,7 @@
 | 2455 | ❌ [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/) | 60.8% | <span style="color: green;">Easy</span> |
 | 2456 | ❌ [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/description/) | 44.1% | <span style="color: orange;">Medium</span> |
 | 2457 | ❌ [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/description/) | 37.8% | <span style="color: orange;">Medium</span> |
-| 2458 | ❌ [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/) | 41.2% | <span style="color: red;">Hard</span> |
+| 2458 | ✔️ [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/) | 41.2% | <span style="color: red;">Hard</span> |
 | 2459 | ❌ [Sort Array by Moving Items to Empty Space](https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/description/) | 45.6% | <span style="color: red;">Hard</span> |
 | 2460 | ❌ [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | 68.1% | <span style="color: green;">Easy</span> |
 | 2461 | ❌ [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) | 34.3% | <span style="color: orange;">Medium</span> |
