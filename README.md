@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 143/3312
+### Solved: 144/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -1282,7 +1282,7 @@
 | 1274 | ❌ [Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/) | 68.7% | <span style="color: red;">Hard</span> |
 | 1275 | ❌ [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/) | 54.0% | <span style="color: green;">Easy</span> |
 | 1276 | ❌ [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/) | 51.3% | <span style="color: orange;">Medium</span> |
-| 1277 | ❌ [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) | 75.6% | <span style="color: orange;">Medium</span> |
+| 1277 | ✔️ [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) | 75.6% | <span style="color: orange;">Medium</span> |
 | 1278 | ❌ [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/description/) | 61.2% | <span style="color: red;">Hard</span> |
 | 1279 | ❌ [Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection/description/) | 72.7% | <span style="color: green;">Easy</span> |
 | 1280 | ❌ [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) | 59.1% | <span style="color: green;">Easy</span> |
