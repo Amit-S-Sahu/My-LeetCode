@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 144/3312
+### Solved: 145/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -2506,7 +2506,7 @@
 | 2498 | ❌ [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/description/) | 61.9% | <span style="color: orange;">Medium</span> |
 | 2499 | ❌ [Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/description/) | 43.0% | <span style="color: red;">Hard</span> |
 | 2500 | ❌ [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/) | 78.6% | <span style="color: green;">Easy</span> |
-| 2501 | ❌ [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/) | 40.2% | <span style="color: orange;">Medium</span> |
+| 2501 | ✔️ [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/) | 40.2% | <span style="color: orange;">Medium</span> |
 | 2502 | ❌ [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/description/) | 53.3% | <span style="color: orange;">Medium</span> |
 | 2503 | ❌ [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/) | 38.1% | <span style="color: red;">Hard</span> |
 | 2504 | ❌ [Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession/description/) | 76.7% | <span style="color: green;">Easy</span> |
