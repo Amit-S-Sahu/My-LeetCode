@@ -3,8 +3,8 @@ class Solution {
         int n = nums.length;
         if (n < 3) return 0;
 
-        int[] inc = new int[n];
-        int[] dec = new int[n];
+        int inc[] = new int[n];
+        int dec[] = new int[n];
 
         for (int i = 0; i < n; i++) {
             inc[i] = 1;
