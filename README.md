@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 146/3312
+### Solved: 147/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -946,7 +946,7 @@
 | 938 | ❌ [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | 87.1% | <span style="color: green;">Easy</span> |
 | 939 | ❌ [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) | 54.3% | <span style="color: orange;">Medium</span> |
 | 940 | ❌ [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) | 43.3% | <span style="color: red;">Hard</span> |
-| 941 | ❌ [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 33.6% | <span style="color: green;">Easy</span> |
+| 941 | ✔️ [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 33.6% | <span style="color: green;">Easy</span> |
 | 942 | ❌ [DI String Match](https://leetcode.com/problems/di-string-match/description/) | 79.3% | <span style="color: green;">Easy</span> |
 | 943 | ❌ [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) | 44.2% | <span style="color: red;">Hard</span> |
 | 944 | ❌ [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) | 74.7% | <span style="color: green;">Easy</span> |
