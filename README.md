@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 147/3312
+### Solved: 148/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -1676,7 +1676,7 @@
 | 1668 | ❌ [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/) | 39.0% | <span style="color: green;">Easy</span> |
 | 1669 | ❌ [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/) | 81.8% | <span style="color: orange;">Medium</span> |
 | 1670 | ❌ [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/) | 56.8% | <span style="color: orange;">Medium</span> |
-| 1671 | ❌ [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/) | 42.2% | <span style="color: red;">Hard</span> |
+| 1671 | ✔️ [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/) | 42.2% | <span style="color: red;">Hard</span> |
 | 1672 | ✔️ [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | 88.3% | <span style="color: green;">Easy</span> |
 | 1673 | ❌ [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/description/) | 50.9% | <span style="color: orange;">Medium</span> |
 | 1674 | ❌ [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/) | 40.5% | <span style="color: orange;">Medium</span> |
