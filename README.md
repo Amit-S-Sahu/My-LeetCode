@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 148/3312
+### Solved: 149/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -2468,7 +2468,7 @@
 | 2460 | ❌ [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/) | 68.1% | <span style="color: green;">Easy</span> |
 | 2461 | ❌ [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) | 34.3% | <span style="color: orange;">Medium</span> |
 | 2462 | ❌ [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/) | 42.8% | <span style="color: orange;">Medium</span> |
-| 2463 | ❌ [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/description/) | 41.0% | <span style="color: red;">Hard</span> |
+| 2463 | ✔️ [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/description/) | 41.0% | <span style="color: red;">Hard</span> |
 | 2464 | ❌ [Minimum Subarrays in a Valid Split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/) | 54.3% | <span style="color: orange;">Medium</span> |
 | 2465 | ❌ [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/) | 58.3% | <span style="color: green;">Easy</span> |
 | 2466 | ❌ [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) | 54.4% | <span style="color: orange;">Medium</span> |
