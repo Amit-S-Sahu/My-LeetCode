@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 149/3312
+### Solved: 150/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -1962,7 +1962,7 @@
 | 1954 | ❌ [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/description/) | 54.7% | <span style="color: orange;">Medium</span> |
 | 1955 | ❌ [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/description/) | 51.5% | <span style="color: red;">Hard</span> |
 | 1956 | ❌ [Minimum Time For K Virus Variants to Spread](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/description/) | 48.0% | <span style="color: red;">Hard</span> |
-| 1957 | ❌ [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | 58.9% | <span style="color: green;">Easy</span> |
+| 1957 | ✔️ [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | 58.9% | <span style="color: green;">Easy</span> |
 | 1958 | ❌ [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/description/) | 49.1% | <span style="color: orange;">Medium</span> |
 | 1959 | ❌ [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/description/) | 43.2% | <span style="color: orange;">Medium</span> |
 | 1960 | ❌ [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/description/) | 31.3% | <span style="color: red;">Hard</span> |
