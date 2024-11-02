@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 150/3312
+### Solved: 151/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -2495,7 +2495,7 @@
 | 2487 | ❌ [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/description/) | 74.4% | <span style="color: orange;">Medium</span> |
 | 2488 | ❌ [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/description/) | 44.4% | <span style="color: red;">Hard</span> |
 | 2489 | ❌ [Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/) | 57.0% | <span style="color: orange;">Medium</span> |
-| 2490 | ❌ [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/) | 63.0% | <span style="color: green;">Easy</span> |
+| 2490 | ✔️ [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/) | 63.0% | <span style="color: green;">Easy</span> |
 | 2491 | ✔️ [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/) | 69.1% | <span style="color: orange;">Medium</span> |
 | 2492 | ❌ [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/) | 57.5% | <span style="color: orange;">Medium</span> |
 | 2493 | ❌ [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/) | 39.9% | <span style="color: red;">Hard</span> |
