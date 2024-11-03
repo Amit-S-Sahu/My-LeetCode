@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 155/3312
+### Solved: 156/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -155,7 +155,7 @@
 | 147 | ❌ [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | 54.7% | <span style="color: orange;">Medium</span> |
 | 148 | ✔️ [Sort List](https://leetcode.com/problems/sort-list/description/) | 59.7% | <span style="color: orange;">Medium</span> |
 | 149 | ❌ [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | 27.6% | <span style="color: red;">Hard</span> |
-| 150 | ❌ [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | 52.9% | <span style="color: orange;">Medium</span> |
+| 150 | ✔️ [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | 52.9% | <span style="color: orange;">Medium</span> |
 | 151 | ✔️ [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 152 | ❌ [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | 34.0% | <span style="color: orange;">Medium</span> |
 | 153 | ❌ [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | 51.4% | <span style="color: orange;">Medium</span> |
