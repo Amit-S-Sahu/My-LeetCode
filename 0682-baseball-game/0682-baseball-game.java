@@ -5,23 +5,22 @@ class Solution {
 
         for (String input : operations) {
             switch (input) {
-                case "C":
-                    i--;
-                    break;
-                case "D":
+                case "C" -> i--;
+                case "D" -> {
                     arr[i] = arr[i - 1] * 2;
                     i++;
-                    break;
-                case "+":
+                }
+                case "+" -> {
                     arr[i] = arr[i - 1] + arr[i - 2];
                     i++;
-                    break;
-                default:
+                }
+                default -> {
                     arr[i] = Integer.parseInt(input);
                     i++;
-                    break;
+                }
             }
         }
+        
         int sum = 0;
         for (int j = 0; j < i; j++) sum += arr[j];
 
