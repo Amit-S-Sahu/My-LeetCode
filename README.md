@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 153/3312
+### Solved: 154/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -47,7 +47,7 @@
 | 39 | ❌ [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | 72.9% | <span style="color: orange;">Medium</span> |
 | 40 | ❌ [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | 56.5% | <span style="color: orange;">Medium</span> |
 | 41 | ❌ [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | 40.0% | <span style="color: red;">Hard</span> |
-| 42 | ❌ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | 63.2% | <span style="color: red;">Hard</span> |
+| 42 | ✔️ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | 63.2% | <span style="color: red;">Hard</span> |
 | 43 | ❌ [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | 41.1% | <span style="color: orange;">Medium</span> |
 | 44 | ❌ [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | 28.7% | <span style="color: red;">Hard</span> |
 | 45 | ❌ [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | 40.8% | <span style="color: orange;">Medium</span> |
