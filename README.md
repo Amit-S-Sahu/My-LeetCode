@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 151/3312
+### Solved: 152/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -801,7 +801,7 @@
 | 793 | ❌ [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | 45.2% | <span style="color: red;">Hard</span> |
 | 794 | ❌ [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | 34.7% | <span style="color: orange;">Medium</span> |
 | 795 | ❌ [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | 53.4% | <span style="color: orange;">Medium</span> |
-| 796 | ❌ [Rotate String](https://leetcode.com/problems/rotate-string/description/) | 59.5% | <span style="color: green;">Easy</span> |
+| 796 | ✔️ [Rotate String](https://leetcode.com/problems/rotate-string/description/) | 59.5% | <span style="color: green;">Easy</span> |
 | 797 | ❌ [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | 82.7% | <span style="color: orange;">Medium</span> |
 | 798 | ❌ [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) | 51.5% | <span style="color: red;">Hard</span> |
 | 799 | ❌ [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | 58.3% | <span style="color: orange;">Medium</span> |
