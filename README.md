@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 152/3312
+### Solved: 153/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -133,7 +133,7 @@
 | 125 | ✔️ [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | 48.9% | <span style="color: green;">Easy</span> |
 | 126 | ❌ [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | 27.1% | <span style="color: red;">Hard</span> |
 | 127 | ❌ [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | 40.5% | <span style="color: red;">Hard</span> |
-| 128 | ❌ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | 47.5% | <span style="color: orange;">Medium</span> |
+| 128 | ✔️ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | 47.5% | <span style="color: orange;">Medium</span> |
 | 129 | ❌ [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | 66.8% | <span style="color: orange;">Medium</span> |
 | 130 | ❌ [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | 40.9% | <span style="color: orange;">Medium</span> |
 | 131 | ❌ [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | 70.4% | <span style="color: orange;">Medium</span> |
