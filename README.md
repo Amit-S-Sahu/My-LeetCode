@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 156/3312
+### Solved: 157/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -3168,7 +3168,7 @@
 | 3160 | ❌ [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/) | 41.3% | <span style="color: orange;">Medium</span> |
 | 3161 | ❌ [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/description/) | 14.3% | <span style="color: red;">Hard</span> |
 | 3162 | ❌ [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/description/) | 86.8% | <span style="color: green;">Easy</span> |
-| 3163 | ❌ [String Compression III](https://leetcode.com/problems/string-compression-iii/description/) | 56.0% | <span style="color: orange;">Medium</span> |
+| 3163 | ✔️ [String Compression III](https://leetcode.com/problems/string-compression-iii/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 3164 | ❌ [Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/) | 25.8% | <span style="color: orange;">Medium</span> |
 | 3165 | ❌ [Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/) | 17.0% | <span style="color: red;">Hard</span> |
 | 3166 | ❌ [Calculate Parking Fees and Duration](https://leetcode.com/problems/calculate-parking-fees-and-duration/description/) | 52.4% | <span style="color: orange;">Medium</span> |
