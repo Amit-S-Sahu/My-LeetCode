@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 157/3312
+### Solved: 158/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -11,7 +11,7 @@
 | 3 | ✔️ [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | 35.5% | <span style="color: orange;">Medium</span> |
 | 4 | ✔️ [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | 41.6% | <span style="color: red;">Hard</span> |
 | 5 | ✔️ [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | 34.5% | <span style="color: orange;">Medium</span> |
-| 6 | ❌ [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | 49.4% | <span style="color: orange;">Medium</span> |
+| 6 | ✔️ [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | 49.4% | <span style="color: orange;">Medium</span> |
 | 7 | ✔️ [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | 29.2% | <span style="color: orange;">Medium</span> |
 | 8 | ❌ [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-(atoi)/description/) | 18.0% | <span style="color: orange;">Medium</span> |
 | 9 | ✔️ [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | 57.6% | <span style="color: green;">Easy</span> |
