@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 158/3312
+### Solved: 159/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -2919,7 +2919,7 @@
 | 2911 | ❌ [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/) | 36.5% | <span style="color: red;">Hard</span> |
 | 2912 | ❌ [Number of Ways to Reach Destination in the Grid](https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description/) | 60.4% | <span style="color: red;">Hard</span> |
 | 2913 | ❌ [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/) | 82.9% | <span style="color: green;">Easy</span> |
-| 2914 | ❌ [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | 60.5% | <span style="color: orange;">Medium</span> |
+| 2914 | ✔️ [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | 60.5% | <span style="color: orange;">Medium</span> |
 | 2915 | ❌ [Length of the Longest Subsequence That Sums to Target](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/description/) | 36.5% | <span style="color: orange;">Medium</span> |
 | 2916 | ❌ [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/) | 21.5% | <span style="color: red;">Hard</span> |
 | 2917 | ❌ [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/description/) | 74.8% | <span style="color: green;">Easy</span> |
