@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 160/3312
+### Solved: 161/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -3016,7 +3016,7 @@
 | 3008 | ❌ [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/) | 25.0% | <span style="color: red;">Hard</span> |
 | 3009 | ❌ [Maximum Number of Intersections on the Chart](https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart/description/) | 45.6% | <span style="color: red;">Hard</span> |
 | 3010 | ❌ [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/) | 66.7% | <span style="color: green;">Easy</span> |
-| 3011 | ❌ [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/) | 51.7% | <span style="color: orange;">Medium</span> |
+| 3011 | ✔️ [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/) | 51.7% | <span style="color: orange;">Medium</span> |
 | 3012 | ❌ [Minimize Length of Array Using Operations](https://leetcode.com/problems/minimize-length-of-array-using-operations/description/) | 35.3% | <span style="color: orange;">Medium</span> |
 | 3013 | ❌ [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/) | 32.1% | <span style="color: red;">Hard</span> |
 | 3014 | ❌ [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/description/) | 66.6% | <span style="color: green;">Easy</span> |
