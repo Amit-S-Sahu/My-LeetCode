@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 161/3312
+### Solved: 162/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -1361,7 +1361,7 @@
 | 1353 | ❌ [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) | 32.5% | <span style="color: orange;">Medium</span> |
 | 1354 | ❌ [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/) | 36.2% | <span style="color: red;">Hard</span> |
 | 1355 | ❌ [Activity Participants](https://leetcode.com/problems/activity-participants/description/) | 72.3% | <span style="color: orange;">Medium</span> |
-| 1356 | ❌ [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/) | 78.4% | <span style="color: green;">Easy</span> |
+| 1356 | ✔️ [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/) | 78.4% | <span style="color: green;">Easy</span> |
 | 1357 | ❌ [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/description/) | 71.5% | <span style="color: orange;">Medium</span> |
 | 1358 | ❌ [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | 67.9% | <span style="color: orange;">Medium</span> |
 | 1359 | ❌ [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/description/) | 64.9% | <span style="color: red;">Hard</span> |
