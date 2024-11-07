@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 164/3312
+### Solved: 165/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -88,7 +88,7 @@
 | 80 | ❌ [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | 60.4% | <span style="color: orange;">Medium</span> |
 | 81 | ❌ [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | 38.2% | <span style="color: orange;">Medium</span> |
 | 82 | ❌ [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | 48.4% | <span style="color: orange;">Medium</span> |
-| 83 | ❌ [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | 53.5% | <span style="color: green;">Easy</span> |
+| 83 | ✔️ [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | 53.5% | <span style="color: green;">Easy</span> |
 | 84 | ❌ [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | 45.6% | <span style="color: red;">Hard</span> |
 | 85 | ❌ [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | 51.8% | <span style="color: red;">Hard</span> |
 | 86 | ❌ [Partition List](https://leetcode.com/problems/partition-list/description/) | 57.3% | <span style="color: orange;">Medium</span> |
