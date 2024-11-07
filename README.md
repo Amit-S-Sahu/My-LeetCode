@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 163/3312
+### Solved: 164/3312
 
 [░░░░░░░░░░░░░░░░░░░░] 4%
 
@@ -22,7 +22,7 @@
 | 14 | ✔️ [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | 43.9% | <span style="color: green;">Easy</span> |
 | 15 | ✔️ [3Sum](https://leetcode.com/problems/3sum/description/) | 35.5% | <span style="color: orange;">Medium</span> |
 | 16 | ❌ [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | 46.1% | <span style="color: orange;">Medium</span> |
-| 17 | ❌ [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 61.9% | <span style="color: orange;">Medium</span> |
+| 17 | ✔️ [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 61.9% | <span style="color: orange;">Medium</span> |
 | 18 | ❌ [4Sum](https://leetcode.com/problems/4sum/description/) | 36.8% | <span style="color: orange;">Medium</span> |
 | 19 | ✔️ [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 20 | ✔️ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 41.1% | <span style="color: green;">Easy</span> |
