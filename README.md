@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 165/3312
+### Solved: 166/3312
 
-[░░░░░░░░░░░░░░░░░░░░] 4%
+[█░░░░░░░░░░░░░░░░░░░] 5%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -1834,7 +1834,7 @@
 | 1826 | ❌ [Faulty Sensor](https://leetcode.com/problems/faulty-sensor/description/) | 50.6% | <span style="color: green;">Easy</span> |
 | 1827 | ❌ [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/description/) | 80.2% | <span style="color: green;">Easy</span> |
 | 1828 | ❌ [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/) | 86.4% | <span style="color: orange;">Medium</span> |
-| 1829 | ❌ [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/) | 77.0% | <span style="color: orange;">Medium</span> |
+| 1829 | ✔️ [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/) | 77.0% | <span style="color: orange;">Medium</span> |
 | 1830 | ❌ [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/description/) | 50.0% | <span style="color: red;">Hard</span> |
 | 1831 | ❌ [Maximum Transaction Each Day](https://leetcode.com/problems/maximum-transaction-each-day/description/) | 81.9% | <span style="color: orange;">Medium</span> |
 | 1832 | ❌ [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | 83.5% | <span style="color: green;">Easy</span> |
