@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 166/3312
+### Solved: 167/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -3138,7 +3138,7 @@
 | 3130 | ❌ [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/) | 28.6% | <span style="color: red;">Hard</span> |
 | 3131 | ❌ [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) | 82.4% | <span style="color: green;">Easy</span> |
 | 3132 | ❌ [Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/) | 31.4% | <span style="color: orange;">Medium</span> |
-| 3133 | ❌ [Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) | 38.2% | <span style="color: orange;">Medium</span> |
+| 3133 | ✔️ [Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) | 38.2% | <span style="color: orange;">Medium</span> |
 | 3134 | ❌ [Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/) | 28.9% | <span style="color: red;">Hard</span> |
 | 3135 | ❌ [Equalize Strings by Adding or Removing Characters at Ends](https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 3136 | ❌ [Valid Word](https://leetcode.com/problems/valid-word/description/) | 38.0% | <span style="color: green;">Easy</span> |
