@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 167/3312
+### Solved: 168/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -3102,7 +3102,7 @@
 | 3094 | ❌ [Guess the Number Using Bitwise Questions II](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/description/) | 82.0% | <span style="color: orange;">Medium</span> |
 | 3095 | ❌ [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/description/) | 41.4% | <span style="color: green;">Easy</span> |
 | 3096 | ❌ [Minimum Levels to Gain More Points](https://leetcode.com/problems/minimum-levels-to-gain-more-points/description/) | 40.8% | <span style="color: orange;">Medium</span> |
-| 3097 | ❌ [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/) | 30.6% | <span style="color: orange;">Medium</span> |
+| 3097 | ✔️ [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/) | 30.6% | <span style="color: orange;">Medium</span> |
 | 3098 | ❌ [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/) | 24.7% | <span style="color: red;">Hard</span> |
 | 3099 | ❌ [Harshad Number](https://leetcode.com/problems/harshad-number/description/) | 83.0% | <span style="color: green;">Easy</span> |
 | 3100 | ❌ [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | 63.9% | <span style="color: orange;">Medium</span> |
