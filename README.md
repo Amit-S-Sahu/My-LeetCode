@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 168/3312
+### Solved: 169/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2606,7 +2606,7 @@
 | 2598 | ❌ [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/) | 39.7% | <span style="color: orange;">Medium</span> |
 | 2599 | ❌ [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | 50.8% | <span style="color: orange;">Medium</span> |
 | 2600 | ❌ [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/) | 62.1% | <span style="color: green;">Easy</span> |
-| 2601 | ❌ [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/) | 38.1% | <span style="color: orange;">Medium</span> |
+| 2601 | ✔️ [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/) | 38.1% | <span style="color: orange;">Medium</span> |
 | 2602 | ❌ [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/) | 36.0% | <span style="color: orange;">Medium</span> |
 | 2603 | ❌ [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/description/) | 37.2% | <span style="color: red;">Hard</span> |
 | 2604 | ❌ [Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/) | 41.0% | <span style="color: red;">Hard</span> |
