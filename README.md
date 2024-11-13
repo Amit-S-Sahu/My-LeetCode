@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 170/3312
+### Solved: 171/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2568,7 +2568,7 @@
 | 2560 | ❌ [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/) | 44.5% | <span style="color: orange;">Medium</span> |
 | 2561 | ❌ [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/) | 34.2% | <span style="color: red;">Hard</span> |
 | 2562 | ❌ [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/) | 70.3% | <span style="color: green;">Easy</span> |
-| 2563 | ❌ [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | 33.4% | <span style="color: orange;">Medium</span> |
+| 2563 | ✔️ [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | 33.4% | <span style="color: orange;">Medium</span> |
 | 2564 | ❌ [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/description/) | 33.7% | <span style="color: orange;">Medium</span> |
 | 2565 | ❌ [Subsequence With the Minimum Score](https://leetcode.com/problems/subsequence-with-the-minimum-score/description/) | 32.1% | <span style="color: red;">Hard</span> |
 | 2566 | ❌ [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/) | 60.2% | <span style="color: green;">Easy</span> |
