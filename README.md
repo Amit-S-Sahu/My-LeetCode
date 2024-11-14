@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 171/3312
+### Solved: 172/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2069,7 +2069,7 @@
 | 2061 | ❌ [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/description/) | 62.5% | <span style="color: orange;">Medium</span> |
 | 2062 | ❌ [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/) | 68.6% | <span style="color: green;">Easy</span> |
 | 2063 | ❌ [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/description/) | 54.2% | <span style="color: orange;">Medium</span> |
-| 2064 | ❌ [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/) | 53.8% | <span style="color: orange;">Medium</span> |
+| 2064 | ✔️ [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/) | 53.8% | <span style="color: orange;">Medium</span> |
 | 2065 | ❌ [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/) | 59.0% | <span style="color: red;">Hard</span> |
 | 2066 | ❌ [Account Balance](https://leetcode.com/problems/account-balance/description/) | 82.0% | <span style="color: orange;">Medium</span> |
 | 2067 | ❌ [Number of Equal Count Substrings](https://leetcode.com/problems/number-of-equal-count-substrings/description/) | 46.0% | <span style="color: orange;">Medium</span> |
