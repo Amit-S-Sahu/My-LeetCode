@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 172/3312
+### Solved: 173/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -1579,7 +1579,7 @@
 | 1571 | ❌ [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/description/) | 87.6% | <span style="color: green;">Easy</span> |
 | 1572 | ❌ [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | 83.3% | <span style="color: green;">Easy</span> |
 | 1573 | ❌ [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/) | 33.6% | <span style="color: orange;">Medium</span> |
-| 1574 | ❌ [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/) | 38.2% | <span style="color: orange;">Medium</span> |
+| 1574 | ✔️ [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/) | 38.2% | <span style="color: orange;">Medium</span> |
 | 1575 | ❌ [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/) | 65.2% | <span style="color: red;">Hard</span> |
 | 1576 | ❌ [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-?'s-to-avoid-consecutive-repeating-characters/description/) | 46.1% | <span style="color: green;">Easy</span> |
 | 1577 | ❌ [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/) | 41.6% | <span style="color: orange;">Medium</span> |
