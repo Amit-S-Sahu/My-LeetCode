@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 173/3312
+### Solved: 174/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -3259,7 +3259,7 @@
 | 3251 | ❌ [Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/) | 22.7% | <span style="color: red;">Hard</span> |
 | 3252 | ❌ [Premier League Table Ranking II](https://leetcode.com/problems/premier-league-table-ranking-ii/description/) | 56.7% | <span style="color: orange;">Medium</span> |
 | 3253 | ❌ [Construct String with Minimum Cost (Easy)](https://leetcode.com/problems/construct-string-with-minimum-cost-(easy)/description/) | 56.0% | <span style="color: orange;">Medium</span> |
-| 3254 | ❌ [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/) | 53.7% | <span style="color: orange;">Medium</span> |
+| 3254 | ✔️ [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/) | 53.7% | <span style="color: orange;">Medium</span> |
 | 3255 | ❌ [Find the Power of K-Size Subarrays II](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/description/) | 26.6% | <span style="color: orange;">Medium</span> |
 | 3256 | ❌ [Maximum Value Sum by Placing Three Rooks I](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/description/) | 14.4% | <span style="color: red;">Hard</span> |
 | 3257 | ❌ [Maximum Value Sum by Placing Three Rooks II](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/description/) | 27.8% | <span style="color: red;">Hard</span> |
