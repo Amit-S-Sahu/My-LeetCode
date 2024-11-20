@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 177/3312
+### Solved: 178/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2521,7 +2521,7 @@
 | 2513 | ❌ [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/) | 30.7% | <span style="color: orange;">Medium</span> |
 | 2514 | ❌ [Count Anagrams](https://leetcode.com/problems/count-anagrams/description/) | 34.0% | <span style="color: red;">Hard</span> |
 | 2515 | ❌ [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/) | 49.8% | <span style="color: green;">Easy</span> |
-| 2516 | ❌ [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/) | 34.6% | <span style="color: orange;">Medium</span> |
+| 2516 | ✔️ [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/) | 34.6% | <span style="color: orange;">Medium</span> |
 | 2517 | ❌ [Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/) | 64.3% | <span style="color: orange;">Medium</span> |
 | 2518 | ❌ [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/description/) | 31.7% | <span style="color: red;">Hard</span> |
 | 2519 | ❌ [Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/description/) | 53.4% | <span style="color: red;">Hard</span> |
