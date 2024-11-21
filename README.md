@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 178/3312
+### Solved: 179/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2262,7 +2262,7 @@
 | 2254 | ❌ [Design Video Sharing Platform](https://leetcode.com/problems/design-video-sharing-platform/description/) | 64.1% | <span style="color: red;">Hard</span> |
 | 2255 | ❌ [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/description/) | 72.8% | <span style="color: green;">Easy</span> |
 | 2256 | ❌ [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/) | 43.3% | <span style="color: orange;">Medium</span> |
-| 2257 | ❌ [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | 52.7% | <span style="color: orange;">Medium</span> |
+| 2257 | ✔️ [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | 52.7% | <span style="color: orange;">Medium</span> |
 | 2258 | ❌ [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/description/) | 35.2% | <span style="color: red;">Hard</span> |
 | 2259 | ❌ [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/description/) | 46.1% | <span style="color: green;">Easy</span> |
 | 2260 | ❌ [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/) | 51.7% | <span style="color: orange;">Medium</span> |
