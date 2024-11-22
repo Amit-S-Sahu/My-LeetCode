@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 179/3312
+### Solved: 180/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -1077,7 +1077,7 @@
 | 1069 | ❌ [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/description/) | 82.0% | <span style="color: green;">Easy</span> |
 | 1070 | ❌ [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/) | 43.9% | <span style="color: orange;">Medium</span> |
 | 1071 | ✔️ [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | 51.9% | <span style="color: green;">Easy</span> |
-| 1072 | ❌ [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) | 64.0% | <span style="color: orange;">Medium</span> |
+| 1072 | ✔️ [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) | 64.0% | <span style="color: orange;">Medium</span> |
 | 1073 | ❌ [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/) | 37.2% | <span style="color: orange;">Medium</span> |
 | 1074 | ❌ [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) | 74.4% | <span style="color: red;">Hard</span> |
 | 1075 | ❌ [Project Employees I](https://leetcode.com/problems/project-employees-i/description/) | 63.6% | <span style="color: green;">Easy</span> |
