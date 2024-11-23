@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 180/3312
+### Solved: 181/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -1866,7 +1866,7 @@
 | 1858 | ❌ [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/description/) | 71.4% | <span style="color: orange;">Medium</span> |
 | 1859 | ❌ [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/) | 83.4% | <span style="color: green;">Easy</span> |
 | 1860 | ❌ [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/) | 72.5% | <span style="color: orange;">Medium</span> |
-| 1861 | ❌ [Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/) | 67.9% | <span style="color: orange;">Medium</span> |
+| 1861 | ✔️ [Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/) | 67.9% | <span style="color: orange;">Medium</span> |
 | 1862 | ❌ [Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs/description/) | 29.1% | <span style="color: red;">Hard</span> |
 | 1863 | ❌ [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | 87.8% | <span style="color: green;">Easy</span> |
 | 1864 | ❌ [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/description/) | 43.5% | <span style="color: orange;">Medium</span> |
