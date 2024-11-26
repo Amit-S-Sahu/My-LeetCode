@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 182/3312
+### Solved: 183/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -778,7 +778,7 @@
 | 770 | ❌ [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/description/) | 55.5% | <span style="color: red;">Hard</span> |
 | 771 | ✔️ [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | 88.9% | <span style="color: green;">Easy</span> |
 | 772 | ❌ [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | 51.2% | <span style="color: red;">Hard</span> |
-| 773 | ❌ [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | 65.2% | <span style="color: red;">Hard</span> |
+| 773 | ✔️ [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | 65.2% | <span style="color: red;">Hard</span> |
 | 774 | ❌ [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) | 52.4% | <span style="color: red;">Hard</span> |
 | 775 | ❌ [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | 42.4% | <span style="color: orange;">Medium</span> |
 | 776 | ❌ [Split BST](https://leetcode.com/problems/split-bst/description/) | 82.6% | <span style="color: orange;">Medium</span> |
