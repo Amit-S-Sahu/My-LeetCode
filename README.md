@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 183/3312
+### Solved: 184/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2929,7 +2929,7 @@
 | 2921 | ❌ [Maximum Profitable Triplets With Increasing Prices II](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/) | 49.6% | <span style="color: red;">Hard</span> |
 | 2922 | ❌ [Market Analysis III](https://leetcode.com/problems/market-analysis-iii/description/) | 41.4% | <span style="color: orange;">Medium</span> |
 | 2923 | ❌ [Find Champion I](https://leetcode.com/problems/find-champion-i/description/) | 73.8% | <span style="color: green;">Easy</span> |
-| 2924 | ❌ [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/) | 59.0% | <span style="color: orange;">Medium</span> |
+| 2924 | ✔️ [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/) | 59.0% | <span style="color: orange;">Medium</span> |
 | 2925 | ❌ [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/description/) | 49.4% | <span style="color: orange;">Medium</span> |
 | 2926 | ❌ [Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/) | 24.2% | <span style="color: red;">Hard</span> |
 | 2927 | ❌ [Distribute Candies Among Children III](https://leetcode.com/problems/distribute-candies-among-children-iii/description/) | 44.0% | <span style="color: red;">Hard</span> |
