@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 184/3312
+### Solved: 185/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -3248,7 +3248,7 @@
 | 3240 | ❌ [Minimum Number of Flips to Make Binary Grid Palindromic II](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/description/) | 23.2% | <span style="color: orange;">Medium</span> |
 | 3241 | ❌ [Time Taken to Mark All Nodes](https://leetcode.com/problems/time-taken-to-mark-all-nodes/description/) | 24.5% | <span style="color: red;">Hard</span> |
 | 3242 | ❌ [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/description/) | 83.1% | <span style="color: green;">Easy</span> |
-| 3243 | ❌ [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/) | 47.4% | <span style="color: orange;">Medium</span> |
+| 3243 | ✔️ [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/) | 47.4% | <span style="color: orange;">Medium</span> |
 | 3244 | ❌ [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/description/) | 23.7% | <span style="color: red;">Hard</span> |
 | 3245 | ❌ [Alternating Groups III](https://leetcode.com/problems/alternating-groups-iii/description/) | 14.5% | <span style="color: red;">Hard</span> |
 | 3246 | ❌ [Premier League Table Ranking](https://leetcode.com/problems/premier-league-table-ranking/description/) | 83.5% | <span style="color: green;">Easy</span> |
