@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 185/3312
+### Solved: 186/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2582,7 +2582,7 @@
 | 2574 | ❌ [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | 87.1% | <span style="color: green;">Easy</span> |
 | 2575 | ❌ [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/) | 33.6% | <span style="color: orange;">Medium</span> |
 | 2576 | ❌ [Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/description/) | 39.0% | <span style="color: orange;">Medium</span> |
-| 2577 | ❌ [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/) | 35.6% | <span style="color: red;">Hard</span> |
+| 2577 | ✔️ [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/) | 35.6% | <span style="color: red;">Hard</span> |
 | 2578 | ❌ [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/description/) | 71.2% | <span style="color: green;">Easy</span> |
 | 2579 | ❌ [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | 58.1% | <span style="color: orange;">Medium</span> |
 | 2580 | ❌ [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/description/) | 36.7% | <span style="color: orange;">Medium</span> |
