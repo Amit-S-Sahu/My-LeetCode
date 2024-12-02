@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 188/3312
+### Solved: 189/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -1460,7 +1460,7 @@
 | 1452 | ❌ [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/) | 58.5% | <span style="color: orange;">Medium</span> |
 | 1453 | ❌ [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description/) | 38.5% | <span style="color: red;">Hard</span> |
 | 1454 | ❌ [Active Users](https://leetcode.com/problems/active-users/description/) | 36.6% | <span style="color: orange;">Medium</span> |
-| 1455 | ❌ [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/) | 64.6% | <span style="color: green;">Easy</span> |
+| 1455 | ✔️ [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/) | 64.6% | <span style="color: green;">Easy</span> |
 | 1456 | ❌ [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | 59.1% | <span style="color: orange;">Medium</span> |
 | 1457 | ❌ [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | 68.3% | <span style="color: orange;">Medium</span> |
 | 1458 | ❌ [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) | 62.4% | <span style="color: red;">Hard</span> |
