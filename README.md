@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 190/3312
+### Solved: 191/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2830,7 +2830,7 @@
 | 2822 | ❌ [Inversion of Object](https://leetcode.com/problems/inversion-of-object/description/) | 58.6% | <span style="color: green;">Easy</span> |
 | 2823 | ❌ [Deep Object Filter](https://leetcode.com/problems/deep-object-filter/description/) | 53.1% | <span style="color: orange;">Medium</span> |
 | 2824 | ❌ [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/) | 87.5% | <span style="color: green;">Easy</span> |
-| 2825 | ❌ [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/) | 49.7% | <span style="color: orange;">Medium</span> |
+| 2825 | ✔️ [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/) | 49.7% | <span style="color: orange;">Medium</span> |
 | 2826 | ❌ [Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/description/) | 42.3% | <span style="color: orange;">Medium</span> |
 | 2827 | ❌ [Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/) | 18.4% | <span style="color: red;">Hard</span> |
 | 2828 | ❌ [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/) | 83.2% | <span style="color: green;">Easy</span> |
