@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 192/3312
+### Solved: 193/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2559,7 +2559,7 @@
 | 2551 | ❌ [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/) | 66.5% | <span style="color: red;">Hard</span> |
 | 2552 | ❌ [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/description/) | 33.6% | <span style="color: red;">Hard</span> |
 | 2553 | ❌ [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/) | 79.8% | <span style="color: green;">Easy</span> |
-| 2554 | ❌ [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/) | 54.5% | <span style="color: orange;">Medium</span> |
+| 2554 | ✔️ [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/) | 54.5% | <span style="color: orange;">Medium</span> |
 | 2555 | ❌ [Maximize Win From Two Segments](https://leetcode.com/problems/maximize-win-from-two-segments/description/) | 33.9% | <span style="color: orange;">Medium</span> |
 | 2556 | ❌ [Disconnect Path in a Binary Matrix by at Most One Flip](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/) | 27.3% | <span style="color: orange;">Medium</span> |
 | 2557 | ❌ [Maximum Number of Integers to Choose From a Range II](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/) | 38.4% | <span style="color: orange;">Medium</span> |
