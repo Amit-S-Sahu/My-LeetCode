@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 193/3312
+### Solved: 194/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -1765,7 +1765,7 @@
 | 1757 | ✔️ [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | 89.3% | <span style="color: green;">Easy</span> |
 | 1758 | ❌ [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) | 63.8% | <span style="color: green;">Easy</span> |
 | 1759 | ❌ [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/) | 57.6% | <span style="color: orange;">Medium</span> |
-| 1760 | ❌ [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/) | 60.4% | <span style="color: orange;">Medium</span> |
+| 1760 | ✔️ [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/) | 60.4% | <span style="color: orange;">Medium</span> |
 | 1761 | ❌ [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) | 42.8% | <span style="color: red;">Hard</span> |
 | 1762 | ❌ [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) | 80.0% | <span style="color: orange;">Medium</span> |
 | 1763 | ❌ [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) | 61.1% | <span style="color: green;">Easy</span> |
