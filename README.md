@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 194/3312
+### Solved: 195/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2059,7 +2059,7 @@
 | 2051 | ❌ [The Category of Each Member in the Store](https://leetcode.com/problems/the-category-of-each-member-in-the-store/description/) | 70.0% | <span style="color: orange;">Medium</span> |
 | 2052 | ❌ [Minimum Cost to Separate Sentence Into Rows](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/description/) | 49.7% | <span style="color: orange;">Medium</span> |
 | 2053 | ❌ [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/) | 82.1% | <span style="color: green;">Easy</span> |
-| 2054 | ❌ [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/) | 46.7% | <span style="color: orange;">Medium</span> |
+| 2054 | ✔️ [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 2055 | ❌ [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/description/) | 45.4% | <span style="color: orange;">Medium</span> |
 | 2056 | ❌ [Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/description/) | 52.1% | <span style="color: red;">Hard</span> |
 | 2057 | ❌ [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/description/) | 73.4% | <span style="color: green;">Easy</span> |
