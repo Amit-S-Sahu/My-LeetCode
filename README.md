@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 195/3312
+### Solved: 196/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -3157,7 +3157,7 @@
 | 3149 | ❌ [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/) | 23.3% | <span style="color: red;">Hard</span> |
 | 3150 | ❌ [Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/) | 86.8% | <span style="color: green;">Easy</span> |
 | 3151 | ❌ [Special Array I](https://leetcode.com/problems/special-array-i/description/) | 75.7% | <span style="color: green;">Easy</span> |
-| 3152 | ❌ [Special Array II](https://leetcode.com/problems/special-array-ii/description/) | 30.2% | <span style="color: orange;">Medium</span> |
+| 3152 | ✔️ [Special Array II](https://leetcode.com/problems/special-array-ii/description/) | 30.2% | <span style="color: orange;">Medium</span> |
 | 3153 | ❌ [Sum of Digit Differences of All Pairs](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/description/) | 43.5% | <span style="color: orange;">Medium</span> |
 | 3154 | ❌ [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/description/) | 36.7% | <span style="color: red;">Hard</span> |
 | 3155 | ❌ [Maximum Number of Upgradable Servers](https://leetcode.com/problems/maximum-number-of-upgradable-servers/description/) | 46.8% | <span style="color: orange;">Medium</span> |
