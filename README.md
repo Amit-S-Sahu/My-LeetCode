@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 196/3312
+### Solved: 197/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2986,7 +2986,7 @@
 | 2978 | ❌ [Symmetric Coordinates](https://leetcode.com/problems/symmetric-coordinates/description/) | 41.3% | <span style="color: orange;">Medium</span> |
 | 2979 | ❌ [Most Expensive Item That Can Not Be Bought](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/) | 79.8% | <span style="color: orange;">Medium</span> |
 | 2980 | ❌ [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/description/) | 71.0% | <span style="color: green;">Easy</span> |
-| 2981 | ❌ [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/) | 44.8% | <span style="color: orange;">Medium</span> |
+| 2981 | ✔️ [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/) | 44.8% | <span style="color: orange;">Medium</span> |
 | 2982 | ❌ [Find Longest Special Substring That Occurs Thrice II](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii/description/) | 34.2% | <span style="color: orange;">Medium</span> |
 | 2983 | ❌ [Palindrome Rearrangement Queries](https://leetcode.com/problems/palindrome-rearrangement-queries/description/) | 25.8% | <span style="color: red;">Hard</span> |
 | 2984 | ❌ [Find Peak Calling Hours for Each City](https://leetcode.com/problems/find-peak-calling-hours-for-each-city/description/) | 60.6% | <span style="color: orange;">Medium</span> |
