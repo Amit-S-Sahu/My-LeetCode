@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 197/3312
+### Solved: 198/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 5%
 
@@ -2784,7 +2784,7 @@
 | 2776 | ❌ [Convert Callback Based Function to Promise Based Function](https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function/description/) | 92.1% | <span style="color: orange;">Medium</span> |
 | 2777 | ❌ [Date Range Generator](https://leetcode.com/problems/date-range-generator/description/) | 81.3% | <span style="color: orange;">Medium</span> |
 | 2778 | ❌ [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/) | 81.9% | <span style="color: green;">Easy</span> |
-| 2779 | ❌ [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/) | 38.9% | <span style="color: orange;">Medium</span> |
+| 2779 | ✔️ [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/) | 38.9% | <span style="color: orange;">Medium</span> |
 | 2780 | ❌ [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/) | 62.5% | <span style="color: orange;">Medium</span> |
 | 2781 | ❌ [Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/description/) | 38.0% | <span style="color: red;">Hard</span> |
 | 2782 | ❌ [Number of Unique Categories](https://leetcode.com/problems/number-of-unique-categories/description/) | 83.8% | <span style="color: orange;">Medium</span> |
