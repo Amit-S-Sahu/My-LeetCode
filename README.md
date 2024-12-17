@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 199/3312
+### Solved: 200/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2187,7 +2187,7 @@
 | 2179 | ❌ [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) | 41.5% | <span style="color: red;">Hard</span> |
 | 2180 | ❌ [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/description/) | 67.7% | <span style="color: green;">Easy</span> |
 | 2181 | ❌ [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) | 89.8% | <span style="color: orange;">Medium</span> |
-| 2182 | ❌ [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/) | 54.8% | <span style="color: orange;">Medium</span> |
+| 2182 | ✔️ [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/) | 54.8% | <span style="color: orange;">Medium</span> |
 | 2183 | ❌ [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/) | 29.6% | <span style="color: red;">Hard</span> |
 | 2184 | ❌ [Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/description/) | 49.2% | <span style="color: orange;">Medium</span> |
 | 2185 | ❌ [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | 78.4% | <span style="color: green;">Easy</span> |
