@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 200/3312
+### Solved: 201/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -1480,7 +1480,7 @@
 | 1472 | ❌ [Design Browser History](https://leetcode.com/problems/design-browser-history/description/) | 77.7% | <span style="color: orange;">Medium</span> |
 | 1473 | ❌ [Paint House III](https://leetcode.com/problems/paint-house-iii/description/) | 61.0% | <span style="color: red;">Hard</span> |
 | 1474 | ❌ [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) | 73.4% | <span style="color: green;">Easy</span> |
-| 1475 | ❌ [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) | 78.6% | <span style="color: green;">Easy</span> |
+| 1475 | ✔️ [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) | 78.6% | <span style="color: green;">Easy</span> |
 | 1476 | ❌ [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/) | 88.2% | <span style="color: orange;">Medium</span> |
 | 1477 | ❌ [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/) | 36.5% | <span style="color: orange;">Medium</span> |
 | 1478 | ❌ [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/description/) | 55.6% | <span style="color: red;">Hard</span> |
