@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 202/3312
+### Solved: 203/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2420,7 +2420,7 @@
 | 2412 | ❌ [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/description/) | 40.6% | <span style="color: red;">Hard</span> |
 | 2413 | ❌ [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/) | 87.9% | <span style="color: green;">Easy</span> |
 | 2414 | ❌ [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/description/) | 59.0% | <span style="color: orange;">Medium</span> |
-| 2415 | ❌ [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/) | 78.4% | <span style="color: orange;">Medium</span> |
+| 2415 | ✔️ [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/) | 78.4% | <span style="color: orange;">Medium</span> |
 | 2416 | ✔️ [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/) | 60.6% | <span style="color: red;">Hard</span> |
 | 2417 | ❌ [Closest Fair Integer](https://leetcode.com/problems/closest-fair-integer/description/) | 45.4% | <span style="color: orange;">Medium</span> |
 | 2418 | ❌ [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | 84.9% | <span style="color: green;">Easy</span> |
