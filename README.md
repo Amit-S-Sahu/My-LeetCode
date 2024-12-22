@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 204/3312
+### Solved: 205/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2945,7 +2945,7 @@
 | 2937 | ❌ [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/description/) | 43.7% | <span style="color: green;">Easy</span> |
 | 2938 | ✔️ [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/) | 53.6% | <span style="color: orange;">Medium</span> |
 | 2939 | ❌ [Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/description/) | 26.7% | <span style="color: orange;">Medium</span> |
-| 2940 | ❌ [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/) | 35.3% | <span style="color: red;">Hard</span> |
+| 2940 | ✔️ [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/) | 35.3% | <span style="color: red;">Hard</span> |
 | 2941 | ❌ [Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/) | 46.3% | <span style="color: red;">Hard</span> |
 | 2942 | ❌ [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/) | 88.7% | <span style="color: green;">Easy</span> |
 | 2943 | ❌ [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | 37.2% | <span style="color: orange;">Medium</span> |
