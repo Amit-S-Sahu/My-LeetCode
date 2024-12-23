@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 205/3312
+### Solved: 206/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2476,7 +2476,7 @@
 | 2468 | ❌ [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/description/) | 43.8% | <span style="color: red;">Hard</span> |
 | 2469 | ❌ [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/) | 89.8% | <span style="color: green;">Easy</span> |
 | 2470 | ❌ [Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/description/) | 39.3% | <span style="color: orange;">Medium</span> |
-| 2471 | ❌ [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/) | 62.2% | <span style="color: orange;">Medium</span> |
+| 2471 | ✔️ [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/description/) | 62.2% | <span style="color: orange;">Medium</span> |
 | 2472 | ❌ [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/) | 40.7% | <span style="color: red;">Hard</span> |
 | 2473 | ❌ [Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/description/) | 67.5% | <span style="color: orange;">Medium</span> |
 | 2474 | ❌ [Customers With Strictly Increasing Purchases](https://leetcode.com/problems/customers-with-strictly-increasing-purchases/description/) | 45.3% | <span style="color: red;">Hard</span> |
