@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 207/3312
+### Solved: 208/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -520,7 +520,7 @@
 | 512 | ❌ [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/description/) | 53.2% | <span style="color: green;">Easy</span> |
 | 513 | ❌ [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | 71.4% | <span style="color: orange;">Medium</span> |
 | 514 | ❌ [Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) | 59.0% | <span style="color: red;">Hard</span> |
-| 515 | ❌ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | 65.7% | <span style="color: orange;">Medium</span> |
+| 515 | ✔️ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | 65.7% | <span style="color: orange;">Medium</span> |
 | 516 | ❌ [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | 63.2% | <span style="color: orange;">Medium</span> |
 | 517 | ❌ [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) | 41.6% | <span style="color: red;">Hard</span> |
 | 518 | ❌ [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) | 64.5% | <span style="color: orange;">Medium</span> |
