@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 208/3312
+### Solved: 209/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -499,7 +499,7 @@
 | 491 | ❌ [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/) | 61.1% | <span style="color: orange;">Medium</span> |
 | 492 | ❌ [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | 58.9% | <span style="color: green;">Easy</span> |
 | 493 | ✔️ [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | 31.1% | <span style="color: red;">Hard</span> |
-| 494 | ❌ [Target Sum](https://leetcode.com/problems/target-sum/description/) | 47.6% | <span style="color: orange;">Medium</span> |
+| 494 | ✔️ [Target Sum](https://leetcode.com/problems/target-sum/description/) | 47.6% | <span style="color: orange;">Medium</span> |
 | 495 | ❌ [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | 56.7% | <span style="color: green;">Easy</span> |
 | 496 | ❌ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | 73.2% | <span style="color: green;">Easy</span> |
 | 497 | ❌ [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) | 40.3% | <span style="color: orange;">Medium</span> |
