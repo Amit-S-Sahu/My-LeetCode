@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 210/3312
+### Solved: 211/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -694,7 +694,7 @@
 | 686 | ❌ [Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | 35.7% | <span style="color: orange;">Medium</span> |
 | 687 | ❌ [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | 41.9% | <span style="color: orange;">Medium</span> |
 | 688 | ❌ [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/) | 56.3% | <span style="color: orange;">Medium</span> |
-| 689 | ❌ [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/) | 50.4% | <span style="color: red;">Hard</span> |
+| 689 | ✔️ [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/) | 50.4% | <span style="color: red;">Hard</span> |
 | 690 | ❌ [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | 67.5% | <span style="color: orange;">Medium</span> |
 | 691 | ❌ [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/) | 49.3% | <span style="color: red;">Hard</span> |
 | 692 | ❌ [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | 58.5% | <span style="color: orange;">Medium</span> |
