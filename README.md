@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 213/3312
+### Solved: 214/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -220,7 +220,7 @@
 | 212 | ❌ [Word Search II](https://leetcode.com/problems/word-search-ii/description/) | 36.6% | <span style="color: red;">Hard</span> |
 | 213 | ❌ [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | 42.6% | <span style="color: orange;">Medium</span> |
 | 214 | ✔️ [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) | 39.8% | <span style="color: red;">Hard</span> |
-| 215 | ❌ [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | 67.2% | <span style="color: orange;">Medium</span> |
+| 215 | ✔️ [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | 67.2% | <span style="color: orange;">Medium</span> |
 | 216 | ❌ [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | 70.6% | <span style="color: orange;">Medium</span> |
 | 217 | ✔️ [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 62.3% | <span style="color: green;">Easy</span> |
 | 218 | ❌ [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | 43.1% | <span style="color: red;">Hard</span> |
