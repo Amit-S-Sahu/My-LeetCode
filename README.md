@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 212/3312
+### Solved: 213/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -36,7 +36,7 @@
 | 28 | ✔️ [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 43.6% | <span style="color: green;">Easy</span> |
 | 29 | ❌ [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | 17.8% | <span style="color: orange;">Medium</span> |
 | 30 | ❌ [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | 32.5% | <span style="color: red;">Hard</span> |
-| 31 | ❌ [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | 41.2% | <span style="color: orange;">Medium</span> |
+| 31 | ✔️ [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | 41.2% | <span style="color: orange;">Medium</span> |
 | 32 | ❌ [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | 34.9% | <span style="color: red;">Hard</span> |
 | 33 | ✔️ [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 41.6% | <span style="color: orange;">Medium</span> |
 | 34 | ❌ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 45.3% | <span style="color: orange;">Medium</span> |
