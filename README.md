@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 211/3312
+### Solved: 212/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -1644,7 +1644,7 @@
 | 1636 | ❌ [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | 79.9% | <span style="color: green;">Easy</span> |
 | 1637 | ❌ [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) | 87.4% | <span style="color: green;">Easy</span> |
 | 1638 | ❌ [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/) | 71.4% | <span style="color: orange;">Medium</span> |
-| 1639 | ❌ [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/) | 50.8% | <span style="color: red;">Hard</span> |
+| 1639 | ✔️ [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/) | 50.8% | <span style="color: red;">Hard</span> |
 | 1640 | ❌ [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/) | 56.7% | <span style="color: green;">Easy</span> |
 | 1641 | ❌ [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/) | 78.6% | <span style="color: orange;">Medium</span> |
 | 1642 | ❌ [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/) | 49.9% | <span style="color: orange;">Medium</span> |
