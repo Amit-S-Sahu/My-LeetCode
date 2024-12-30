@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 216/3312
+### Solved: 217/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2471,7 +2471,7 @@
 | 2463 | ✔️ [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/description/) | 41.0% | <span style="color: red;">Hard</span> |
 | 2464 | ❌ [Minimum Subarrays in a Valid Split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/) | 54.3% | <span style="color: orange;">Medium</span> |
 | 2465 | ❌ [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/) | 58.3% | <span style="color: green;">Easy</span> |
-| 2466 | ❌ [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) | 54.4% | <span style="color: orange;">Medium</span> |
+| 2466 | ✔️ [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) | 54.4% | <span style="color: orange;">Medium</span> |
 | 2467 | ❌ [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/) | 49.4% | <span style="color: orange;">Medium</span> |
 | 2468 | ❌ [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/description/) | 43.8% | <span style="color: red;">Hard</span> |
 | 2469 | ❌ [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/) | 89.8% | <span style="color: green;">Easy</span> |
