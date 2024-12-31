@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 217/3312
+### Solved: 218/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -988,7 +988,7 @@
 | 980 | ❌ [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) | 82.0% | <span style="color: red;">Hard</span> |
 | 981 | ❌ [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) | 49.3% | <span style="color: orange;">Medium</span> |
 | 982 | ❌ [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) | 58.6% | <span style="color: red;">Hard</span> |
-| 983 | ❌ [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | 65.2% | <span style="color: orange;">Medium</span> |
+| 983 | ✔️ [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | 65.2% | <span style="color: orange;">Medium</span> |
 | 984 | ❌ [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) | 44.1% | <span style="color: orange;">Medium</span> |
 | 985 | ❌ [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) | 68.3% | <span style="color: orange;">Medium</span> |
 | 986 | ❌ [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) | 71.9% | <span style="color: orange;">Medium</span> |
