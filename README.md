@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 218/3312
+### Solved: 219/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -1427,7 +1427,7 @@
 | 1419 | ❌ [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/) | 50.4% | <span style="color: orange;">Medium</span> |
 | 1420 | ❌ [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/description/) | 67.9% | <span style="color: red;">Hard</span> |
 | 1421 | ❌ [NPV Queries](https://leetcode.com/problems/npv-queries/description/) | 82.8% | <span style="color: green;">Easy</span> |
-| 1422 | ❌ [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | 62.2% | <span style="color: green;">Easy</span> |
+| 1422 | ✔️ [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) | 62.2% | <span style="color: green;">Easy</span> |
 | 1423 | ❌ [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | 54.1% | <span style="color: orange;">Medium</span> |
 | 1424 | ❌ [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/description/) | 57.1% | <span style="color: orange;">Medium</span> |
 | 1425 | ❌ [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/description/) | 56.5% | <span style="color: red;">Hard</span> |
