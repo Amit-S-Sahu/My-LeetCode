@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 219/3312
+### Solved: 220/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2564,7 +2564,7 @@
 | 2556 | ❌ [Disconnect Path in a Binary Matrix by at Most One Flip](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/description/) | 27.3% | <span style="color: orange;">Medium</span> |
 | 2557 | ❌ [Maximum Number of Integers to Choose From a Range II](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii/description/) | 38.4% | <span style="color: orange;">Medium</span> |
 | 2558 | ✔️ [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/) | 67.3% | <span style="color: green;">Easy</span> |
-| 2559 | ❌ [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/) | 52.9% | <span style="color: orange;">Medium</span> |
+| 2559 | ✔️ [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/) | 52.9% | <span style="color: orange;">Medium</span> |
 | 2560 | ❌ [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/) | 44.5% | <span style="color: orange;">Medium</span> |
 | 2561 | ❌ [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/) | 34.2% | <span style="color: red;">Hard</span> |
 | 2562 | ❌ [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/) | 70.3% | <span style="color: green;">Easy</span> |
