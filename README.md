@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 220/3312
+### Solved: 221/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2275,7 +2275,7 @@
 | 2267 | ❌ [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/) | 39.1% | <span style="color: red;">Hard</span> |
 | 2268 | ❌ [Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/description/) | 71.3% | <span style="color: orange;">Medium</span> |
 | 2269 | ❌ [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | 60.7% | <span style="color: green;">Easy</span> |
-| 2270 | ❌ [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/) | 48.3% | <span style="color: orange;">Medium</span> |
+| 2270 | ✔️ [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/) | 48.3% | <span style="color: orange;">Medium</span> |
 | 2271 | ❌ [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/description/) | 33.9% | <span style="color: orange;">Medium</span> |
 | 2272 | ❌ [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/) | 46.2% | <span style="color: red;">Hard</span> |
 | 2273 | ❌ [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/) | 58.6% | <span style="color: green;">Easy</span> |
