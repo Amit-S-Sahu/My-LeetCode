@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 222/3312
+### Solved: 223/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -1972,7 +1972,7 @@
 | 1964 | ❌ [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/description/) | 62.8% | <span style="color: red;">Hard</span> |
 | 1965 | ❌ [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/) | 72.5% | <span style="color: green;">Easy</span> |
 | 1966 | ❌ [Binary Searchable Numbers in an Unsorted Array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/description/) | 64.1% | <span style="color: orange;">Medium</span> |
-| 1967 | ❌ [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/) | 81.3% | <span style="color: green;">Easy</span> |
+| 1967 | ✔️ [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/) | 81.3% | <span style="color: green;">Easy</span> |
 | 1968 | ❌ [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/description/) | 50.5% | <span style="color: orange;">Medium</span> |
 | 1969 | ❌ [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/) | 35.8% | <span style="color: orange;">Medium</span> |
 | 1970 | ❌ [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/) | 61.9% | <span style="color: red;">Hard</span> |
