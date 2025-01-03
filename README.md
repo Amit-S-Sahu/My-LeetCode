@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 221/3312
+### Solved: 222/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -196,7 +196,7 @@
 | 188 | ❌ [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | 44.7% | <span style="color: red;">Hard</span> |
 | 189 | ✔️ [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | 41.7% | <span style="color: orange;">Medium</span> |
 | 190 | ❌ [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | 60.4% | <span style="color: green;">Easy</span> |
-| 191 | ❌ [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | 72.6% | <span style="color: green;">Easy</span> |
+| 191 | ✔️ [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | 72.6% | <span style="color: green;">Easy</span> |
 | 192 | ❌ [Word Frequency](https://leetcode.com/problems/word-frequency/description/) | 26.1% | <span style="color: orange;">Medium</span> |
 | 193 | ❌ [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/) | 26.4% | <span style="color: green;">Easy</span> |
 | 194 | ❌ [Transpose File](https://leetcode.com/problems/transpose-file/description/) | 26.8% | <span style="color: orange;">Medium</span> |
