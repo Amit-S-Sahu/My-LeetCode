@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 223/3312
+### Solved: 224/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -1935,7 +1935,7 @@
 | 1927 | ❌ [Sum Game](https://leetcode.com/problems/sum-game/description/) | 47.8% | <span style="color: orange;">Medium</span> |
 | 1928 | ❌ [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | 38.9% | <span style="color: red;">Hard</span> |
 | 1929 | ❌ [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | 90.1% | <span style="color: green;">Easy</span> |
-| 1930 | ❌ [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | 66.1% | <span style="color: orange;">Medium</span> |
+| 1930 | ✔️ [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | 66.1% | <span style="color: orange;">Medium</span> |
 | 1931 | ❌ [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/) | 58.1% | <span style="color: red;">Hard</span> |
 | 1932 | ❌ [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/) | 36.4% | <span style="color: red;">Hard</span> |
 | 1933 | ❌ [Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/description/) | 51.0% | <span style="color: green;">Easy</span> |
