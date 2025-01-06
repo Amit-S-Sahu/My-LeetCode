@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 225/3312
+### Solved: 226/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -1774,7 +1774,7 @@
 | 1766 | ❌ [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/description/) | 41.4% | <span style="color: red;">Hard</span> |
 | 1767 | ❌ [Find the Subtasks That Did Not Execute](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/description/) | 77.6% | <span style="color: red;">Hard</span> |
 | 1768 | ✔️ [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | 80.9% | <span style="color: green;">Easy</span> |
-| 1769 | ❌ [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | 86.0% | <span style="color: orange;">Medium</span> |
+| 1769 | ✔️ [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | 86.0% | <span style="color: orange;">Medium</span> |
 | 1770 | ❌ [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/) | 41.0% | <span style="color: red;">Hard</span> |
 | 1771 | ❌ [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/) | 36.8% | <span style="color: red;">Hard</span> |
 | 1772 | ❌ [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/description/) | 66.0% | <span style="color: orange;">Medium</span> |
