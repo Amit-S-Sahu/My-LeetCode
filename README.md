@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 226/3312
+### Solved: 227/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -1413,7 +1413,7 @@
 | 1405 | ✔️ [Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/) | 57.5% | <span style="color: orange;">Medium</span> |
 | 1406 | ❌ [Stone Game III](https://leetcode.com/problems/stone-game-iii/description/) | 63.6% | <span style="color: red;">Hard</span> |
 | 1407 | ❌ [Top Travellers](https://leetcode.com/problems/top-travellers/description/) | 57.4% | <span style="color: green;">Easy</span> |
-| 1408 | ❌ [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/) | 64.2% | <span style="color: green;">Easy</span> |
+| 1408 | ✔️ [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/) | 64.2% | <span style="color: green;">Easy</span> |
 | 1409 | ❌ [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/description/) | 84.4% | <span style="color: orange;">Medium</span> |
 | 1410 | ❌ [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/description/) | 50.8% | <span style="color: orange;">Medium</span> |
 | 1411 | ❌ [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-×-3-grid/description/) | 63.9% | <span style="color: red;">Hard</span> |
