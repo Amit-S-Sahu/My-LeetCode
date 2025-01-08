@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 227/3312
+### Solved: 228/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -3047,7 +3047,7 @@
 | 3039 | ❌ [Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/description/) | 57.0% | <span style="color: orange;">Medium</span> |
 | 3040 | ❌ [Maximum Number of Operations With the Same Score II](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/description/) | 33.7% | <span style="color: orange;">Medium</span> |
 | 3041 | ❌ [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/) | 32.4% | <span style="color: red;">Hard</span> |
-| 3042 | ❌ [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | 65.8% | <span style="color: green;">Easy</span> |
+| 3042 | ✔️ [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | 65.8% | <span style="color: green;">Easy</span> |
 | 3043 | ❌ [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 3044 | ❌ [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/description/) | 48.6% | <span style="color: orange;">Medium</span> |
 | 3045 | ❌ [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/) | 25.4% | <span style="color: red;">Hard</span> |
