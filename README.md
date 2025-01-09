@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 228/3312
+### Solved: 229/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -2190,7 +2190,7 @@
 | 2182 | ✔️ [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/) | 54.8% | <span style="color: orange;">Medium</span> |
 | 2183 | ❌ [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/) | 29.6% | <span style="color: red;">Hard</span> |
 | 2184 | ❌ [Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/description/) | 49.2% | <span style="color: orange;">Medium</span> |
-| 2185 | ❌ [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | 78.4% | <span style="color: green;">Easy</span> |
+| 2185 | ✔️ [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | 78.4% | <span style="color: green;">Easy</span> |
 | 2186 | ❌ [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/description/) | 72.8% | <span style="color: orange;">Medium</span> |
 | 2187 | ❌ [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/) | 38.9% | <span style="color: orange;">Medium</span> |
 | 2188 | ❌ [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/description/) | 41.8% | <span style="color: red;">Hard</span> |
