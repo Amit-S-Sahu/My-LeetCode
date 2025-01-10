@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 229/3312
+### Solved: 230/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 6%
 
@@ -921,7 +921,7 @@
 | 913 | ❌ [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/) | 33.8% | <span style="color: red;">Hard</span> |
 | 914 | ❌ [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | 29.9% | <span style="color: green;">Easy</span> |
 | 915 | ❌ [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | 48.8% | <span style="color: orange;">Medium</span> |
-| 916 | ❌ [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | 51.8% | <span style="color: orange;">Medium</span> |
+| 916 | ✔️ [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | 51.8% | <span style="color: orange;">Medium</span> |
 | 917 | ❌ [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | 65.6% | <span style="color: green;">Easy</span> |
 | 918 | ❌ [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | 45.8% | <span style="color: orange;">Medium</span> |
 | 919 | ❌ [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | 66.0% | <span style="color: orange;">Medium</span> |
