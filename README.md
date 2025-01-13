@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 232/3312
+### Solved: 233/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -3228,7 +3228,7 @@
 | 3220 | ❌ [Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/description/) | 70.0% | <span style="color: orange;">Medium</span> |
 | 3221 | ❌ [Maximum Array Hopping Score II](https://leetcode.com/problems/maximum-array-hopping-score-ii/description/) | 67.9% | <span style="color: orange;">Medium</span> |
 | 3222 | ❌ [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/description/) | 51.8% | <span style="color: green;">Easy</span> |
-| 3223 | ❌ [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | 55.3% | <span style="color: orange;">Medium</span> |
+| 3223 | ✔️ [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | 55.3% | <span style="color: orange;">Medium</span> |
 | 3224 | ❌ [Minimum Array Changes to Make Differences Equal](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/description/) | 23.2% | <span style="color: orange;">Medium</span> |
 | 3225 | ❌ [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/) | 28.1% | <span style="color: red;">Hard</span> |
 | 3226 | ❌ [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/description/) | 64.7% | <span style="color: green;">Easy</span> |
