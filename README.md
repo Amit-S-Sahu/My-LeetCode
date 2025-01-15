@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 234/3312
+### Solved: 235/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2434,7 +2434,7 @@
 | 2426 | ❌ [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | 44.3% | <span style="color: red;">Hard</span> |
 | 2427 | ❌ [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/description/) | 79.2% | <span style="color: green;">Easy</span> |
 | 2428 | ❌ [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/) | 75.2% | <span style="color: orange;">Medium</span> |
-| 2429 | ❌ [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | 44.6% | <span style="color: orange;">Medium</span> |
+| 2429 | ✔️ [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | 44.6% | <span style="color: orange;">Medium</span> |
 | 2430 | ❌ [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/description/) | 33.9% | <span style="color: red;">Hard</span> |
 | 2431 | ❌ [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/) | 63.6% | <span style="color: orange;">Medium</span> |
 | 2432 | ❌ [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/description/) | 50.6% | <span style="color: green;">Easy</span> |
