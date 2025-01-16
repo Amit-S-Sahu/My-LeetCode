@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 235/3312
+### Solved: 236/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2430,7 +2430,7 @@
 | 2422 | ❌ [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/description/) | 69.1% | <span style="color: orange;">Medium</span> |
 | 2423 | ❌ [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/) | 17.5% | <span style="color: green;">Easy</span> |
 | 2424 | ❌ [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/description/) | 55.8% | <span style="color: orange;">Medium</span> |
-| 2425 | ❌ [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | 58.3% | <span style="color: orange;">Medium</span> |
+| 2425 | ✔️ [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | 58.3% | <span style="color: orange;">Medium</span> |
 | 2426 | ❌ [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) | 44.3% | <span style="color: red;">Hard</span> |
 | 2427 | ❌ [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/description/) | 79.2% | <span style="color: green;">Easy</span> |
 | 2428 | ❌ [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/description/) | 75.2% | <span style="color: orange;">Medium</span> |
