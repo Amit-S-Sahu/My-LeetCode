@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 236/3312
+### Solved: 237/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2688,7 +2688,7 @@
 | 2680 | ❌ [Maximum OR](https://leetcode.com/problems/maximum-or/description/) | 41.2% | <span style="color: orange;">Medium</span> |
 | 2681 | ❌ [Power of Heroes](https://leetcode.com/problems/power-of-heroes/description/) | 31.4% | <span style="color: red;">Hard</span> |
 | 2682 | ❌ [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/description/) | 49.4% | <span style="color: green;">Easy</span> |
-| 2683 | ❌ [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) | 62.2% | <span style="color: orange;">Medium</span> |
+| 2683 | ✔️ [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) | 62.2% | <span style="color: orange;">Medium</span> |
 | 2684 | ✔️ [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/) | 46.1% | <span style="color: orange;">Medium</span> |
 | 2685 | ❌ [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | 66.3% | <span style="color: orange;">Medium</span> |
 | 2686 | ❌ [Immediate Food Delivery III](https://leetcode.com/problems/immediate-food-delivery-iii/description/) | 67.8% | <span style="color: orange;">Medium</span> |
