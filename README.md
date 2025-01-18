@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 237/3312
+### Solved: 238/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1373,7 +1373,7 @@
 | 1365 | ❌ [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/) | 87.0% | <span style="color: green;">Easy</span> |
 | 1366 | ❌ [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/description/) | 58.7% | <span style="color: orange;">Medium</span> |
 | 1367 | ❌ [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/description/) | 52.1% | <span style="color: orange;">Medium</span> |
-| 1368 | ❌ [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | 62.5% | <span style="color: red;">Hard</span> |
+| 1368 | ✔️ [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | 62.5% | <span style="color: red;">Hard</span> |
 | 1369 | ❌ [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/description/) | 67.6% | <span style="color: red;">Hard</span> |
 | 1370 | ❌ [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/) | 76.7% | <span style="color: green;">Easy</span> |
 | 1371 | ❌ [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/) | 76.3% | <span style="color: orange;">Medium</span> |
