@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 238/3312
+### Solved: 239/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2666,7 +2666,7 @@
 | 2658 | ❌ [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | 60.9% | <span style="color: orange;">Medium</span> |
 | 2659 | ❌ [Make Array Empty](https://leetcode.com/problems/make-array-empty/description/) | 25.7% | <span style="color: red;">Hard</span> |
 | 2660 | ❌ [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/description/) | 34.8% | <span style="color: green;">Easy</span> |
-| 2661 | ❌ [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | 51.0% | <span style="color: orange;">Medium</span> |
+| 2661 | ✔️ [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | 51.0% | <span style="color: orange;">Medium</span> |
 | 2662 | ❌ [Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/description/) | 39.8% | <span style="color: orange;">Medium</span> |
 | 2663 | ❌ [Lexicographically Smallest Beautiful String](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/description/) | 37.9% | <span style="color: red;">Hard</span> |
 | 2664 | ❌ [The Knight’s Tour](https://leetcode.com/problems/the-knight’s-tour/description/) | 66.8% | <span style="color: orange;">Medium</span> |
