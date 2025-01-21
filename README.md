@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 239/3312
+### Solved: 240/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2022,7 +2022,7 @@
 | 2014 | ❌ [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) | 55.8% | <span style="color: red;">Hard</span> |
 | 2015 | ❌ [Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/description/) | 59.5% | <span style="color: orange;">Medium</span> |
 | 2016 | ❌ [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | 57.3% | <span style="color: green;">Easy</span> |
-| 2017 | ❌ [Grid Game](https://leetcode.com/problems/grid-game/description/) | 46.1% | <span style="color: orange;">Medium</span> |
+| 2017 | ✔️ [Grid Game](https://leetcode.com/problems/grid-game/description/) | 46.1% | <span style="color: orange;">Medium</span> |
 | 2018 | ❌ [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/description/) | 49.8% | <span style="color: orange;">Medium</span> |
 | 2019 | ❌ [The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/description/) | 33.7% | <span style="color: red;">Hard</span> |
 | 2020 | ❌ [Number of Accounts That Did Not Stream](https://leetcode.com/problems/number-of-accounts-that-did-not-stream/description/) | 72.1% | <span style="color: orange;">Medium</span> |
