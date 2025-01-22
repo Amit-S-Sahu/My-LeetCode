@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 240/3312
+### Solved: 241/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1770,7 +1770,7 @@
 | 1762 | ❌ [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) | 80.0% | <span style="color: orange;">Medium</span> |
 | 1763 | ❌ [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) | 61.1% | <span style="color: green;">Easy</span> |
 | 1764 | ❌ [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/description/) | 53.9% | <span style="color: orange;">Medium</span> |
-| 1765 | ❌ [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) | 63.0% | <span style="color: orange;">Medium</span> |
+| 1765 | ✔️ [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) | 63.0% | <span style="color: orange;">Medium</span> |
 | 1766 | ❌ [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/description/) | 41.4% | <span style="color: red;">Hard</span> |
 | 1767 | ❌ [Find the Subtasks That Did Not Execute](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/description/) | 77.6% | <span style="color: red;">Hard</span> |
 | 1768 | ✔️ [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) | 80.9% | <span style="color: green;">Easy</span> |
