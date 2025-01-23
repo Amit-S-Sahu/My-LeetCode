@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 241/3312
+### Solved: 242/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1272,7 +1272,7 @@
 | 1264 | ❌ [Page Recommendations](https://leetcode.com/problems/page-recommendations/description/) | 65.2% | <span style="color: orange;">Medium</span> |
 | 1265 | ❌ [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/) | 94.0% | <span style="color: orange;">Medium</span> |
 | 1266 | ❌ [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/) | 82.5% | <span style="color: green;">Easy</span> |
-| 1267 | ❌ [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/) | 60.8% | <span style="color: orange;">Medium</span> |
+| 1267 | ✔️ [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/) | 60.8% | <span style="color: orange;">Medium</span> |
 | 1268 | ❌ [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/) | 65.1% | <span style="color: orange;">Medium</span> |
 | 1269 | ❌ [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/) | 50.3% | <span style="color: red;">Hard</span> |
 | 1270 | ❌ [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/description/) | 84.5% | <span style="color: orange;">Medium</span> |
