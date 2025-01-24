@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 242/3312
+### Solved: 243/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -807,7 +807,7 @@
 | 799 | ❌ [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | 58.3% | <span style="color: orange;">Medium</span> |
 | 800 | ❌ [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | 67.6% | <span style="color: green;">Easy</span> |
 | 801 | ❌ [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) | 40.3% | <span style="color: red;">Hard</span> |
-| 802 | ❌ [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) | 64.3% | <span style="color: orange;">Medium</span> |
+| 802 | ✔️ [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) | 64.3% | <span style="color: orange;">Medium</span> |
 | 803 | ❌ [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/) | 35.0% | <span style="color: red;">Hard</span> |
 | 804 | ❌ [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | 83.0% | <span style="color: green;">Easy</span> |
 | 805 | ❌ [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | 25.5% | <span style="color: red;">Hard</span> |
