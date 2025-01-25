@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 243/3312
+### Solved: 244/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2953,7 +2953,7 @@
 | 2945 | ❌ [Find Maximum Non-decreasing Array Length](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/) | 16.7% | <span style="color: red;">Hard</span> |
 | 2946 | ❌ [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/) | 58.8% | <span style="color: green;">Easy</span> |
 | 2947 | ❌ [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/description/) | 62.2% | <span style="color: orange;">Medium</span> |
-| 2948 | ❌ [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/) | 39.9% | <span style="color: orange;">Medium</span> |
+| 2948 | ✔️ [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/) | 39.9% | <span style="color: orange;">Medium</span> |
 | 2949 | ❌ [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/description/) | 25.4% | <span style="color: red;">Hard</span> |
 | 2950 | ❌ [Number of Divisible Substrings](https://leetcode.com/problems/number-of-divisible-substrings/description/) | 74.0% | <span style="color: orange;">Medium</span> |
 | 2951 | ❌ [Find the Peaks](https://leetcode.com/problems/find-the-peaks/description/) | 75.9% | <span style="color: green;">Easy</span> |
