@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 244/3312
+### Solved: 245/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2132,7 +2132,7 @@
 | 2124 | ❌ [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-a's-appears-before-all-b's/description/) | 72.2% | <span style="color: green;">Easy</span> |
 | 2125 | ❌ [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/) | 85.6% | <span style="color: orange;">Medium</span> |
 | 2126 | ❌ [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) | 51.9% | <span style="color: orange;">Medium</span> |
-| 2127 | ❌ [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/) | 37.4% | <span style="color: red;">Hard</span> |
+| 2127 | ✔️ [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/) | 37.4% | <span style="color: red;">Hard</span> |
 | 2128 | ❌ [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/) | 76.2% | <span style="color: orange;">Medium</span> |
 | 2129 | ❌ [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/) | 65.1% | <span style="color: green;">Easy</span> |
 | 2130 | ❌ [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | 81.0% | <span style="color: orange;">Medium</span> |
