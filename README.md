@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 245/3312
+### Solved: 246/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1467,7 +1467,7 @@
 | 1459 | ❌ [Rectangles Area](https://leetcode.com/problems/rectangles-area/description/) | 68.5% | <span style="color: orange;">Medium</span> |
 | 1460 | ❌ [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/) | 76.0% | <span style="color: green;">Easy</span> |
 | 1461 | ❌ [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | 56.6% | <span style="color: orange;">Medium</span> |
-| 1462 | ❌ [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/) | 50.3% | <span style="color: orange;">Medium</span> |
+| 1462 | ✔️ [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/) | 50.3% | <span style="color: orange;">Medium</span> |
 | 1463 | ❌ [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/) | 71.8% | <span style="color: red;">Hard</span> |
 | 1464 | ❌ [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) | 82.9% | <span style="color: green;">Easy</span> |
 | 1465 | ❌ [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/) | 41.1% | <span style="color: orange;">Medium</span> |
