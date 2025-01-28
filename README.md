@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 246/3312
+### Solved: 247/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2663,7 +2663,7 @@
 | 2655 | ❌ [Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/description/) | 52.0% | <span style="color: orange;">Medium</span> |
 | 2656 | ❌ [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/) | 82.4% | <span style="color: green;">Easy</span> |
 | 2657 | ✔️ [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | 81.6% | <span style="color: orange;">Medium</span> |
-| 2658 | ❌ [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | 60.9% | <span style="color: orange;">Medium</span> |
+| 2658 | ✔️ [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) | 60.9% | <span style="color: orange;">Medium</span> |
 | 2659 | ❌ [Make Array Empty](https://leetcode.com/problems/make-array-empty/description/) | 25.7% | <span style="color: red;">Hard</span> |
 | 2660 | ❌ [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/description/) | 34.8% | <span style="color: green;">Easy</span> |
 | 2661 | ✔️ [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | 51.0% | <span style="color: orange;">Medium</span> |
