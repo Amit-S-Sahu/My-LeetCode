@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 247/3312
+### Solved: 248/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -689,7 +689,7 @@
 | 681 | ❌ [Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | 46.8% | <span style="color: orange;">Medium</span> |
 | 682 | ✔️ [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | 77.4% | <span style="color: green;">Easy</span> |
 | 683 | ❌ [K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) | 37.2% | <span style="color: red;">Hard</span> |
-| 684 | ❌ [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | 63.5% | <span style="color: orange;">Medium</span> |
+| 684 | ✔️ [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | 63.5% | <span style="color: orange;">Medium</span> |
 | 685 | ❌ [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | 34.7% | <span style="color: red;">Hard</span> |
 | 686 | ❌ [Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | 35.7% | <span style="color: orange;">Medium</span> |
 | 687 | ❌ [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | 41.9% | <span style="color: orange;">Medium</span> |
