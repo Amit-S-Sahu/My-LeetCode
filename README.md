@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 248/3312
+### Solved: 249/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2498,7 +2498,7 @@
 | 2490 | ✔️ [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/) | 63.0% | <span style="color: green;">Easy</span> |
 | 2491 | ✔️ [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/) | 69.1% | <span style="color: orange;">Medium</span> |
 | 2492 | ❌ [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/) | 57.5% | <span style="color: orange;">Medium</span> |
-| 2493 | ❌ [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/) | 39.9% | <span style="color: red;">Hard</span> |
+| 2493 | ✔️ [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/) | 39.9% | <span style="color: red;">Hard</span> |
 | 2494 | ❌ [Merge Overlapping Events in the Same Hall](https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall/description/) | 32.1% | <span style="color: red;">Hard</span> |
 | 2495 | ❌ [Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/description/) | 64.2% | <span style="color: orange;">Medium</span> |
 | 2496 | ❌ [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/) | 72.7% | <span style="color: green;">Easy</span> |
