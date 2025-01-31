@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 249/3312
+### Solved: 250/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -832,7 +832,7 @@
 | 824 | ❌ [Goat Latin](https://leetcode.com/problems/goat-latin/description/) | 68.7% | <span style="color: green;">Easy</span> |
 | 825 | ❌ [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) | 48.0% | <span style="color: orange;">Medium</span> |
 | 826 | ❌ [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) | 55.9% | <span style="color: orange;">Medium</span> |
-| 827 | ❌ [Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) | 48.8% | <span style="color: red;">Hard</span> |
+| 827 | ✔️ [Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) | 48.8% | <span style="color: red;">Hard</span> |
 | 828 | ❌ [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/) | 52.7% | <span style="color: red;">Hard</span> |
 | 829 | ❌ [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) | 41.9% | <span style="color: red;">Hard</span> |
 | 830 | ❌ [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | 52.6% | <span style="color: green;">Easy</span> |
