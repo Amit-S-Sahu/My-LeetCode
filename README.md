@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 252/3312
+### Solved: 253/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1805,7 +1805,7 @@
 | 1797 | ❌ [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/description/) | 57.7% | <span style="color: orange;">Medium</span> |
 | 1798 | ❌ [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/description/) | 61.2% | <span style="color: orange;">Medium</span> |
 | 1799 | ❌ [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/) | 57.8% | <span style="color: red;">Hard</span> |
-| 1800 | ❌ [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | 62.0% | <span style="color: green;">Easy</span> |
+| 1800 | ✔️ [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | 62.0% | <span style="color: green;">Easy</span> |
 | 1801 | ❌ [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/description/) | 50.4% | <span style="color: orange;">Medium</span> |
 | 1802 | ❌ [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/description/) | 39.1% | <span style="color: orange;">Medium</span> |
 | 1803 | ❌ [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/) | 48.1% | <span style="color: red;">Hard</span> |
