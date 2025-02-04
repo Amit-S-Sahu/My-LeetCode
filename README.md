@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 251/3312
+### Solved: 252/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -3110,7 +3110,7 @@
 | 3102 | ❌ [Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/description/) | 32.9% | <span style="color: red;">Hard</span> |
 | 3103 | ❌ [Find Trending Hashtags II](https://leetcode.com/problems/find-trending-hashtags-ii/description/) | 64.6% | <span style="color: red;">Hard</span> |
 | 3104 | ❌ [Find Longest Self-Contained Substring](https://leetcode.com/problems/find-longest-self-contained-substring/description/) | 55.6% | <span style="color: red;">Hard</span> |
-| 3105 | ❌ [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | 57.2% | <span style="color: green;">Easy</span> |
+| 3105 | ✔️ [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | 57.2% | <span style="color: green;">Easy</span> |
 | 3106 | ❌ [Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/description/) | 63.7% | <span style="color: orange;">Medium</span> |
 | 3107 | ❌ [Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/description/) | 48.7% | <span style="color: orange;">Medium</span> |
 | 3108 | ❌ [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/) | 46.2% | <span style="color: red;">Hard</span> |
