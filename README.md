@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 253/3312
+### Solved: 254/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1795,7 +1795,7 @@
 | 1787 | ❌ [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/) | 39.7% | <span style="color: red;">Hard</span> |
 | 1788 | ❌ [Maximize the Beauty of the Garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden/description/) | 66.1% | <span style="color: red;">Hard</span> |
 | 1789 | ❌ [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description/) | 66.5% | <span style="color: green;">Easy</span> |
-| 1790 | ❌ [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) | 45.9% | <span style="color: green;">Easy</span> |
+| 1790 | ✔️ [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) | 45.9% | <span style="color: green;">Easy</span> |
 | 1791 | ❌ [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | 86.7% | <span style="color: green;">Easy</span> |
 | 1792 | ❌ [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | 54.2% | <span style="color: orange;">Medium</span> |
 | 1793 | ❌ [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/) | 64.3% | <span style="color: red;">Hard</span> |
