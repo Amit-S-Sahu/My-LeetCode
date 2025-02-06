@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 254/3312
+### Solved: 255/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1731,7 +1731,7 @@
 | 1723 | ❌ [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/) | 42.8% | <span style="color: red;">Hard</span> |
 | 1724 | ❌ [Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/) | 51.0% | <span style="color: red;">Hard</span> |
 | 1725 | ❌ [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/description/) | 78.9% | <span style="color: green;">Easy</span> |
-| 1726 | ❌ [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | 61.3% | <span style="color: orange;">Medium</span> |
+| 1726 | ✔️ [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | 61.3% | <span style="color: orange;">Medium</span> |
 | 1727 | ❌ [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/) | 75.3% | <span style="color: orange;">Medium</span> |
 | 1728 | ❌ [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/description/) | 39.9% | <span style="color: red;">Hard</span> |
 | 1729 | ❌ [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/) | 69.2% | <span style="color: green;">Easy</span> |
