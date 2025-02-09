@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 257/3312
+### Solved: 258/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2369,7 +2369,7 @@
 | 2361 | ❌ [Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/description/) | 78.2% | <span style="color: red;">Hard</span> |
 | 2362 | ❌ [Generate the Invoice](https://leetcode.com/problems/generate-the-invoice/description/) | 74.5% | <span style="color: red;">Hard</span> |
 | 2363 | ❌ [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/) | 75.9% | <span style="color: green;">Easy</span> |
-| 2364 | ❌ [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/) | 42.0% | <span style="color: orange;">Medium</span> |
+| 2364 | ✔️ [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/) | 42.0% | <span style="color: orange;">Medium</span> |
 | 2365 | ❌ [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/description/) | 52.9% | <span style="color: orange;">Medium</span> |
 | 2366 | ❌ [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/) | 53.5% | <span style="color: red;">Hard</span> |
 | 2367 | ❌ [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/) | 84.5% | <span style="color: green;">Easy</span> |
