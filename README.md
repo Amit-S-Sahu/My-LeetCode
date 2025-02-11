@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 259/3312
+### Solved: 260/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -3179,7 +3179,7 @@
 | 3171 | ❌ [Find Subarray With Bitwise OR Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description/) | 31.1% | <span style="color: red;">Hard</span> |
 | 3172 | ❌ [Second Day Verification](https://leetcode.com/problems/second-day-verification/description/) | 71.1% | <span style="color: green;">Easy</span> |
 | 3173 | ❌ [Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/description/) | 95.6% | <span style="color: green;">Easy</span> |
-| 3174 | ❌ [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | 73.2% | <span style="color: green;">Easy</span> |
+| 3174 | ✔️ [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | 73.2% | <span style="color: green;">Easy</span> |
 | 3175 | ❌ [Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/description/) | 39.6% | <span style="color: orange;">Medium</span> |
 | 3176 | ❌ [Find the Maximum Length of a Good Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i/description/) | 30.8% | <span style="color: orange;">Medium</span> |
 | 3177 | ❌ [Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/description/) | 24.7% | <span style="color: red;">Hard</span> |
