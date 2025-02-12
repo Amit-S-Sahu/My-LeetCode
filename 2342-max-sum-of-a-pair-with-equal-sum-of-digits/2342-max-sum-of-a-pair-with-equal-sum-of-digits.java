@@ -18,9 +18,7 @@ class Solution {
 
         for (PriorityQueue<Integer> pq : map.values()) {
             if (pq.size() < 2) continue;
-            int num1 = pq.poll();
-            int num2 = pq.poll();
-            max = Math.max(max, num1 + num2);
+            max = Math.max(max, pq.poll() + pq.poll());
         }
 
         return max;
