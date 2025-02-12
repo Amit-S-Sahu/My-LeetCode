@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 260/3312
+### Solved: 261/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2347,7 +2347,7 @@
 | 2339 | ❌ [All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/) | 87.9% | <span style="color: green;">Easy</span> |
 | 2340 | ❌ [Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/description/) | 72.7% | <span style="color: orange;">Medium</span> |
 | 2341 | ❌ [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/) | 75.4% | <span style="color: green;">Easy</span> |
-| 2342 | ❌ [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | 55.4% | <span style="color: orange;">Medium</span> |
+| 2342 | ✔️ [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | 55.4% | <span style="color: orange;">Medium</span> |
 | 2343 | ❌ [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) | 44.5% | <span style="color: orange;">Medium</span> |
 | 2344 | ❌ [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/) | 56.5% | <span style="color: red;">Hard</span> |
 | 2345 | ❌ [Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/) | 37.7% | <span style="color: orange;">Medium</span> |
