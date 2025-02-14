@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 262/3312
+### Solved: 263/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -1357,7 +1357,7 @@
 | 1349 | ❌ [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/description/) | 51.2% | <span style="color: red;">Hard</span> |
 | 1350 | ❌ [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/description/) | 89.8% | <span style="color: green;">Easy</span> |
 | 1351 | ❌ [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/) | 77.5% | <span style="color: green;">Easy</span> |
-| 1352 | ❌ [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/) | 51.9% | <span style="color: orange;">Medium</span> |
+| 1352 | ✔️ [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/description/) | 51.9% | <span style="color: orange;">Medium</span> |
 | 1353 | ❌ [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) | 32.5% | <span style="color: orange;">Medium</span> |
 | 1354 | ❌ [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/) | 36.2% | <span style="color: red;">Hard</span> |
 | 1355 | ❌ [Activity Participants](https://leetcode.com/problems/activity-participants/description/) | 72.3% | <span style="color: orange;">Medium</span> |
