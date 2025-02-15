@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 263/3312
+### Solved: 264/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 7%
 
@@ -2703,7 +2703,7 @@
 | 2695 | ❌ [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/) | 88.3% | <span style="color: green;">Easy</span> |
 | 2696 | ✔️ [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/) | 75.1% | <span style="color: green;">Easy</span> |
 | 2697 | ❌ [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/) | 82.3% | <span style="color: green;">Easy</span> |
-| 2698 | ❌ [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/) | 63.2% | <span style="color: orange;">Medium</span> |
+| 2698 | ✔️ [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/) | 63.2% | <span style="color: orange;">Medium</span> |
 | 2699 | ❌ [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/) | 57.1% | <span style="color: red;">Hard</span> |
 | 2700 | ❌ [Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/description/) | 75.4% | <span style="color: orange;">Medium</span> |
 | 2701 | ❌ [Consecutive Transactions with Increasing Amounts](https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/description/) | 32.4% | <span style="color: red;">Hard</span> |
