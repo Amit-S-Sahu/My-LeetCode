@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 264/3312
+### Solved: 265/3312
 
-[█░░░░░░░░░░░░░░░░░░░] 7%
+[█░░░░░░░░░░░░░░░░░░░] 8%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -1723,7 +1723,7 @@
 | 1715 | ❌ [Count Apples and Oranges](https://leetcode.com/problems/count-apples-and-oranges/description/) | 75.7% | <span style="color: orange;">Medium</span> |
 | 1716 | ❌ [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/) | 78.4% | <span style="color: green;">Easy</span> |
 | 1717 | ❌ [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) | 63.0% | <span style="color: orange;">Medium</span> |
-| 1718 | ❌ [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) | 54.3% | <span style="color: orange;">Medium</span> |
+| 1718 | ✔️ [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) | 54.3% | <span style="color: orange;">Medium</span> |
 | 1719 | ❌ [Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/) | 44.6% | <span style="color: red;">Hard</span> |
 | 1720 | ❌ [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/) | 86.6% | <span style="color: green;">Easy</span> |
 | 1721 | ❌ [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | 68.1% | <span style="color: orange;">Medium</span> |
