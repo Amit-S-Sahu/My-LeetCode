@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 265/3312
+### Solved: 266/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -1084,7 +1084,7 @@
 | 1076 | ❌ [Project Employees II](https://leetcode.com/problems/project-employees-ii/description/) | 50.1% | <span style="color: green;">Easy</span> |
 | 1077 | ❌ [Project Employees III](https://leetcode.com/problems/project-employees-iii/description/) | 76.7% | <span style="color: orange;">Medium</span> |
 | 1078 | ❌ [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/) | 63.6% | <span style="color: green;">Easy</span> |
-| 1079 | ❌ [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) | 76.4% | <span style="color: orange;">Medium</span> |
+| 1079 | ✔️ [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) | 76.4% | <span style="color: orange;">Medium</span> |
 | 1080 | ❌ [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/) | 56.2% | <span style="color: orange;">Medium</span> |
 | 1081 | ❌ [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/) | 61.4% | <span style="color: orange;">Medium</span> |
 | 1082 | ❌ [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/description/) | 74.6% | <span style="color: green;">Easy</span> |
