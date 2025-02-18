@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 266/3312
+### Solved: 267/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2380,7 +2380,7 @@
 | 2372 | ❌ [Calculate the Influence of Each Salesperson](https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/description/) | 83.2% | <span style="color: orange;">Medium</span> |
 | 2373 | ❌ [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/) | 87.9% | <span style="color: green;">Easy</span> |
 | 2374 | ❌ [Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/description/) | 48.0% | <span style="color: orange;">Medium</span> |
-| 2375 | ❌ [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/) | 76.3% | <span style="color: orange;">Medium</span> |
+| 2375 | ✔️ [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/) | 76.3% | <span style="color: orange;">Medium</span> |
 | 2376 | ❌ [Count Special Integers](https://leetcode.com/problems/count-special-integers/description/) | 39.2% | <span style="color: red;">Hard</span> |
 | 2377 | ❌ [Sort the Olympic Table](https://leetcode.com/problems/sort-the-olympic-table/description/) | 79.1% | <span style="color: green;">Easy</span> |
 | 2378 | ❌ [Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/) | 58.3% | <span style="color: orange;">Medium</span> |
