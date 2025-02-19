@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 267/3312
+### Solved: 268/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -1420,7 +1420,7 @@
 | 1412 | ❌ [Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/description/) | 58.7% | <span style="color: red;">Hard</span> |
 | 1413 | ❌ [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/) | 65.2% | <span style="color: green;">Easy</span> |
 | 1414 | ❌ [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/) | 65.5% | <span style="color: orange;">Medium</span> |
-| 1415 | ❌ [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | 75.1% | <span style="color: orange;">Medium</span> |
+| 1415 | ✔️ [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) | 75.1% | <span style="color: orange;">Medium</span> |
 | 1416 | ❌ [Restore The Array](https://leetcode.com/problems/restore-the-array/description/) | 47.3% | <span style="color: red;">Hard</span> |
 | 1417 | ❌ [Reformat The String](https://leetcode.com/problems/reformat-the-string/description/) | 52.5% | <span style="color: green;">Easy</span> |
 | 1418 | ❌ [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/description/) | 75.3% | <span style="color: orange;">Medium</span> |
