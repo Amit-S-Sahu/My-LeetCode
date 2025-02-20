@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 268/3312
+### Solved: 269/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -1985,7 +1985,7 @@
 | 1977 | ❌ [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/) | 20.9% | <span style="color: red;">Hard</span> |
 | 1978 | ❌ [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/) | 48.7% | <span style="color: green;">Easy</span> |
 | 1979 | ❌ [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | 78.2% | <span style="color: green;">Easy</span> |
-| 1980 | ❌ [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | 74.7% | <span style="color: orange;">Medium</span> |
+| 1980 | ✔️ [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/) | 74.7% | <span style="color: orange;">Medium</span> |
 | 1981 | ❌ [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/description/) | 35.3% | <span style="color: orange;">Medium</span> |
 | 1982 | ❌ [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/description/) | 48.9% | <span style="color: red;">Hard</span> |
 | 1983 | ❌ [Widest Pair of Indices With Equal Range Sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/description/) | 54.0% | <span style="color: orange;">Medium</span> |
