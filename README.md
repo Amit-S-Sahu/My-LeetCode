@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 269/3312
+### Solved: 270/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -1266,7 +1266,7 @@
 | 1258 | ❌ [Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/description/) | 56.5% | <span style="color: orange;">Medium</span> |
 | 1259 | ❌ [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-don't-cross/description/) | 59.7% | <span style="color: red;">Hard</span> |
 | 1260 | ❌ [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/) | 67.5% | <span style="color: green;">Easy</span> |
-| 1261 | ❌ [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) | 77.6% | <span style="color: orange;">Medium</span> |
+| 1261 | ✔️ [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) | 77.6% | <span style="color: orange;">Medium</span> |
 | 1262 | ❌ [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/) | 50.6% | <span style="color: orange;">Medium</span> |
 | 1263 | ❌ [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/) | 49.1% | <span style="color: red;">Hard</span> |
 | 1264 | ❌ [Page Recommendations](https://leetcode.com/problems/page-recommendations/description/) | 65.2% | <span style="color: orange;">Medium</span> |
