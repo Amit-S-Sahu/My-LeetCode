@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 270/3312
+### Solved: 271/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -1033,7 +1033,7 @@
 | 1025 | ❌ [Divisor Game](https://leetcode.com/problems/divisor-game/description/) | 69.3% | <span style="color: green;">Easy</span> |
 | 1026 | ❌ [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | 78.1% | <span style="color: orange;">Medium</span> |
 | 1027 | ❌ [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) | 49.2% | <span style="color: orange;">Medium</span> |
-| 1028 | ❌ [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) | 75.2% | <span style="color: red;">Hard</span> |
+| 1028 | ✔️ [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) | 75.2% | <span style="color: red;">Hard</span> |
 | 1029 | ❌ [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) | 67.0% | <span style="color: orange;">Medium</span> |
 | 1030 | ❌ [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) | 71.8% | <span style="color: green;">Easy</span> |
 | 1031 | ❌ [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) | 59.9% | <span style="color: orange;">Medium</span> |
