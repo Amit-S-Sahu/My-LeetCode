@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 271/3312
+### Solved: 272/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -894,7 +894,7 @@
 | 886 | ❌ [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | 50.8% | <span style="color: orange;">Medium</span> |
 | 887 | ❌ [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/) | 28.1% | <span style="color: red;">Hard</span> |
 | 888 | ❌ [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | 62.3% | <span style="color: green;">Easy</span> |
-| 889 | ❌ [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | 71.7% | <span style="color: orange;">Medium</span> |
+| 889 | ✔️ [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | 71.7% | <span style="color: orange;">Medium</span> |
 | 890 | ❌ [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | 76.8% | <span style="color: orange;">Medium</span> |
 | 891 | ❌ [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) | 38.2% | <span style="color: red;">Hard</span> |
 | 892 | ❌ [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | 66.8% | <span style="color: green;">Easy</span> |
