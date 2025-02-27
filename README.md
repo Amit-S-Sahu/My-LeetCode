@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 275/3312
+### Solved: 276/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -878,7 +878,7 @@
 | 870 | ❌ [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | 52.8% | <span style="color: orange;">Medium</span> |
 | 871 | ❌ [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | 40.2% | <span style="color: red;">Hard</span> |
 | 872 | ❌ [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | 70.1% | <span style="color: green;">Easy</span> |
-| 873 | ❌ [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | 48.5% | <span style="color: orange;">Medium</span> |
+| 873 | ✔️ [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | 48.5% | <span style="color: orange;">Medium</span> |
 | 874 | ❌ [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | 57.9% | <span style="color: orange;">Medium</span> |
 | 875 | ❌ [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | 48.4% | <span style="color: orange;">Medium</span> |
 | 876 | ✔️ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 79.4% | <span style="color: green;">Easy</span> |
