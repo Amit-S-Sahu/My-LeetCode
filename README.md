@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 276/3312
+### Solved: 277/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -1097,7 +1097,7 @@
 | 1089 | ❌ [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) | 52.2% | <span style="color: green;">Easy</span> |
 | 1090 | ❌ [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) | 62.5% | <span style="color: orange;">Medium</span> |
 | 1091 | ❌ [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | 48.2% | <span style="color: orange;">Medium</span> |
-| 1092 | ❌ [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) | 59.6% | <span style="color: red;">Hard</span> |
+| 1092 | ✔️ [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) | 59.6% | <span style="color: red;">Hard</span> |
 | 1093 | ❌ [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/) | 42.1% | <span style="color: orange;">Medium</span> |
 | 1094 | ❌ [Car Pooling](https://leetcode.com/problems/car-pooling/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 1095 | ❌ [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) | 40.2% | <span style="color: red;">Hard</span> |
