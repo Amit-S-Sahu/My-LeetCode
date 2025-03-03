@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 279/3312
+### Solved: 280/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2166,7 +2166,7 @@
 | 2158 | ❌ [Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/description/) | 55.3% | <span style="color: red;">Hard</span> |
 | 2159 | ❌ [Order Two Columns Independently](https://leetcode.com/problems/order-two-columns-independently/description/) | 60.5% | <span style="color: orange;">Medium</span> |
 | 2160 | ❌ [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/) | 86.3% | <span style="color: green;">Easy</span> |
-| 2161 | ❌ [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | 85.2% | <span style="color: orange;">Medium</span> |
+| 2161 | ✔️ [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | 85.2% | <span style="color: orange;">Medium</span> |
 | 2162 | ❌ [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/description/) | 41.4% | <span style="color: orange;">Medium</span> |
 | 2163 | ❌ [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/) | 48.0% | <span style="color: red;">Hard</span> |
 | 2164 | ❌ [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/description/) | 62.6% | <span style="color: green;">Easy</span> |
