@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 280/3312
+### Solved: 281/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -1785,7 +1785,7 @@
 | 1777 | ❌ [Product's Price for Each Store](https://leetcode.com/problems/product's-price-for-each-store/description/) | 82.3% | <span style="color: green;">Easy</span> |
 | 1778 | ❌ [Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/description/) | 40.9% | <span style="color: orange;">Medium</span> |
 | 1779 | ❌ [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/) | 68.9% | <span style="color: green;">Easy</span> |
-| 1780 | ❌ [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) | 68.2% | <span style="color: orange;">Medium</span> |
+| 1780 | ✔️ [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) | 68.2% | <span style="color: orange;">Medium</span> |
 | 1781 | ❌ [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/) | 68.1% | <span style="color: orange;">Medium</span> |
 | 1782 | ❌ [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/description/) | 40.5% | <span style="color: red;">Hard</span> |
 | 1783 | ❌ [Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/description/) | 83.1% | <span style="color: orange;">Medium</span> |
