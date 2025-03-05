@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 281/3312
+### Solved: 282/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2584,7 +2584,7 @@
 | 2576 | ❌ [Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/description/) | 39.0% | <span style="color: orange;">Medium</span> |
 | 2577 | ✔️ [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/) | 35.6% | <span style="color: red;">Hard</span> |
 | 2578 | ❌ [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/description/) | 71.2% | <span style="color: green;">Easy</span> |
-| 2579 | ❌ [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | 58.1% | <span style="color: orange;">Medium</span> |
+| 2579 | ✔️ [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) | 58.1% | <span style="color: orange;">Medium</span> |
 | 2580 | ❌ [Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/description/) | 36.7% | <span style="color: orange;">Medium</span> |
 | 2581 | ❌ [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/description/) | 46.5% | <span style="color: red;">Hard</span> |
 | 2582 | ❌ [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/) | 56.9% | <span style="color: green;">Easy</span> |
