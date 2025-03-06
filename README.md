@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 282/3312
+### Solved: 283/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2970,7 +2970,7 @@
 | 2962 | ❌ [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/) | 58.9% | <span style="color: orange;">Medium</span> |
 | 2963 | ❌ [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/description/) | 49.8% | <span style="color: red;">Hard</span> |
 | 2964 | ❌ [Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/description/) | 65.1% | <span style="color: orange;">Medium</span> |
-| 2965 | ❌ [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | 76.2% | <span style="color: green;">Easy</span> |
+| 2965 | ✔️ [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | 76.2% | <span style="color: green;">Easy</span> |
 | 2966 | ❌ [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | 71.8% | <span style="color: orange;">Medium</span> |
 | 2967 | ❌ [Minimum Cost to Make Array Equalindromic](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/) | 22.4% | <span style="color: orange;">Medium</span> |
 | 2968 | ❌ [Apply Operations to Maximize Frequency Score](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/) | 38.4% | <span style="color: red;">Hard</span> |
