@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 283/3312
+### Solved: 284/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2528,7 +2528,7 @@
 | 2520 | ❌ [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/) | 85.0% | <span style="color: green;">Easy</span> |
 | 2521 | ❌ [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/) | 52.0% | <span style="color: orange;">Medium</span> |
 | 2522 | ❌ [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/description/) | 46.5% | <span style="color: orange;">Medium</span> |
-| 2523 | ❌ [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | 38.3% | <span style="color: orange;">Medium</span> |
+| 2523 | ✔️ [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | 38.3% | <span style="color: orange;">Medium</span> |
 | 2524 | ❌ [Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/) | 39.8% | <span style="color: red;">Hard</span> |
 | 2525 | ❌ [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/description/) | 36.2% | <span style="color: green;">Easy</span> |
 | 2526 | ❌ [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/description/) | 49.6% | <span style="color: orange;">Medium</span> |
