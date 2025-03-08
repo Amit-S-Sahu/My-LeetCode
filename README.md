@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 284/3312
+### Solved: 285/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2384,7 +2384,7 @@
 | 2376 | ❌ [Count Special Integers](https://leetcode.com/problems/count-special-integers/description/) | 39.2% | <span style="color: red;">Hard</span> |
 | 2377 | ❌ [Sort the Olympic Table](https://leetcode.com/problems/sort-the-olympic-table/description/) | 79.1% | <span style="color: green;">Easy</span> |
 | 2378 | ❌ [Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/) | 58.3% | <span style="color: orange;">Medium</span> |
-| 2379 | ❌ [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) | 59.4% | <span style="color: green;">Easy</span> |
+| 2379 | ✔️ [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) | 59.4% | <span style="color: green;">Easy</span> |
 | 2380 | ❌ [Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/) | 51.0% | <span style="color: orange;">Medium</span> |
 | 2381 | ✔️ [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/) | 38.0% | <span style="color: orange;">Medium</span> |
 | 2382 | ❌ [Maximum Segment Sum After Removals](https://leetcode.com/problems/maximum-segment-sum-after-removals/description/) | 48.8% | <span style="color: red;">Hard</span> |
