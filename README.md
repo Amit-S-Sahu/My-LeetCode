@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 285/3312
+### Solved: 286/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -3213,7 +3213,7 @@
 | 3205 | ❌ [Maximum Array Hopping Score I](https://leetcode.com/problems/maximum-array-hopping-score-i/description/) | 80.3% | <span style="color: orange;">Medium</span> |
 | 3206 | ❌ [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/description/) | 67.1% | <span style="color: green;">Easy</span> |
 | 3207 | ❌ [Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/description/) | 31.9% | <span style="color: orange;">Medium</span> |
-| 3208 | ❌ [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | 40.8% | <span style="color: orange;">Medium</span> |
+| 3208 | ✔️ [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/) | 40.8% | <span style="color: orange;">Medium</span> |
 | 3209 | ❌ [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/) | 34.4% | <span style="color: red;">Hard</span> |
 | 3210 | ❌ [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/description/) | 69.1% | <span style="color: green;">Easy</span> |
 | 3211 | ❌ [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/) | 86.5% | <span style="color: orange;">Medium</span> |
