@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 286/3312
+### Solved: 287/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -3311,7 +3311,7 @@
 | 3303 | ❌ [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/description/) | 10.7% | <span style="color: red;">Hard</span> |
 | 3304 | ✔️ [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/) | 70.5% | <span style="color: green;">Easy</span> |
 | 3305 | ✔️ [Count of Substrings Containing Every Vowel and K Consonants I](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/description/) | 40.1% | <span style="color: orange;">Medium</span> |
-| 3306 | ❌ [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/) | 19.7% | <span style="color: orange;">Medium</span> |
+| 3306 | ✔️ [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/) | 19.7% | <span style="color: orange;">Medium</span> |
 | 3307 | ❌ [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/) | 28.0% | <span style="color: red;">Hard</span> |
 | 3308 | ❌ [Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/description/) | 59.2% | <span style="color: orange;">Medium</span> |
 | 3309 | ❌ [Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/description/) | 64.6% | <span style="color: orange;">Medium</span> |
