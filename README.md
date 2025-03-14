@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 289/3312
+### Solved: 290/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2231,7 +2231,7 @@
 | 2223 | ❌ [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/) | 41.0% | <span style="color: red;">Hard</span> |
 | 2224 | ❌ [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/description/) | 65.5% | <span style="color: green;">Easy</span> |
 | 2225 | ❌ [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | 73.1% | <span style="color: orange;">Medium</span> |
-| 2226 | ❌ [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) | 38.5% | <span style="color: orange;">Medium</span> |
+| 2226 | ✔️ [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) | 38.5% | <span style="color: orange;">Medium</span> |
 | 2227 | ❌ [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/description/) | 40.8% | <span style="color: red;">Hard</span> |
 | 2228 | ❌ [Users With Two Purchases Within Seven Days](https://leetcode.com/problems/users-with-two-purchases-within-seven-days/description/) | 45.0% | <span style="color: orange;">Medium</span> |
 | 2229 | ❌ [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/description/) | 61.6% | <span style="color: green;">Easy</span> |
