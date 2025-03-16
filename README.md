@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 291/3312
+### Solved: 292/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2599,7 +2599,7 @@
 | 2591 | ❌ [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/description/) | 19.3% | <span style="color: green;">Easy</span> |
 | 2592 | ❌ [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/description/) | 58.6% | <span style="color: orange;">Medium</span> |
 | 2593 | ❌ [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/) | 52.7% | <span style="color: orange;">Medium</span> |
-| 2594 | ❌ [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/) | 45.4% | <span style="color: orange;">Medium</span> |
+| 2594 | ✔️ [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/) | 45.4% | <span style="color: orange;">Medium</span> |
 | 2595 | ❌ [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/description/) | 73.7% | <span style="color: green;">Easy</span> |
 | 2596 | ❌ [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 2597 | ❌ [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/) | 51.1% | <span style="color: orange;">Medium</span> |
