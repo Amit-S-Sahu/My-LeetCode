@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 292/3312
+### Solved: 293/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2211,7 +2211,7 @@
 | 2203 | ❌ [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/) | 37.2% | <span style="color: red;">Hard</span> |
 | 2204 | ❌ [Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/description/) | 68.1% | <span style="color: red;">Hard</span> |
 | 2205 | ❌ [The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/description/) | 50.1% | <span style="color: green;">Easy</span> |
-| 2206 | ❌ [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) | 73.9% | <span style="color: green;">Easy</span> |
+| 2206 | ✔️ [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) | 73.9% | <span style="color: green;">Easy</span> |
 | 2207 | ❌ [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/) | 35.1% | <span style="color: orange;">Medium</span> |
 | 2208 | ❌ [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/description/) | 47.2% | <span style="color: orange;">Medium</span> |
 | 2209 | ❌ [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/) | 37.2% | <span style="color: red;">Hard</span> |
