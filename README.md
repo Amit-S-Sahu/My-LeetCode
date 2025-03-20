@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 294/3312
+### Solved: 296/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -3113,7 +3113,7 @@
 | 3105 | ✔️ [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | 57.2% | <span style="color: green;">Easy</span> |
 | 3106 | ❌ [Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/description/) | 63.7% | <span style="color: orange;">Medium</span> |
 | 3107 | ❌ [Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/description/) | 48.7% | <span style="color: orange;">Medium</span> |
-| 3108 | ❌ [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/) | 46.2% | <span style="color: red;">Hard</span> |
+| 3108 | ✔️ [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/) | 46.2% | <span style="color: red;">Hard</span> |
 | 3109 | ❌ [Find the Index of Permutation](https://leetcode.com/problems/find-the-index-of-permutation/description/) | 42.4% | <span style="color: orange;">Medium</span> |
 | 3110 | ❌ [Score of a String](https://leetcode.com/problems/score-of-a-string/description/) | 92.9% | <span style="color: green;">Easy</span> |
 | 3111 | ❌ [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/) | 63.8% | <span style="color: orange;">Medium</span> |
@@ -3196,7 +3196,7 @@
 | 3188 | ❌ [Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/description/) | 38.4% | <span style="color: red;">Hard</span> |
 | 3189 | ❌ [Minimum Moves to Get a Peaceful Board](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/description/) | 77.0% | <span style="color: orange;">Medium</span> |
 | 3190 | ❌ [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/) | 89.9% | <span style="color: green;">Easy</span> |
-| 3191 | ❌ [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | 71.1% | <span style="color: orange;">Medium</span> |
+| 3191 | ✔️ [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | 71.1% | <span style="color: orange;">Medium</span> |
 | 3192 | ❌ [Minimum Operations to Make Binary Array Elements Equal to One II](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/description/) | 65.4% | <span style="color: orange;">Medium</span> |
 | 3193 | ❌ [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/description/) | 33.8% | <span style="color: red;">Hard</span> |
 | 3194 | ❌ [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/) | 85.4% | <span style="color: green;">Easy</span> |
