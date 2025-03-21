@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 296/3312
+### Solved: 297/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 8%
 
@@ -2120,7 +2120,7 @@
 | 2112 | ❌ [The Airport With the Most Traffic](https://leetcode.com/problems/the-airport-with-the-most-traffic/description/) | 70.6% | <span style="color: orange;">Medium</span> |
 | 2113 | ❌ [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/description/) | 73.5% | <span style="color: orange;">Medium</span> |
 | 2114 | ❌ [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/) | 86.6% | <span style="color: green;">Easy</span> |
-| 2115 | ❌ [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/) | 50.3% | <span style="color: orange;">Medium</span> |
+| 2115 | ✔️ [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/) | 50.3% | <span style="color: orange;">Medium</span> |
 | 2116 | ✔️ [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/) | 32.2% | <span style="color: orange;">Medium</span> |
 | 2117 | ❌ [Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/description/) | 26.1% | <span style="color: red;">Hard</span> |
 | 2118 | ❌ [Build the Equation](https://leetcode.com/problems/build-the-equation/description/) | 55.8% | <span style="color: red;">Hard</span> |
