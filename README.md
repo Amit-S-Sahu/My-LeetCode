@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 298/3312
+### Solved: 299/3312
 
-[█░░░░░░░░░░░░░░░░░░░] 8%
+[█░░░░░░░░░░░░░░░░░░░] 9%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -3174,7 +3174,7 @@
 | 3166 | ❌ [Calculate Parking Fees and Duration](https://leetcode.com/problems/calculate-parking-fees-and-duration/description/) | 52.4% | <span style="color: orange;">Medium</span> |
 | 3167 | ❌ [Better Compression of String](https://leetcode.com/problems/better-compression-of-string/description/) | 76.1% | <span style="color: orange;">Medium</span> |
 | 3168 | ❌ [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/) | 80.7% | <span style="color: green;">Easy</span> |
-| 3169 | ❌ [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/) | 34.0% | <span style="color: orange;">Medium</span> |
+| 3169 | ✔️ [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/) | 34.0% | <span style="color: orange;">Medium</span> |
 | 3170 | ❌ [Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/) | 35.9% | <span style="color: orange;">Medium</span> |
 | 3171 | ❌ [Find Subarray With Bitwise OR Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description/) | 31.1% | <span style="color: red;">Hard</span> |
 | 3172 | ❌ [Second Day Verification](https://leetcode.com/problems/second-day-verification/description/) | 71.1% | <span style="color: green;">Easy</span> |
