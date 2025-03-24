@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 299/3312
+### Solved: 300/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -1981,7 +1981,7 @@
 | 1973 | ❌ [Count Nodes Equal to Sum of Descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/description/) | 77.2% | <span style="color: orange;">Medium</span> |
 | 1974 | ❌ [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/description/) | 75.9% | <span style="color: green;">Easy</span> |
 | 1975 | ✔️ [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/) | 50.0% | <span style="color: orange;">Medium</span> |
-| 1976 | ❌ [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | 27.8% | <span style="color: orange;">Medium</span> |
+| 1976 | ✔️ [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) | 27.8% | <span style="color: orange;">Medium</span> |
 | 1977 | ❌ [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/description/) | 20.9% | <span style="color: red;">Hard</span> |
 | 1978 | ❌ [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/) | 48.7% | <span style="color: green;">Easy</span> |
 | 1979 | ❌ [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | 78.2% | <span style="color: green;">Easy</span> |
