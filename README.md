@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 300/3312
+### Solved: 301/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2038,7 +2038,7 @@
 | 2030 | ❌ [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/) | 39.4% | <span style="color: red;">Hard</span> |
 | 2031 | ❌ [Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/description/) | 51.8% | <span style="color: orange;">Medium</span> |
 | 2032 | ❌ [Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/) | 75.8% | <span style="color: green;">Easy</span> |
-| 2033 | ❌ [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/) | 53.5% | <span style="color: orange;">Medium</span> |
+| 2033 | ✔️ [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/) | 53.5% | <span style="color: orange;">Medium</span> |
 | 2034 | ❌ [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/description/) | 48.6% | <span style="color: orange;">Medium</span> |
 | 2035 | ❌ [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/) | 20.7% | <span style="color: red;">Hard</span> |
 | 2036 | ❌ [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/description/) | 40.1% | <span style="color: orange;">Medium</span> |
