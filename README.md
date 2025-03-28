@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 302/3312
+### Solved: 303/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2508,7 +2508,7 @@
 | 2500 | ❌ [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/) | 78.6% | <span style="color: green;">Easy</span> |
 | 2501 | ✔️ [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/) | 40.2% | <span style="color: orange;">Medium</span> |
 | 2502 | ❌ [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/description/) | 53.3% | <span style="color: orange;">Medium</span> |
-| 2503 | ❌ [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/) | 38.1% | <span style="color: red;">Hard</span> |
+| 2503 | ✔️ [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/description/) | 38.1% | <span style="color: red;">Hard</span> |
 | 2504 | ❌ [Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession/description/) | 76.7% | <span style="color: green;">Easy</span> |
 | 2505 | ❌ [Bitwise OR of All Subsequence Sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/) | 66.8% | <span style="color: orange;">Medium</span> |
 | 2506 | ❌ [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description/) | 71.4% | <span style="color: green;">Easy</span> |
