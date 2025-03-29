@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 303/3312
+### Solved: 304/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2823,7 +2823,7 @@
 | 2815 | ❌ [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/description/) | 58.7% | <span style="color: green;">Easy</span> |
 | 2816 | ❌ [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/) | 61.5% | <span style="color: orange;">Medium</span> |
 | 2817 | ❌ [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/description/) | 34.4% | <span style="color: orange;">Medium</span> |
-| 2818 | ❌ [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/description/) | 32.8% | <span style="color: red;">Hard</span> |
+| 2818 | ✔️ [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/description/) | 32.8% | <span style="color: red;">Hard</span> |
 | 2819 | ❌ [Minimum Relative Loss After Buying Chocolates](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/description/) | 53.0% | <span style="color: red;">Hard</span> |
 | 2820 | ❌ [Election Results](https://leetcode.com/problems/election-results/description/) | 67.0% | <span style="color: orange;">Medium</span> |
 | 2821 | ❌ [Delay the Resolution of Each Promise](https://leetcode.com/problems/delay-the-resolution-of-each-promise/description/) | 66.9% | <span style="color: orange;">Medium</span> |
