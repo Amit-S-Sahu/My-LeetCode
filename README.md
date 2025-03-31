@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 305/3312
+### Solved: 306/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2556,7 +2556,7 @@
 | 2548 | ❌ [Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/description/) | 66.7% | <span style="color: orange;">Medium</span> |
 | 2549 | ❌ [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/description/) | 60.7% | <span style="color: green;">Easy</span> |
 | 2550 | ❌ [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/description/) | 28.2% | <span style="color: orange;">Medium</span> |
-| 2551 | ❌ [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/) | 66.5% | <span style="color: red;">Hard</span> |
+| 2551 | ✔️ [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/) | 66.5% | <span style="color: red;">Hard</span> |
 | 2552 | ❌ [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/description/) | 33.6% | <span style="color: red;">Hard</span> |
 | 2553 | ❌ [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/) | 79.8% | <span style="color: green;">Easy</span> |
 | 2554 | ✔️ [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/) | 54.5% | <span style="color: orange;">Medium</span> |
