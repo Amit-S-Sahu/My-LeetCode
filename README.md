@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 306/3312
+### Solved: 307/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2145,7 +2145,7 @@
 | 2137 | ❌ [Pour Water Between Buckets to Make Water Levels Equal](https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/description/) | 67.7% | <span style="color: orange;">Medium</span> |
 | 2138 | ❌ [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/description/) | 67.2% | <span style="color: green;">Easy</span> |
 | 2139 | ❌ [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/description/) | 51.1% | <span style="color: orange;">Medium</span> |
-| 2140 | ❌ [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/) | 55.1% | <span style="color: orange;">Medium</span> |
+| 2140 | ✔️ [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/) | 55.1% | <span style="color: orange;">Medium</span> |
 | 2141 | ❌ [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/) | 50.0% | <span style="color: red;">Hard</span> |
 | 2142 | ❌ [The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/description/) | 48.7% | <span style="color: orange;">Medium</span> |
 | 2143 | ❌ [Choose Numbers From Two Arrays in Range](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/description/) | 52.3% | <span style="color: red;">Hard</span> |
