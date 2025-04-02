@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 307/3312
+### Solved: 308/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2878,7 +2878,7 @@
 | 2870 | ❌ [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/) | 62.0% | <span style="color: orange;">Medium</span> |
 | 2871 | ❌ [Split Array Into Maximum Number of Subarrays](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/description/) | 44.1% | <span style="color: orange;">Medium</span> |
 | 2872 | ✔️ [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/) | 57.4% | <span style="color: red;">Hard</span> |
-| 2873 | ❌ [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/) | 46.1% | <span style="color: green;">Easy</span> |
+| 2873 | ✔️ [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/) | 46.1% | <span style="color: green;">Easy</span> |
 | 2874 | ❌ [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description/) | 41.4% | <span style="color: orange;">Medium</span> |
 | 2875 | ❌ [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/description/) | 31.0% | <span style="color: orange;">Medium</span> |
 | 2876 | ❌ [Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/description/) | 33.1% | <span style="color: red;">Hard</span> |
