@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 309/3312
+### Solved: 310/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -1128,7 +1128,7 @@
 | 1120 | ❌ [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/) | 66.7% | <span style="color: orange;">Medium</span> |
 | 1121 | ❌ [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) | 60.9% | <span style="color: red;">Hard</span> |
 | 1122 | ❌ [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) | 74.8% | <span style="color: green;">Easy</span> |
-| 1123 | ❌ [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) | 72.7% | <span style="color: orange;">Medium</span> |
+| 1123 | ✔️ [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) | 72.7% | <span style="color: orange;">Medium</span> |
 | 1124 | ❌ [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/) | 35.4% | <span style="color: orange;">Medium</span> |
 | 1125 | ❌ [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) | 55.5% | <span style="color: red;">Hard</span> |
 | 1126 | ❌ [Active Businesses](https://leetcode.com/problems/active-businesses/description/) | 65.7% | <span style="color: orange;">Medium</span> |
