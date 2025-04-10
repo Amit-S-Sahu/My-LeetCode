@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 313/3312
+### Solved: 314/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -3004,7 +3004,7 @@
 | 2996 | ❌ [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/) | 33.0% | <span style="color: green;">Easy</span> |
 | 2997 | ❌ [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/) | 86.3% | <span style="color: orange;">Medium</span> |
 | 2998 | ❌ [Minimum Number of Operations to Make X and Y Equal](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/description/) | 47.5% | <span style="color: orange;">Medium</span> |
-| 2999 | ❌ [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/) | 26.3% | <span style="color: red;">Hard</span> |
+| 2999 | ✔️ [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/) | 26.3% | <span style="color: red;">Hard</span> |
 | 3000 | ❌ [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/) | 36.6% | <span style="color: green;">Easy</span> |
 | 3001 | ❌ [Minimum Moves to Capture The Queen](https://leetcode.com/problems/minimum-moves-to-capture-the-queen/description/) | 21.2% | <span style="color: orange;">Medium</span> |
 | 3002 | ❌ [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/description/) | 46.0% | <span style="color: orange;">Medium</span> |
