@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 314/3312
+### Solved: 315/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2848,7 +2848,7 @@
 | 2840 | ❌ [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/) | 56.2% | <span style="color: orange;">Medium</span> |
 | 2841 | ❌ [Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/) | 38.4% | <span style="color: orange;">Medium</span> |
 | 2842 | ❌ [Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/description/) | 29.6% | <span style="color: red;">Hard</span> |
-| 2843 | ❌ [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/) | 74.6% | <span style="color: green;">Easy</span> |
+| 2843 | ✔️ [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/) | 74.6% | <span style="color: green;">Easy</span> |
 | 2844 | ❌ [Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/description/) | 38.3% | <span style="color: orange;">Medium</span> |
 | 2845 | ❌ [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/description/) | 35.9% | <span style="color: orange;">Medium</span> |
 | 2846 | ❌ [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/) | 44.7% | <span style="color: red;">Hard</span> |
