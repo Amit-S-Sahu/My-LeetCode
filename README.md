@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 315/3312
+### Solved: 316/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -3277,7 +3277,7 @@
 | 3269 | ❌ [Constructing Two Increasing Arrays](https://leetcode.com/problems/constructing-two-increasing-arrays/description/) | 65.9% | <span style="color: red;">Hard</span> |
 | 3270 | ❌ [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/description/) | 76.6% | <span style="color: green;">Easy</span> |
 | 3271 | ❌ [Hash Divided String](https://leetcode.com/problems/hash-divided-string/description/) | 84.6% | <span style="color: orange;">Medium</span> |
-| 3272 | ❌ [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/) | 29.5% | <span style="color: red;">Hard</span> |
+| 3272 | ✔️ [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/description/) | 29.5% | <span style="color: red;">Hard</span> |
 | 3273 | ❌ [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/description/) | 37.7% | <span style="color: red;">Hard</span> |
 | 3274 | ❌ [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/description/) | 70.0% | <span style="color: green;">Easy</span> |
 | 3275 | ❌ [K-th Nearest Obstacle Queries](https://leetcode.com/problems/k-th-nearest-obstacle-queries/description/) | 47.7% | <span style="color: orange;">Medium</span> |
