@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 316/3312
+### Solved: 317/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -1927,7 +1927,7 @@
 | 1919 | ❌ [Leetcodify Similar Friends](https://leetcode.com/problems/leetcodify-similar-friends/description/) | 42.2% | <span style="color: red;">Hard</span> |
 | 1920 | ❌ [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) | 90.0% | <span style="color: green;">Easy</span> |
 | 1921 | ❌ [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/) | 50.9% | <span style="color: orange;">Medium</span> |
-| 1922 | ❌ [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | 46.9% | <span style="color: orange;">Medium</span> |
+| 1922 | ✔️ [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 1923 | ❌ [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/description/) | 28.5% | <span style="color: red;">Hard</span> |
 | 1924 | ❌ [Erect the Fence II](https://leetcode.com/problems/erect-the-fence-ii/description/) | 50.8% | <span style="color: red;">Hard</span> |
 | 1925 | ❌ [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/) | 68.2% | <span style="color: green;">Easy</span> |
