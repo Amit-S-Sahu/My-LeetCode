@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 317/3312
+### Solved: 318/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -1539,7 +1539,7 @@
 | 1531 | ❌ [String Compression II](https://leetcode.com/problems/string-compression-ii/description/) | 52.5% | <span style="color: red;">Hard</span> |
 | 1532 | ❌ [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders/description/) | 68.4% | <span style="color: orange;">Medium</span> |
 | 1533 | ❌ [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/description/) | 56.2% | <span style="color: orange;">Medium</span> |
-| 1534 | ❌ [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/) | 81.5% | <span style="color: green;">Easy</span> |
+| 1534 | ✔️ [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/) | 81.5% | <span style="color: green;">Easy</span> |
 | 1535 | ❌ [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/) | 56.9% | <span style="color: orange;">Medium</span> |
 | 1536 | ❌ [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) | 47.8% | <span style="color: orange;">Medium</span> |
 | 1537 | ❌ [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/description/) | 39.7% | <span style="color: red;">Hard</span> |
