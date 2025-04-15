@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 318/3312
+### Solved: 319/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2184,7 +2184,7 @@
 | 2176 | ❌ [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/) | 79.7% | <span style="color: green;">Easy</span> |
 | 2177 | ❌ [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/description/) | 64.8% | <span style="color: orange;">Medium</span> |
 | 2178 | ❌ [Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/description/) | 59.3% | <span style="color: orange;">Medium</span> |
-| 2179 | ❌ [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) | 41.5% | <span style="color: red;">Hard</span> |
+| 2179 | ✔️ [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) | 41.5% | <span style="color: red;">Hard</span> |
 | 2180 | ❌ [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/description/) | 67.7% | <span style="color: green;">Easy</span> |
 | 2181 | ❌ [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) | 89.8% | <span style="color: orange;">Medium</span> |
 | 2182 | ✔️ [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/) | 54.8% | <span style="color: orange;">Medium</span> |
