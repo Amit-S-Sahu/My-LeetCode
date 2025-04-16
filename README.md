@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 319/3312
+### Solved: 320/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2542,7 +2542,7 @@
 | 2534 | ❌ [Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/description/) | 49.2% | <span style="color: red;">Hard</span> |
 | 2535 | ❌ [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/) | 84.7% | <span style="color: green;">Easy</span> |
 | 2536 | ❌ [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/description/) | 50.2% | <span style="color: orange;">Medium</span> |
-| 2537 | ❌ [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/) | 51.7% | <span style="color: orange;">Medium</span> |
+| 2537 | ✔️ [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/) | 51.7% | <span style="color: orange;">Medium</span> |
 | 2538 | ❌ [Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/) | 32.2% | <span style="color: red;">Hard</span> |
 | 2539 | ❌ [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/description/) | 52.6% | <span style="color: orange;">Medium</span> |
 | 2540 | ❌ [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/) | 58.6% | <span style="color: green;">Easy</span> |
