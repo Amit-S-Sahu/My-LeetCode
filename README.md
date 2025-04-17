@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 320/3312
+### Solved: 321/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2181,7 +2181,7 @@
 | 2173 | ❌ [Longest Winning Streak](https://leetcode.com/problems/longest-winning-streak/description/) | 52.6% | <span style="color: red;">Hard</span> |
 | 2174 | ❌ [Remove All Ones With Row and Column Flips II](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/) | 67.2% | <span style="color: orange;">Medium</span> |
 | 2175 | ❌ [The Change in Global Rankings](https://leetcode.com/problems/the-change-in-global-rankings/description/) | 60.4% | <span style="color: orange;">Medium</span> |
-| 2176 | ❌ [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/) | 79.7% | <span style="color: green;">Easy</span> |
+| 2176 | ✔️ [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/) | 79.7% | <span style="color: green;">Easy</span> |
 | 2177 | ❌ [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/description/) | 64.8% | <span style="color: orange;">Medium</span> |
 | 2178 | ❌ [Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/description/) | 59.3% | <span style="color: orange;">Medium</span> |
 | 2179 | ✔️ [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) | 41.5% | <span style="color: red;">Hard</span> |
