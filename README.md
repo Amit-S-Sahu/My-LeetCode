@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 322/3312
+### Solved: 323/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -786,7 +786,7 @@
 | 778 | ❌ [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | 61.6% | <span style="color: red;">Hard</span> |
 | 779 | ❌ [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) | 46.8% | <span style="color: orange;">Medium</span> |
 | 780 | ❌ [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | 33.4% | <span style="color: red;">Hard</span> |
-| 781 | ❌ [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | 53.0% | <span style="color: orange;">Medium</span> |
+| 781 | ✔️ [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | 53.0% | <span style="color: orange;">Medium</span> |
 | 782 | ❌ [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) | 50.7% | <span style="color: red;">Hard</span> |
 | 783 | ❌ [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | 59.8% | <span style="color: green;">Easy</span> |
 | 784 | ❌ [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | 74.5% | <span style="color: orange;">Medium</span> |
