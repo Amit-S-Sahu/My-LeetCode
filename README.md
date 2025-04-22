@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 323/3312
+### Solved: 324/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2150,7 +2150,7 @@
 | 2142 | ❌ [The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/description/) | 48.7% | <span style="color: orange;">Medium</span> |
 | 2143 | ❌ [Choose Numbers From Two Arrays in Range](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/description/) | 52.3% | <span style="color: red;">Hard</span> |
 | 2144 | ❌ [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | 61.6% | <span style="color: green;">Easy</span> |
-| 2145 | ❌ [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/) | 39.1% | <span style="color: orange;">Medium</span> |
+| 2145 | ✔️ [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/) | 39.1% | <span style="color: orange;">Medium</span> |
 | 2146 | ❌ [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/) | 43.5% | <span style="color: orange;">Medium</span> |
 | 2147 | ❌ [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/) | 49.3% | <span style="color: red;">Hard</span> |
 | 2148 | ❌ [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/description/) | 59.5% | <span style="color: green;">Easy</span> |
