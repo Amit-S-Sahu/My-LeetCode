@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 324/3312
+### Solved: 325/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2343,7 +2343,7 @@
 | 2335 | ❌ [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/) | 58.2% | <span style="color: green;">Easy</span> |
 | 2336 | ❌ [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) | 71.5% | <span style="color: orange;">Medium</span> |
 | 2337 | ✔️ [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/) | 47.7% | <span style="color: orange;">Medium</span> |
-| 2338 | ❌ [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/) | 26.9% | <span style="color: red;">Hard</span> |
+| 2338 | ✔️ [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/) | 26.9% | <span style="color: red;">Hard</span> |
 | 2339 | ❌ [All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/) | 87.9% | <span style="color: green;">Easy</span> |
 | 2340 | ❌ [Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/description/) | 72.7% | <span style="color: orange;">Medium</span> |
 | 2341 | ❌ [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/) | 75.4% | <span style="color: green;">Easy</span> |
