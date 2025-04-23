@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 325/3312
+### Solved: 326/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -1404,7 +1404,7 @@
 | 1396 | ❌ [Design Underground System](https://leetcode.com/problems/design-underground-system/description/) | 74.7% | <span style="color: orange;">Medium</span> |
 | 1397 | ❌ [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/description/) | 42.7% | <span style="color: red;">Hard</span> |
 | 1398 | ❌ [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/description/) | 72.4% | <span style="color: orange;">Medium</span> |
-| 1399 | ❌ [Count Largest Group](https://leetcode.com/problems/count-largest-group/description/) | 66.5% | <span style="color: green;">Easy</span> |
+| 1399 | ✔️ [Count Largest Group](https://leetcode.com/problems/count-largest-group/description/) | 66.5% | <span style="color: green;">Easy</span> |
 | 1400 | ✔️ [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description/) | 62.2% | <span style="color: orange;">Medium</span> |
 | 1401 | ❌ [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 1402 | ❌ [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/) | 76.3% | <span style="color: red;">Hard</span> |
