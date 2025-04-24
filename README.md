@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 326/3312
+### Solved: 327/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2804,7 +2804,7 @@
 | 2796 | ❌ [Repeat String](https://leetcode.com/problems/repeat-string/description/) | 92.9% | <span style="color: green;">Easy</span> |
 | 2797 | ❌ [Partial Function with Placeholders](https://leetcode.com/problems/partial-function-with-placeholders/description/) | 89.8% | <span style="color: green;">Easy</span> |
 | 2798 | ❌ [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/) | 87.9% | <span style="color: green;">Easy</span> |
-| 2799 | ❌ [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) | 65.6% | <span style="color: orange;">Medium</span> |
+| 2799 | ✔️ [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) | 65.6% | <span style="color: orange;">Medium</span> |
 | 2800 | ❌ [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/description/) | 30.9% | <span style="color: orange;">Medium</span> |
 | 2801 | ❌ [Count Stepping Numbers in Range](https://leetcode.com/problems/count-stepping-numbers-in-range/description/) | 28.2% | <span style="color: red;">Hard</span> |
 | 2802 | ❌ [Find The K-th Lucky Number](https://leetcode.com/problems/find-the-k-th-lucky-number/description/) | 76.9% | <span style="color: orange;">Medium</span> |
