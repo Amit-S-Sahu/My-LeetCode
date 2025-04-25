@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 327/3312
+### Solved: 328/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2850,7 +2850,7 @@
 | 2842 | ❌ [Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/description/) | 29.6% | <span style="color: red;">Hard</span> |
 | 2843 | ✔️ [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/) | 74.6% | <span style="color: green;">Easy</span> |
 | 2844 | ❌ [Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/description/) | 38.3% | <span style="color: orange;">Medium</span> |
-| 2845 | ❌ [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/description/) | 35.9% | <span style="color: orange;">Medium</span> |
+| 2845 | ✔️ [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/description/) | 35.9% | <span style="color: orange;">Medium</span> |
 | 2846 | ❌ [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/description/) | 44.7% | <span style="color: red;">Hard</span> |
 | 2847 | ❌ [Smallest Number With Given Digit Product](https://leetcode.com/problems/smallest-number-with-given-digit-product/description/) | 44.1% | <span style="color: orange;">Medium</span> |
 | 2848 | ❌ [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/) | 75.5% | <span style="color: green;">Easy</span> |
