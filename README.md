@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 328/3312
+### Solved: 329/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2449,7 +2449,7 @@
 | 2441 | ❌ [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/) | 75.1% | <span style="color: green;">Easy</span> |
 | 2442 | ❌ [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/) | 79.9% | <span style="color: orange;">Medium</span> |
 | 2443 | ❌ [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/description/) | 47.8% | <span style="color: orange;">Medium</span> |
-| 2444 | ❌ [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/) | 67.9% | <span style="color: red;">Hard</span> |
+| 2444 | ✔️ [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/) | 67.9% | <span style="color: red;">Hard</span> |
 | 2445 | ❌ [Number of Nodes With Value One](https://leetcode.com/problems/number-of-nodes-with-value-one/description/) | 68.7% | <span style="color: orange;">Medium</span> |
 | 2446 | ❌ [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/) | 51.6% | <span style="color: green;">Easy</span> |
 | 2447 | ❌ [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/description/) | 50.5% | <span style="color: orange;">Medium</span> |
