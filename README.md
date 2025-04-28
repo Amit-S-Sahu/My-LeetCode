@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 329/3312
+### Solved: 330/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2307,7 +2307,7 @@
 | 2299 | ❌ [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/description/) | 55.0% | <span style="color: green;">Easy</span> |
 | 2300 | ❌ [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | 43.8% | <span style="color: orange;">Medium</span> |
 | 2301 | ❌ [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/description/) | 41.4% | <span style="color: red;">Hard</span> |
-| 2302 | ❌ [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/) | 55.4% | <span style="color: red;">Hard</span> |
+| 2302 | ✔️ [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/) | 55.4% | <span style="color: red;">Hard</span> |
 | 2303 | ❌ [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/description/) | 66.2% | <span style="color: green;">Easy</span> |
 | 2304 | ❌ [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/) | 66.9% | <span style="color: orange;">Medium</span> |
 | 2305 | ❌ [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/) | 69.3% | <span style="color: orange;">Medium</span> |
