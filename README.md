@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 330/3312
+### Solved: 331/3312
 
 [█░░░░░░░░░░░░░░░░░░░] 9%
 
@@ -2967,7 +2967,7 @@
 | 2959 | ❌ [Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/description/) | 51.6% | <span style="color: red;">Hard</span> |
 | 2960 | ❌ [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/description/) | 80.8% | <span style="color: green;">Easy</span> |
 | 2961 | ❌ [Double Modular Exponentiation](https://leetcode.com/problems/double-modular-exponentiation/description/) | 48.3% | <span style="color: orange;">Medium</span> |
-| 2962 | ❌ [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/) | 58.9% | <span style="color: orange;">Medium</span> |
+| 2962 | ✔️ [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/) | 58.9% | <span style="color: orange;">Medium</span> |
 | 2963 | ❌ [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/description/) | 49.8% | <span style="color: red;">Hard</span> |
 | 2964 | ❌ [Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/description/) | 65.1% | <span style="color: orange;">Medium</span> |
 | 2965 | ✔️ [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | 76.2% | <span style="color: green;">Easy</span> |
