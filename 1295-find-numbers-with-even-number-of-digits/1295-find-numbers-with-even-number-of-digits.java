@@ -1,20 +1,11 @@
 class Solution {
-    public int countDigits(int n) {
-        int count = 0;
-        while (n > 0) {
-            n /= 10;
-            count++;
-        }
-        
-        return count;
-    }
-    
     public int findNumbers(int[] nums) {
-        int ans = 0;
+        int count = 0;
         for (int num : nums) {
-            if (countDigits(num) % 2 == 0) ans++;
+            if (num == 0) continue;
+            if ((int)(Math.log10(num) + 1) % 2 == 0) count++;
         }
-        
-        return ans;
+
+        return count;
     }
 }
