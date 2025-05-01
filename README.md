@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 331/3312
+### Solved: 332/3312
 
-[█░░░░░░░░░░░░░░░░░░░] 9%
+[██░░░░░░░░░░░░░░░░░░] 10%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -2076,7 +2076,7 @@
 | 2068 | ❌ [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/) | 64.0% | <span style="color: green;">Easy</span> |
 | 2069 | ❌ [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/) | 26.5% | <span style="color: orange;">Medium</span> |
 | 2070 | ✔️ [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/description/) | 49.9% | <span style="color: orange;">Medium</span> |
-| 2071 | ❌ [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/) | 33.6% | <span style="color: red;">Hard</span> |
+| 2071 | ✔️ [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/) | 33.6% | <span style="color: red;">Hard</span> |
 | 2072 | ❌ [The Winner University](https://leetcode.com/problems/the-winner-university/description/) | 74.3% | <span style="color: green;">Easy</span> |
 | 2073 | ❌ [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) | 70.0% | <span style="color: green;">Easy</span> |
 | 2074 | ❌ [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/) | 59.0% | <span style="color: orange;">Medium</span> |
