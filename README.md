@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 332/3312
+### Solved: 333/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -843,7 +843,7 @@
 | 835 | ❌ [Image Overlap](https://leetcode.com/problems/image-overlap/description/) | 63.7% | <span style="color: orange;">Medium</span> |
 | 836 | ❌ [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) | 45.1% | <span style="color: green;">Easy</span> |
 | 837 | ❌ [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | 45.0% | <span style="color: orange;">Medium</span> |
-| 838 | ❌ [Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | 57.3% | <span style="color: orange;">Medium</span> |
+| 838 | ✔️ [Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 839 | ❌ [Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) | 55.2% | <span style="color: red;">Hard</span> |
 | 840 | ❌ [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | 51.7% | <span style="color: orange;">Medium</span> |
 | 841 | ❌ [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | 73.7% | <span style="color: orange;">Medium</span> |
