@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 334/3312
+### Solved: 335/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -1133,7 +1133,7 @@
 | 1125 | ❌ [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) | 55.5% | <span style="color: red;">Hard</span> |
 | 1126 | ❌ [Active Businesses](https://leetcode.com/problems/active-businesses/description/) | 65.7% | <span style="color: orange;">Medium</span> |
 | 1127 | ❌ [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/description/) | 46.9% | <span style="color: red;">Hard</span> |
-| 1128 | ❌ [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) | 48.7% | <span style="color: green;">Easy</span> |
+| 1128 | ✔️ [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) | 48.7% | <span style="color: green;">Easy</span> |
 | 1129 | ❌ [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) | 47.1% | <span style="color: orange;">Medium</span> |
 | 1130 | ❌ [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) | 67.8% | <span style="color: orange;">Medium</span> |
 | 1131 | ❌ [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) | 48.5% | <span style="color: orange;">Medium</span> |
