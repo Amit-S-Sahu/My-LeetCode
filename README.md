@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 335/3312
+### Solved: 336/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -795,7 +795,7 @@
 | 787 | ❌ [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | 39.7% | <span style="color: orange;">Medium</span> |
 | 788 | ❌ [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | 56.5% | <span style="color: orange;">Medium</span> |
 | 789 | ❌ [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | 62.4% | <span style="color: orange;">Medium</span> |
-| 790 | ❌ [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | 49.6% | <span style="color: orange;">Medium</span> |
+| 790 | ✔️ [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | 49.6% | <span style="color: orange;">Medium</span> |
 | 791 | ❌ [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | 71.1% | <span style="color: orange;">Medium</span> |
 | 792 | ❌ [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | 50.8% | <span style="color: orange;">Medium</span> |
 | 793 | ❌ [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | 45.2% | <span style="color: red;">Hard</span> |
