@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 336/3312
+### Solved: 337/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -1925,7 +1925,7 @@
 | 1917 | ❌ [Leetcodify Friends Recommendations](https://leetcode.com/problems/leetcodify-friends-recommendations/description/) | 27.2% | <span style="color: red;">Hard</span> |
 | 1918 | ❌ [Kth Smallest Subarray Sum](https://leetcode.com/problems/kth-smallest-subarray-sum/description/) | 53.2% | <span style="color: orange;">Medium</span> |
 | 1919 | ❌ [Leetcodify Similar Friends](https://leetcode.com/problems/leetcodify-similar-friends/description/) | 42.2% | <span style="color: red;">Hard</span> |
-| 1920 | ❌ [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) | 90.0% | <span style="color: green;">Easy</span> |
+| 1920 | ✔️ [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) | 90.0% | <span style="color: green;">Easy</span> |
 | 1921 | ❌ [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/) | 50.9% | <span style="color: orange;">Medium</span> |
 | 1922 | ✔️ [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 1923 | ❌ [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/description/) | 28.5% | <span style="color: red;">Hard</span> |
