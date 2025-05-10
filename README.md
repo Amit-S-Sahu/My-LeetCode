@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 337/3312
+### Solved: 338/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2923,7 +2923,7 @@
 | 2915 | ❌ [Length of the Longest Subsequence That Sums to Target](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/description/) | 36.5% | <span style="color: orange;">Medium</span> |
 | 2916 | ❌ [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/) | 21.5% | <span style="color: red;">Hard</span> |
 | 2917 | ❌ [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/description/) | 74.8% | <span style="color: green;">Easy</span> |
-| 2918 | ❌ [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/) | 35.8% | <span style="color: orange;">Medium</span> |
+| 2918 | ✔️ [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/) | 35.8% | <span style="color: orange;">Medium</span> |
 | 2919 | ❌ [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/description/) | 34.5% | <span style="color: orange;">Medium</span> |
 | 2920 | ❌ [Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/) | 37.2% | <span style="color: red;">Hard</span> |
 | 2921 | ❌ [Maximum Profitable Triplets With Increasing Prices II](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/description/) | 49.6% | <span style="color: red;">Hard</span> |
