@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 338/3312
+### Solved: 339/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -1555,7 +1555,7 @@
 | 1547 | ❌ [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/) | 61.7% | <span style="color: red;">Hard</span> |
 | 1548 | ❌ [The Most Similar Path in a Graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph/description/) | 59.2% | <span style="color: red;">Hard</span> |
 | 1549 | ❌ [The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product/description/) | 64.8% | <span style="color: orange;">Medium</span> |
-| 1550 | ❌ [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/) | 68.3% | <span style="color: green;">Easy</span> |
+| 1550 | ✔️ [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/) | 68.3% | <span style="color: green;">Easy</span> |
 | 1551 | ❌ [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/) | 82.5% | <span style="color: orange;">Medium</span> |
 | 1552 | ❌ [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) | 71.1% | <span style="color: orange;">Medium</span> |
 | 1553 | ❌ [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/description/) | 35.5% | <span style="color: red;">Hard</span> |
