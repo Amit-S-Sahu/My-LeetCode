@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 339/3312
+### Solved: 340/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2099,7 +2099,7 @@
 | 2091 | ❌ [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/) | 55.0% | <span style="color: orange;">Medium</span> |
 | 2092 | ❌ [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/) | 45.5% | <span style="color: red;">Hard</span> |
 | 2093 | ❌ [Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/description/) | 59.8% | <span style="color: orange;">Medium</span> |
-| 2094 | ❌ [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/description/) | 61.6% | <span style="color: green;">Easy</span> |
+| 2094 | ✔️ [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/description/) | 61.6% | <span style="color: green;">Easy</span> |
 | 2095 | ❌ [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | 59.7% | <span style="color: orange;">Medium</span> |
 | 2096 | ❌ [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/) | 56.4% | <span style="color: orange;">Medium</span> |
 | 2097 | ✔️ [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/description/) | 44.7% | <span style="color: red;">Hard</span> |
