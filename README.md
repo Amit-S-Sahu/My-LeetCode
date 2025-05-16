@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 341/3312
+### Solved: 342/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2906,7 +2906,7 @@
 | 2898 | ❌ [Maximum Linear Stock Score](https://leetcode.com/problems/maximum-linear-stock-score/description/) | 68.0% | <span style="color: orange;">Medium</span> |
 | 2899 | ❌ [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/description/) | 66.4% | <span style="color: green;">Easy</span> |
 | 2900 | ✔️ [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/) | 62.0% | <span style="color: green;">Easy</span> |
-| 2901 | ❌ [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/) | 27.5% | <span style="color: orange;">Medium</span> |
+| 2901 | ✔️ [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/) | 27.5% | <span style="color: orange;">Medium</span> |
 | 2902 | ❌ [Count of Sub-Multisets With Bounded Sum](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/description/) | 21.4% | <span style="color: red;">Hard</span> |
 | 2903 | ❌ [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/description/) | 61.8% | <span style="color: green;">Easy</span> |
 | 2904 | ❌ [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/) | 39.5% | <span style="color: orange;">Medium</span> |
