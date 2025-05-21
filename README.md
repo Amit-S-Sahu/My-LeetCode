@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 344/3312
+### Solved: 345/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -78,7 +78,7 @@
 | 70 | ❌ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | 53.2% | <span style="color: green;">Easy</span> |
 | 71 | ❌ [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | 44.4% | <span style="color: orange;">Medium</span> |
 | 72 | ❌ [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | 57.4% | <span style="color: orange;">Medium</span> |
-| 73 | ❌ [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | 57.6% | <span style="color: orange;">Medium</span> |
+| 73 | ✔️ [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | 57.6% | <span style="color: orange;">Medium</span> |
 | 74 | ❌ [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | 51.1% | <span style="color: orange;">Medium</span> |
 | 75 | ✔️ [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 65.2% | <span style="color: orange;">Medium</span> |
 | 76 | ❌ [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | 43.8% | <span style="color: red;">Hard</span> |
