@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 345/3312
+### Solved: 346/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -3073,7 +3073,7 @@
 | 3065 | ❌ [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/) | 86.3% | <span style="color: green;">Easy</span> |
 | 3066 | ✔️ [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/) | 28.1% | <span style="color: orange;">Medium</span> |
 | 3067 | ❌ [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/) | 58.2% | <span style="color: orange;">Medium</span> |
-| 3068 | ❌ [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/) | 66.7% | <span style="color: red;">Hard</span> |
+| 3068 | ✔️ [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/) | 66.7% | <span style="color: red;">Hard</span> |
 | 3069 | ❌ [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/) | 73.1% | <span style="color: green;">Easy</span> |
 | 3070 | ❌ [Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/) | 59.5% | <span style="color: orange;">Medium</span> |
 | 3071 | ❌ [Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/description/) | 63.4% | <span style="color: orange;">Medium</span> |
