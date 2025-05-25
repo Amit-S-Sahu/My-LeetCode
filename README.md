@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 347/3312
+### Solved: 348/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2136,7 +2136,7 @@
 | 2128 | ❌ [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/) | 76.2% | <span style="color: orange;">Medium</span> |
 | 2129 | ❌ [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/) | 65.1% | <span style="color: green;">Easy</span> |
 | 2130 | ❌ [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | 81.0% | <span style="color: orange;">Medium</span> |
-| 2131 | ❌ [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/) | 48.0% | <span style="color: orange;">Medium</span> |
+| 2131 | ✔️ [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/) | 48.0% | <span style="color: orange;">Medium</span> |
 | 2132 | ❌ [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/description/) | 32.5% | <span style="color: red;">Hard</span> |
 | 2133 | ❌ [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/) | 52.1% | <span style="color: green;">Easy</span> |
 | 2134 | ❌ [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1's-together-ii/description/) | 65.6% | <span style="color: orange;">Medium</span> |
