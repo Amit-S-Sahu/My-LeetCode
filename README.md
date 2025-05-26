@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 348/3312
+### Solved: 349/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -1862,7 +1862,7 @@
 | 1854 | ❌ [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/) | 61.3% | <span style="color: green;">Easy</span> |
 | 1855 | ❌ [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/) | 53.4% | <span style="color: orange;">Medium</span> |
 | 1856 | ❌ [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/description/) | 38.4% | <span style="color: orange;">Medium</span> |
-| 1857 | ❌ [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | 49.8% | <span style="color: red;">Hard</span> |
+| 1857 | ✔️ [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | 49.8% | <span style="color: red;">Hard</span> |
 | 1858 | ❌ [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/description/) | 71.4% | <span style="color: orange;">Medium</span> |
 | 1859 | ❌ [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/) | 83.4% | <span style="color: green;">Easy</span> |
 | 1860 | ❌ [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/description/) | 72.5% | <span style="color: orange;">Medium</span> |
