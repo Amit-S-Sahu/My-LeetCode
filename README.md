@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 349/3312
+### Solved: 350/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2899,7 +2899,7 @@
 | 2891 | ✔️ [Method Chaining](https://leetcode.com/problems/method-chaining/description/) | 76.6% | <span style="color: green;">Easy</span> |
 | 2892 | ❌ [Minimizing Array After Replacing Pairs With Their Product](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/description/) | 41.1% | <span style="color: orange;">Medium</span> |
 | 2893 | ❌ [Calculate Orders Within Each Interval](https://leetcode.com/problems/calculate-orders-within-each-interval/description/) | 67.6% | <span style="color: orange;">Medium</span> |
-| 2894 | ❌ [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/) | 89.4% | <span style="color: green;">Easy</span> |
+| 2894 | ✔️ [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/) | 89.4% | <span style="color: green;">Easy</span> |
 | 2895 | ❌ [Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/) | 69.5% | <span style="color: orange;">Medium</span> |
 | 2896 | ❌ [Apply Operations to Make Two Strings Equal](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description/) | 27.1% | <span style="color: orange;">Medium</span> |
 | 2897 | ❌ [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/) | 46.8% | <span style="color: red;">Hard</span> |
