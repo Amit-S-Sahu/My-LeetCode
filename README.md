@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 350/3312
+### Solved: 351/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2364,7 +2364,7 @@
 | 2356 | ❌ [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) | 88.9% | <span style="color: green;">Easy</span> |
 | 2357 | ❌ [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/) | 72.5% | <span style="color: green;">Easy</span> |
 | 2358 | ❌ [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/description/) | 68.0% | <span style="color: orange;">Medium</span> |
-| 2359 | ❌ [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) | 45.6% | <span style="color: orange;">Medium</span> |
+| 2359 | ✔️ [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) | 45.6% | <span style="color: orange;">Medium</span> |
 | 2360 | ❌ [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) | 49.7% | <span style="color: red;">Hard</span> |
 | 2361 | ❌ [Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/description/) | 78.2% | <span style="color: red;">Hard</span> |
 | 2362 | ❌ [Generate the Invoice](https://leetcode.com/problems/generate-the-invoice/description/) | 74.5% | <span style="color: red;">Hard</span> |
