@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 351/3312
+### Solved: 352/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -914,7 +914,7 @@
 | 906 | ❌ [Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) | 39.0% | <span style="color: red;">Hard</span> |
 | 907 | ❌ [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | 37.2% | <span style="color: orange;">Medium</span> |
 | 908 | ❌ [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | 70.7% | <span style="color: green;">Easy</span> |
-| 909 | ❌ [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | 43.8% | <span style="color: orange;">Medium</span> |
+| 909 | ✔️ [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | 43.8% | <span style="color: orange;">Medium</span> |
 | 910 | ❌ [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) | 36.6% | <span style="color: orange;">Medium</span> |
 | 911 | ❌ [Online Election](https://leetcode.com/problems/online-election/description/) | 52.2% | <span style="color: orange;">Medium</span> |
 | 912 | ❌ [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | 57.7% | <span style="color: orange;">Medium</span> |
