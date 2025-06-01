@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 352/3312
+### Solved: 353/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2934,7 +2934,7 @@
 | 2926 | ❌ [Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/description/) | 24.2% | <span style="color: red;">Hard</span> |
 | 2927 | ❌ [Distribute Candies Among Children III](https://leetcode.com/problems/distribute-candies-among-children-iii/description/) | 44.0% | <span style="color: red;">Hard</span> |
 | 2928 | ❌ [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/description/) | 76.3% | <span style="color: green;">Easy</span> |
-| 2929 | ❌ [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/) | 35.5% | <span style="color: orange;">Medium</span> |
+| 2929 | ✔️ [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/description/) | 35.5% | <span style="color: orange;">Medium</span> |
 | 2930 | ❌ [Number of Strings Which Can Be Rearranged to Contain Substring](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/description/) | 56.1% | <span style="color: orange;">Medium</span> |
 | 2931 | ❌ [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/description/) | 64.7% | <span style="color: red;">Hard</span> |
 | 2932 | ❌ [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/description/) | 76.5% | <span style="color: green;">Easy</span> |
