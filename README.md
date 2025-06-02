@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 353/3312
+### Solved: 354/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -140,7 +140,7 @@
 | 132 | ❌ [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/) | 34.4% | <span style="color: red;">Hard</span> |
 | 133 | ❌ [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | 59.3% | <span style="color: orange;">Medium</span> |
 | 134 | ❌ [Gas Station](https://leetcode.com/problems/gas-station/description/) | 45.6% | <span style="color: orange;">Medium</span> |
-| 135 | ❌ [Candy](https://leetcode.com/problems/candy/description/) | 43.9% | <span style="color: red;">Hard</span> |
+| 135 | ✔️ [Candy](https://leetcode.com/problems/candy/description/) | 43.9% | <span style="color: red;">Hard</span> |
 | 136 | ✔️ [Single Number](https://leetcode.com/problems/single-number/description/) | 74.3% | <span style="color: green;">Easy</span> |
 | 137 | ❌ [Single Number II](https://leetcode.com/problems/single-number-ii/description/) | 63.9% | <span style="color: orange;">Medium</span> |
 | 138 | ❌ [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | 57.8% | <span style="color: orange;">Medium</span> |
