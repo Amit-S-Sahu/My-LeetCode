@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 354/3312
+### Solved: 355/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -1303,7 +1303,7 @@
 | 1295 | ✔️ [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | 77.5% | <span style="color: green;">Easy</span> |
 | 1296 | ❌ [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) | 58.5% | <span style="color: orange;">Medium</span> |
 | 1297 | ❌ [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/) | 52.3% | <span style="color: orange;">Medium</span> |
-| 1298 | ❌ [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) | 57.8% | <span style="color: red;">Hard</span> |
+| 1298 | ✔️ [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) | 57.8% | <span style="color: red;">Hard</span> |
 | 1299 | ❌ [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) | 71.3% | <span style="color: green;">Easy</span> |
 | 1300 | ❌ [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/) | 44.8% | <span style="color: orange;">Medium</span> |
 | 1301 | ❌ [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/) | 40.0% | <span style="color: red;">Hard</span> |
