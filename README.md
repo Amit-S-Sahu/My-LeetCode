@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 355/3312
+### Solved: 356/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -1066,7 +1066,7 @@
 | 1058 | ❌ [Minimize Rounding Error to Meet Target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/description/) | 45.3% | <span style="color: orange;">Medium</span> |
 | 1059 | ❌ [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/) | 37.4% | <span style="color: orange;">Medium</span> |
 | 1060 | ❌ [Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/description/) | 57.5% | <span style="color: orange;">Medium</span> |
-| 1061 | ❌ [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | 76.7% | <span style="color: orange;">Medium</span> |
+| 1061 | ✔️ [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | 76.7% | <span style="color: orange;">Medium</span> |
 | 1062 | ❌ [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/description/) | 62.5% | <span style="color: orange;">Medium</span> |
 | 1063 | ❌ [Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/description/) | 79.1% | <span style="color: red;">Hard</span> |
 | 1064 | ❌ [Fixed Point](https://leetcode.com/problems/fixed-point/description/) | 64.1% | <span style="color: green;">Easy</span> |
