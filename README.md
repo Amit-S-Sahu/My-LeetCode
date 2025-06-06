@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 356/3312
+### Solved: 357/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2439,7 +2439,7 @@
 | 2431 | ❌ [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/description/) | 63.6% | <span style="color: orange;">Medium</span> |
 | 2432 | ❌ [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/description/) | 50.6% | <span style="color: green;">Easy</span> |
 | 2433 | ❌ [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/) | 88.0% | <span style="color: orange;">Medium</span> |
-| 2434 | ❌ [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/) | 40.6% | <span style="color: orange;">Medium</span> |
+| 2434 | ✔️ [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/) | 40.6% | <span style="color: orange;">Medium</span> |
 | 2435 | ❌ [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/) | 43.3% | <span style="color: red;">Hard</span> |
 | 2436 | ❌ [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/description/) | 71.4% | <span style="color: orange;">Medium</span> |
 | 2437 | ❌ [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/description/) | 47.1% | <span style="color: green;">Easy</span> |
