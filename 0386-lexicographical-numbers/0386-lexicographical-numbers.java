@@ -1,16 +1,17 @@
 class Solution {
-    public List<Integer> ans = new ArrayList<>();
-
     public List<Integer> lexicalOrder(int n) {
-        recursiveTrie(0, n);
+        List<Integer> ans = new ArrayList<>();
+        for (int i = 1; i < 10; i++) solve(i, n, ans);
         return ans;
     }
 
-    public void recursiveTrie(int node, int n) {
-        for (int i = node; i <= Math.min(node + 9, n); i++) {
-            if (i == 0) continue;
-            ans.add(i);
-            if (i * 10 <= n) recursiveTrie(i * 10, n);
+    private void solve(int prod, int n, List<Integer> ans) {
+        if (prod > n) return;
+        ans.add(prod);
+        for (int j = 0; j < 10; j++) {
+            int next = prod * 10 + j;
+            if (next > n) return;
+            solve(next, n, ans);
         }
     }
 }
