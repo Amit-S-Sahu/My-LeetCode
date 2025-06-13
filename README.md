@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 358/3312
+### Solved: 359/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2621,7 +2621,7 @@
 | 2613 | ❌ [Beautiful Pairs](https://leetcode.com/problems/beautiful-pairs/description/) | 42.9% | <span style="color: red;">Hard</span> |
 | 2614 | ❌ [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/description/) | 34.5% | <span style="color: green;">Easy</span> |
 | 2615 | ❌ [Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/) | 31.3% | <span style="color: orange;">Medium</span> |
-| 2616 | ❌ [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/) | 44.0% | <span style="color: orange;">Medium</span> |
+| 2616 | ✔️ [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/) | 44.0% | <span style="color: orange;">Medium</span> |
 | 2617 | ❌ [Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/) | 24.8% | <span style="color: red;">Hard</span> |
 | 2618 | ❌ [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/description/) | 27.6% | <span style="color: orange;">Medium</span> |
 | 2619 | ❌ [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/) | 73.8% | <span style="color: green;">Easy</span> |
