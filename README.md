@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 359/3312
+### Solved: 360/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2571,7 +2571,7 @@
 | 2563 | ✔️ [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | 33.4% | <span style="color: orange;">Medium</span> |
 | 2564 | ❌ [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/description/) | 33.7% | <span style="color: orange;">Medium</span> |
 | 2565 | ❌ [Subsequence With the Minimum Score](https://leetcode.com/problems/subsequence-with-the-minimum-score/description/) | 32.1% | <span style="color: red;">Hard</span> |
-| 2566 | ❌ [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/) | 60.2% | <span style="color: green;">Easy</span> |
+| 2566 | ✔️ [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/) | 60.2% | <span style="color: green;">Easy</span> |
 | 2567 | ❌ [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/description/) | 48.3% | <span style="color: orange;">Medium</span> |
 | 2568 | ❌ [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/description/) | 57.8% | <span style="color: orange;">Medium</span> |
 | 2569 | ❌ [Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/description/) | 28.6% | <span style="color: red;">Hard</span> |
