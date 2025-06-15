@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 360/3312
+### Solved: 361/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -1437,7 +1437,7 @@
 | 1429 | ❌ [First Unique Number](https://leetcode.com/problems/first-unique-number/description/) | 54.0% | <span style="color: orange;">Medium</span> |
 | 1430 | ❌ [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/) | 47.0% | <span style="color: orange;">Medium</span> |
 | 1431 | ✔️ [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) | 87.8% | <span style="color: green;">Easy</span> |
-| 1432 | ❌ [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/) | 41.1% | <span style="color: orange;">Medium</span> |
+| 1432 | ✔️ [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/) | 41.1% | <span style="color: orange;">Medium</span> |
 | 1433 | ❌ [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/description/) | 69.9% | <span style="color: orange;">Medium</span> |
 | 1434 | ❌ [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/) | 44.4% | <span style="color: red;">Hard</span> |
 | 1435 | ❌ [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/description/) | 74.9% | <span style="color: green;">Easy</span> |
