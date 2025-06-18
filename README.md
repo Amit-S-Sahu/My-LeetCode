@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 362/3312
+### Solved: 363/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2971,7 +2971,7 @@
 | 2963 | ❌ [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/description/) | 49.8% | <span style="color: red;">Hard</span> |
 | 2964 | ❌ [Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/description/) | 65.1% | <span style="color: orange;">Medium</span> |
 | 2965 | ✔️ [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/) | 76.2% | <span style="color: green;">Easy</span> |
-| 2966 | ❌ [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | 71.8% | <span style="color: orange;">Medium</span> |
+| 2966 | ✔️ [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | 71.8% | <span style="color: orange;">Medium</span> |
 | 2967 | ❌ [Minimum Cost to Make Array Equalindromic](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/description/) | 22.4% | <span style="color: orange;">Medium</span> |
 | 2968 | ❌ [Apply Operations to Maximize Frequency Score](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/) | 38.4% | <span style="color: red;">Hard</span> |
 | 2969 | ❌ [Minimum Number of Coins for Fruits II](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/description/) | 49.0% | <span style="color: red;">Hard</span> |
