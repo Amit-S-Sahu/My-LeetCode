@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 363/3312
+### Solved: 364/3312
 
 [██░░░░░░░░░░░░░░░░░░] 10%
 
@@ -2299,7 +2299,7 @@
 | 2291 | ❌ [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/) | 45.4% | <span style="color: orange;">Medium</span> |
 | 2292 | ❌ [Products With Three or More Orders in Two Consecutive Years](https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years/description/) | 39.5% | <span style="color: orange;">Medium</span> |
 | 2293 | ❌ [Min Max Game](https://leetcode.com/problems/min-max-game/description/) | 63.4% | <span style="color: green;">Easy</span> |
-| 2294 | ❌ [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/) | 74.1% | <span style="color: orange;">Medium</span> |
+| 2294 | ✔️ [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/) | 74.1% | <span style="color: orange;">Medium</span> |
 | 2295 | ❌ [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/description/) | 58.1% | <span style="color: orange;">Medium</span> |
 | 2296 | ❌ [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/) | 46.0% | <span style="color: red;">Hard</span> |
 | 2297 | ❌ [Jump Game VIII](https://leetcode.com/problems/jump-game-viii/description/) | 45.8% | <span style="color: orange;">Medium</span> |
