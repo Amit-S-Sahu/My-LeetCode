@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 364/3312
+### Solved: 365/3312
 
-[██░░░░░░░░░░░░░░░░░░] 10%
+[██░░░░░░░░░░░░░░░░░░] 11%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -3090,7 +3090,7 @@
 | 3082 | ❌ [Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/) | 39.1% | <span style="color: red;">Hard</span> |
 | 3083 | ❌ [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/) | 66.4% | <span style="color: green;">Easy</span> |
 | 3084 | ❌ [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/description/) | 49.0% | <span style="color: orange;">Medium</span> |
-| 3085 | ❌ [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/) | 44.2% | <span style="color: orange;">Medium</span> |
+| 3085 | ✔️ [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/) | 44.2% | <span style="color: orange;">Medium</span> |
 | 3086 | ❌ [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/description/) | 23.6% | <span style="color: red;">Hard</span> |
 | 3087 | ❌ [Find Trending Hashtags](https://leetcode.com/problems/find-trending-hashtags/description/) | 62.3% | <span style="color: orange;">Medium</span> |
 | 3088 | ❌ [Make String Anti-palindrome](https://leetcode.com/problems/make-string-anti-palindrome/description/) | 52.6% | <span style="color: red;">Hard</span> |
