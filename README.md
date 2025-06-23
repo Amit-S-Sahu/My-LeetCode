@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 365/3312
+### Solved: 366/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2086,7 +2086,7 @@
 | 2078 | ❌ [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/) | 65.9% | <span style="color: green;">Easy</span> |
 | 2079 | ❌ [Watering Plants](https://leetcode.com/problems/watering-plants/description/) | 79.9% | <span style="color: orange;">Medium</span> |
 | 2080 | ❌ [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/description/) | 40.6% | <span style="color: orange;">Medium</span> |
-| 2081 | ❌ [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/) | 42.4% | <span style="color: red;">Hard</span> |
+| 2081 | ✔️ [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/) | 42.4% | <span style="color: red;">Hard</span> |
 | 2082 | ❌ [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/description/) | 77.3% | <span style="color: green;">Easy</span> |
 | 2083 | ❌ [Substrings That Begin and End With the Same Letter](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/description/) | 74.1% | <span style="color: orange;">Medium</span> |
 | 2084 | ❌ [Drop Type 1 Orders for Customers With Type 0 Orders](https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders/description/) | 86.8% | <span style="color: orange;">Medium</span> |
