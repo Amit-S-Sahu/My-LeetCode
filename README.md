@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 366/3312
+### Solved: 367/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2205,7 +2205,7 @@
 | 2197 | ❌ [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/) | 39.9% | <span style="color: red;">Hard</span> |
 | 2198 | ❌ [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/description/) | 54.7% | <span style="color: orange;">Medium</span> |
 | 2199 | ❌ [Finding the Topic of Each Post](https://leetcode.com/problems/finding-the-topic-of-each-post/description/) | 50.1% | <span style="color: red;">Hard</span> |
-| 2200 | ❌ [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/) | 66.4% | <span style="color: green;">Easy</span> |
+| 2200 | ✔️ [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/) | 66.4% | <span style="color: green;">Easy</span> |
 | 2201 | ❌ [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/description/) | 56.3% | <span style="color: orange;">Medium</span> |
 | 2202 | ❌ [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/description/) | 23.1% | <span style="color: orange;">Medium</span> |
 | 2203 | ❌ [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/) | 37.2% | <span style="color: red;">Hard</span> |
