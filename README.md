@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 367/3312
+### Solved: 368/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2045,7 +2045,7 @@
 | 2037 | ❌ [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/) | 87.6% | <span style="color: green;">Easy</span> |
 | 2038 | ❌ [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/) | 62.8% | <span style="color: orange;">Medium</span> |
 | 2039 | ❌ [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/) | 52.7% | <span style="color: orange;">Medium</span> |
-| 2040 | ❌ [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/) | 29.2% | <span style="color: red;">Hard</span> |
+| 2040 | ✔️ [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/) | 29.2% | <span style="color: red;">Hard</span> |
 | 2041 | ❌ [Accepted Candidates From the Interviews](https://leetcode.com/problems/accepted-candidates-from-the-interviews/description/) | 78.4% | <span style="color: orange;">Medium</span> |
 | 2042 | ❌ [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/) | 70.3% | <span style="color: green;">Easy</span> |
 | 2043 | ❌ [Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/) | 63.7% | <span style="color: orange;">Medium</span> |
