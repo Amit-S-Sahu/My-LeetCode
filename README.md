@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 368/3312
+### Solved: 369/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2316,7 +2316,7 @@
 | 2308 | ❌ [Arrange Table by Gender](https://leetcode.com/problems/arrange-table-by-gender/description/) | 69.5% | <span style="color: orange;">Medium</span> |
 | 2309 | ❌ [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/) | 70.4% | <span style="color: green;">Easy</span> |
 | 2310 | ❌ [Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/) | 27.0% | <span style="color: orange;">Medium</span> |
-| 2311 | ❌ [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/) | 38.1% | <span style="color: orange;">Medium</span> |
+| 2311 | ✔️ [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/) | 38.1% | <span style="color: orange;">Medium</span> |
 | 2312 | ❌ [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/description/) | 50.7% | <span style="color: red;">Hard</span> |
 | 2313 | ❌ [Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/) | 58.4% | <span style="color: red;">Hard</span> |
 | 2314 | ❌ [The First Day of the Maximum Recorded Degree in Each City](https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city/description/) | 72.3% | <span style="color: orange;">Medium</span> |
