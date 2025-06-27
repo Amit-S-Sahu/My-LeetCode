@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 369/3312
+### Solved: 370/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2019,7 +2019,7 @@
 | 2011 | ❌ [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) | 89.5% | <span style="color: green;">Easy</span> |
 | 2012 | ❌ [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/description/) | 48.5% | <span style="color: orange;">Medium</span> |
 | 2013 | ❌ [Detect Squares](https://leetcode.com/problems/detect-squares/description/) | 51.4% | <span style="color: orange;">Medium</span> |
-| 2014 | ❌ [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) | 55.8% | <span style="color: red;">Hard</span> |
+| 2014 | ✔️ [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) | 55.8% | <span style="color: red;">Hard</span> |
 | 2015 | ❌ [Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/description/) | 59.5% | <span style="color: orange;">Medium</span> |
 | 2016 | ✔️ [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | 57.3% | <span style="color: green;">Easy</span> |
 | 2017 | ✔️ [Grid Game](https://leetcode.com/problems/grid-game/description/) | 46.1% | <span style="color: orange;">Medium</span> |
