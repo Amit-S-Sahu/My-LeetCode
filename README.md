@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 370/3312
+### Solved: 371/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2104,7 +2104,7 @@
 | 2096 | ❌ [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/) | 56.4% | <span style="color: orange;">Medium</span> |
 | 2097 | ✔️ [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/description/) | 44.7% | <span style="color: red;">Hard</span> |
 | 2098 | ❌ [Subsequence of Size K With the Largest Even Sum](https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/description/) | 36.2% | <span style="color: orange;">Medium</span> |
-| 2099 | ❌ [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/) | 44.1% | <span style="color: green;">Easy</span> |
+| 2099 | ✔️ [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/) | 44.1% | <span style="color: green;">Easy</span> |
 | 2100 | ❌ [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/) | 49.7% | <span style="color: orange;">Medium</span> |
 | 2101 | ❌ [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/) | 48.8% | <span style="color: orange;">Medium</span> |
 | 2102 | ❌ [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/description/) | 64.7% | <span style="color: red;">Hard</span> |
