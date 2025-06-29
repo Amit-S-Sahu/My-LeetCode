@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 371/3312
+### Solved: 372/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1503,7 +1503,7 @@
 | 1495 | ❌ [Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/description/) | 49.1% | <span style="color: green;">Easy</span> |
 | 1496 | ❌ [Path Crossing](https://leetcode.com/problems/path-crossing/description/) | 62.5% | <span style="color: green;">Easy</span> |
 | 1497 | ✔️ [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/) | 46.5% | <span style="color: orange;">Medium</span> |
-| 1498 | ❌ [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) | 43.6% | <span style="color: orange;">Medium</span> |
+| 1498 | ✔️ [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) | 43.6% | <span style="color: orange;">Medium</span> |
 | 1499 | ❌ [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/) | 44.1% | <span style="color: red;">Hard</span> |
 | 1500 | ❌ [Design a File Sharing System](https://leetcode.com/problems/design-a-file-sharing-system/description/) | 42.7% | <span style="color: orange;">Medium</span> |
 | 1501 | ❌ [Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/description/) | 50.2% | <span style="color: orange;">Medium</span> |
