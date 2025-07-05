@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 374/3312
+### Solved: 375/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1399,7 +1399,7 @@
 | 1391 | ❌ [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | 48.3% | <span style="color: orange;">Medium</span> |
 | 1392 | ❌ [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/) | 46.9% | <span style="color: red;">Hard</span> |
 | 1393 | ❌ [Capital Gain/Loss](https://leetcode.com/problems/capital-gain/loss/description/) | 85.4% | <span style="color: orange;">Medium</span> |
-| 1394 | ❌ [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | 68.0% | <span style="color: green;">Easy</span> |
+| 1394 | ✔️ [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | 68.0% | <span style="color: green;">Easy</span> |
 | 1395 | ❌ [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/) | 70.1% | <span style="color: orange;">Medium</span> |
 | 1396 | ❌ [Design Underground System](https://leetcode.com/problems/design-underground-system/description/) | 74.7% | <span style="color: orange;">Medium</span> |
 | 1397 | ❌ [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/description/) | 42.7% | <span style="color: red;">Hard</span> |
