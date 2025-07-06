@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 375/3312
+### Solved: 376/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1870,7 +1870,7 @@
 | 1862 | ❌ [Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs/description/) | 29.1% | <span style="color: red;">Hard</span> |
 | 1863 | ✔️ [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | 87.8% | <span style="color: green;">Easy</span> |
 | 1864 | ❌ [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/description/) | 43.5% | <span style="color: orange;">Medium</span> |
-| 1865 | ❌ [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/) | 51.0% | <span style="color: orange;">Medium</span> |
+| 1865 | ✔️ [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/) | 51.0% | <span style="color: orange;">Medium</span> |
 | 1866 | ❌ [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description/) | 58.0% | <span style="color: red;">Hard</span> |
 | 1867 | ❌ [Orders With Maximum Quantity Above Average](https://leetcode.com/problems/orders-with-maximum-quantity-above-average/description/) | 71.1% | <span style="color: orange;">Medium</span> |
 | 1868 | ❌ [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/) | 58.7% | <span style="color: orange;">Medium</span> |
