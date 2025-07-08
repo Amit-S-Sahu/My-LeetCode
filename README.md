@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 377/3312
+### Solved: 378/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1756,7 +1756,7 @@
 | 1748 | ❌ [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/) | 78.3% | <span style="color: green;">Easy</span> |
 | 1749 | ✔️ [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) | 60.5% | <span style="color: orange;">Medium</span> |
 | 1750 | ❌ [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/) | 56.0% | <span style="color: orange;">Medium</span> |
-| 1751 | ❌ [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | 61.3% | <span style="color: red;">Hard</span> |
+| 1751 | ✔️ [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | 61.3% | <span style="color: red;">Hard</span> |
 | 1752 | ✔️ [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | 51.7% | <span style="color: green;">Easy</span> |
 | 1753 | ❌ [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/description/) | 67.6% | <span style="color: orange;">Medium</span> |
 | 1754 | ❌ [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/description/) | 49.0% | <span style="color: orange;">Medium</span> |
