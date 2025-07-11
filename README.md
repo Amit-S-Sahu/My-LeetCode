@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 378/3312
+### Solved: 379/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2407,7 +2407,7 @@
 | 2399 | ❌ [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/description/) | 70.9% | <span style="color: green;">Easy</span> |
 | 2400 | ❌ [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/) | 35.4% | <span style="color: orange;">Medium</span> |
 | 2401 | ✔️ [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/) | 51.8% | <span style="color: orange;">Medium</span> |
-| 2402 | ❌ [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/) | 44.1% | <span style="color: red;">Hard</span> |
+| 2402 | ✔️ [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/) | 44.1% | <span style="color: red;">Hard</span> |
 | 2403 | ❌ [Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/description/) | 56.5% | <span style="color: red;">Hard</span> |
 | 2404 | ❌ [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | 50.9% | <span style="color: green;">Easy</span> |
 | 2405 | ❌ [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/) | 78.0% | <span style="color: orange;">Medium</span> |
