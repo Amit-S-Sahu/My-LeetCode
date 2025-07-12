@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 379/3312
+### Solved: 380/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1905,7 +1905,7 @@
 | 1897 | ❌ [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/) | 67.1% | <span style="color: green;">Easy</span> |
 | 1898 | ❌ [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/description/) | 44.4% | <span style="color: orange;">Medium</span> |
 | 1899 | ❌ [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/) | 66.6% | <span style="color: orange;">Medium</span> |
-| 1900 | ❌ [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/) | 50.5% | <span style="color: red;">Hard</span> |
+| 1900 | ✔️ [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/description/) | 50.5% | <span style="color: red;">Hard</span> |
 | 1901 | ❌ [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/description/) | 52.2% | <span style="color: orange;">Medium</span> |
 | 1902 | ❌ [Depth of BST Given Insertion Order](https://leetcode.com/problems/depth-of-bst-given-insertion-order/description/) | 43.8% | <span style="color: orange;">Medium</span> |
 | 1903 | ❌ [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) | 63.9% | <span style="color: green;">Easy</span> |
