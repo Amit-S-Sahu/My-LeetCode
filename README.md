@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 380/3312
+### Solved: 381/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2415,7 +2415,7 @@
 | 2407 | ❌ [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | 24.5% | <span style="color: red;">Hard</span> |
 | 2408 | ❌ [Design SQL](https://leetcode.com/problems/design-sql/description/) | 78.2% | <span style="color: orange;">Medium</span> |
 | 2409 | ❌ [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/) | 45.6% | <span style="color: green;">Easy</span> |
-| 2410 | ❌ [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/) | 64.1% | <span style="color: orange;">Medium</span> |
+| 2410 | ✔️ [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/) | 64.1% | <span style="color: orange;">Medium</span> |
 | 2411 | ❌ [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/) | 44.6% | <span style="color: orange;">Medium</span> |
 | 2412 | ❌ [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/description/) | 40.6% | <span style="color: red;">Hard</span> |
 | 2413 | ❌ [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/) | 87.9% | <span style="color: green;">Easy</span> |
