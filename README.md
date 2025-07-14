@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 381/3312
+### Solved: 382/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1295,7 +1295,7 @@
 | 1287 | ❌ [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25%-in-sorted-array/description/) | 61.0% | <span style="color: green;">Easy</span> |
 | 1288 | ❌ [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) | 56.2% | <span style="color: orange;">Medium</span> |
 | 1289 | ❌ [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) | 64.3% | <span style="color: red;">Hard</span> |
-| 1290 | ❌ [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | 81.2% | <span style="color: green;">Easy</span> |
+| 1290 | ✔️ [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | 81.2% | <span style="color: green;">Easy</span> |
 | 1291 | ❌ [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) | 65.3% | <span style="color: orange;">Medium</span> |
 | 1292 | ❌ [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) | 53.8% | <span style="color: orange;">Medium</span> |
 | 1293 | ❌ [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) | 45.3% | <span style="color: red;">Hard</span> |
