@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 382/3312
+### Solved: 383/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -3206,7 +3206,7 @@
 | 3198 | ❌ [Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/description/) | 82.4% | <span style="color: green;">Easy</span> |
 | 3199 | ❌ [Count Triplets with Even XOR Set Bits I](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i/description/) | 84.4% | <span style="color: green;">Easy</span> |
 | 3200 | ❌ [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/description/) | 42.9% | <span style="color: green;">Easy</span> |
-| 3201 | ❌ [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/) | 38.0% | <span style="color: orange;">Medium</span> |
+| 3201 | ✔️ [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/) | 38.0% | <span style="color: orange;">Medium</span> |
 | 3202 | ❌ [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/) | 39.7% | <span style="color: orange;">Medium</span> |
 | 3203 | ✔️ [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/description/) | 35.9% | <span style="color: red;">Hard</span> |
 | 3204 | ❌ [Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/description/) | 93.5% | <span style="color: orange;">Medium</span> |
