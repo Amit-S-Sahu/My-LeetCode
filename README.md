@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 385/3312
+### Solved: 386/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -407,7 +407,7 @@
 | 399 | ❌ [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | 62.3% | <span style="color: orange;">Medium</span> |
 | 400 | ❌ [Nth Digit](https://leetcode.com/problems/nth-digit/description/) | 35.1% | <span style="color: orange;">Medium</span> |
 | 401 | ❌ [Binary Watch](https://leetcode.com/problems/binary-watch/description/) | 55.2% | <span style="color: green;">Easy</span> |
-| 402 | ❌ [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | 34.0% | <span style="color: orange;">Medium</span> |
+| 402 | ✔️ [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | 34.0% | <span style="color: orange;">Medium</span> |
 | 403 | ❌ [Frog Jump](https://leetcode.com/problems/frog-jump/description/) | 46.2% | <span style="color: red;">Hard</span> |
 | 404 | ❌ [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | 61.0% | <span style="color: green;">Easy</span> |
 | 405 | ❌ [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) | 49.4% | <span style="color: green;">Easy</span> |
