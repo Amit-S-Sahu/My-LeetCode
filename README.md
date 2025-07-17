@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 383/3312
+### Solved: 384/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -501,7 +501,7 @@
 | 493 | ✔️ [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | 31.1% | <span style="color: red;">Hard</span> |
 | 494 | ✔️ [Target Sum](https://leetcode.com/problems/target-sum/description/) | 47.6% | <span style="color: orange;">Medium</span> |
 | 495 | ❌ [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | 56.7% | <span style="color: green;">Easy</span> |
-| 496 | ❌ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | 73.2% | <span style="color: green;">Easy</span> |
+| 496 | ✔️ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | 73.2% | <span style="color: green;">Easy</span> |
 | 497 | ❌ [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) | 40.3% | <span style="color: orange;">Medium</span> |
 | 498 | ❌ [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | 61.2% | <span style="color: orange;">Medium</span> |
 | 499 | ❌ [The Maze III](https://leetcode.com/problems/the-maze-iii/description/) | 49.5% | <span style="color: red;">Hard</span> |
