@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 389/3312
+### Solved: 390/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1953,7 +1953,7 @@
 | 1945 | ❌ [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/) | 74.9% | <span style="color: green;">Easy</span> |
 | 1946 | ❌ [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/description/) | 36.3% | <span style="color: orange;">Medium</span> |
 | 1947 | ❌ [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/description/) | 62.8% | <span style="color: orange;">Medium</span> |
-| 1948 | ❌ [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/) | 54.8% | <span style="color: red;">Hard</span> |
+| 1948 | ✔️ [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/) | 54.8% | <span style="color: red;">Hard</span> |
 | 1949 | ❌ [Strong Friendship](https://leetcode.com/problems/strong-friendship/description/) | 54.5% | <span style="color: orange;">Medium</span> |
 | 1950 | ❌ [Maximum of Minimum Values in All Subarrays](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/description/) | 49.9% | <span style="color: orange;">Medium</span> |
 | 1951 | ❌ [All the Pairs With the Maximum Number of Common Followers](https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers/description/) | 69.0% | <span style="color: orange;">Medium</span> |
