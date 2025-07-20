@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 387/3312
+### Solved: 388/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1849,7 +1849,7 @@
 | 1841 | ❌ [League Statistics](https://leetcode.com/problems/league-statistics/description/) | 53.5% | <span style="color: orange;">Medium</span> |
 | 1842 | ❌ [Next Palindrome Using Same Digits](https://leetcode.com/problems/next-palindrome-using-same-digits/description/) | 53.4% | <span style="color: red;">Hard</span> |
 | 1843 | ❌ [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts/description/) | 45.0% | <span style="color: orange;">Medium</span> |
-| 1844 | ❌ [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/) | 81.7% | <span style="color: green;">Easy</span> |
+| 1844 | ✔️ [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/) | 81.7% | <span style="color: green;">Easy</span> |
 | 1845 | ❌ [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/) | 69.5% | <span style="color: orange;">Medium</span> |
 | 1846 | ❌ [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | 65.8% | <span style="color: orange;">Medium</span> |
 | 1847 | ❌ [Closest Room](https://leetcode.com/problems/closest-room/description/) | 38.9% | <span style="color: red;">Hard</span> |
