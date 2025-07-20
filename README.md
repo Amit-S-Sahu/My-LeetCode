@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 388/3312
+### Solved: 389/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1876,7 +1876,7 @@
 | 1868 | ❌ [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/) | 58.7% | <span style="color: orange;">Medium</span> |
 | 1869 | ❌ [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/) | 61.4% | <span style="color: green;">Easy</span> |
 | 1870 | ❌ [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/) | 46.9% | <span style="color: orange;">Medium</span> |
-| 1871 | ❌ [Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/) | 25.0% | <span style="color: orange;">Medium</span> |
+| 1871 | ✔️ [Jump Game VII](https://leetcode.com/problems/jump-game-vii/description/) | 25.0% | <span style="color: orange;">Medium</span> |
 | 1872 | ❌ [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/) | 53.3% | <span style="color: red;">Hard</span> |
 | 1873 | ❌ [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/) | 57.5% | <span style="color: green;">Easy</span> |
 | 1874 | ❌ [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/description/) | 89.5% | <span style="color: orange;">Medium</span> |
