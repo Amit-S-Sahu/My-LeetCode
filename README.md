@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 391/3312
+### Solved: 392/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -1700,7 +1700,7 @@
 | 1692 | ❌ [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/description/) | 62.6% | <span style="color: red;">Hard</span> |
 | 1693 | ❌ [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/) | 86.5% | <span style="color: green;">Easy</span> |
 | 1694 | ❌ [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/) | 66.4% | <span style="color: green;">Easy</span> |
-| 1695 | ❌ [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/) | 58.6% | <span style="color: orange;">Medium</span> |
+| 1695 | ✔️ [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/) | 58.6% | <span style="color: orange;">Medium</span> |
 | 1696 | ❌ [Jump Game VI](https://leetcode.com/problems/jump-game-vi/description/) | 45.7% | <span style="color: orange;">Medium</span> |
 | 1697 | ❌ [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/) | 62.6% | <span style="color: red;">Hard</span> |
 | 1698 | ❌ [Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/) | 64.6% | <span style="color: orange;">Medium</span> |
