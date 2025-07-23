@@ -1,10 +1,10 @@
-<h2><a href="https://leetcode.com/problems/string-to-integer-atoi">8. String to Integer (atoi)</a></h2><h3>Medium</h3><hr><p>Implement the <code>myAtoi(string s)</code> function, which converts a string to a 32-bit signed integer.</p>
+<h2><a href="https://leetcode.com/problems/string-to-integer-atoi/">8. String to Integer (atoi)</a></h2><h3>Medium</h3><hr><p>Implement the <code>myAtoi(string s)</code> function, which converts a string to a 32-bit signed integer.</p>
 
 <p>The algorithm for <code>myAtoi(string s)</code> is as follows:</p>
 
 <ol>
 	<li><strong>Whitespace</strong>: Ignore any leading whitespace (<code>&quot; &quot;</code>).</li>
-	<li><strong>Signedness</strong>: Determine the sign by checking if the next character is <code>&#39;-&#39;</code> or <code>&#39;+&#39;</code>, assuming positivity is neither present.</li>
+	<li><strong>Signedness</strong>: Determine the sign by checking if the next character is <code>&#39;-&#39;</code> or <code>&#39;+&#39;</code>, assuming positivity if neither present.</li>
 	<li><strong>Conversion</strong>: Read the integer by skipping leading zeros&nbsp;until a non-digit character is encountered or the end of the string is reached. If no digits were read, then the result is 0.</li>
 	<li><strong>Rounding</strong>: If the integer is out of the 32-bit signed integer range <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>, then round the integer to remain in the range. Specifically, integers less than <code>-2<sup>31</sup></code> should be rounded to <code>-2<sup>31</sup></code>, and integers greater than <code>2<sup>31</sup> - 1</code> should be rounded to <code>2<sup>31</sup> - 1</code>.</li>
 </ol>
