@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 393/3312
+### Solved: 394/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2327,7 +2327,7 @@
 | 2319 | ❌ [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/) | 65.4% | <span style="color: green;">Easy</span> |
 | 2320 | ❌ [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/description/) | 42.2% | <span style="color: orange;">Medium</span> |
 | 2321 | ❌ [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/description/) | 57.0% | <span style="color: red;">Hard</span> |
-| 2322 | ❌ [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/) | 52.2% | <span style="color: red;">Hard</span> |
+| 2322 | ✔️ [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/) | 52.2% | <span style="color: red;">Hard</span> |
 | 2323 | ❌ [Find Minimum Time to Finish All Jobs II](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/description/) | 65.9% | <span style="color: orange;">Medium</span> |
 | 2324 | ❌ [Product Sales Analysis IV](https://leetcode.com/problems/product-sales-analysis-iv/description/) | 74.8% | <span style="color: orange;">Medium</span> |
 | 2325 | ❌ [Decode the Message](https://leetcode.com/problems/decode-the-message/description/) | 84.8% | <span style="color: green;">Easy</span> |
