@@ -1,16 +1,10 @@
 class Solution {
+    private static int helper(int num, int count) {
+        if (num == 0) return count;
+        return (num & 1) == 0 ? helper(num / 2, count + 1) : helper(num - 1, count + 1);
+    }
+    
     public int numberOfSteps(int num) {
-        int steps = 0;
-        while (num > 0) {
-            if (num % 2 == 0) {
-                num /= 2;
-                steps++;
-            }
-            else {
-                num -= 1;
-                steps++;
-            }
-        }
-        return steps;
+        return helper(num, 0);
     }
 }
