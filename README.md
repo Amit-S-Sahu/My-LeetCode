@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 394/3312
+### Solved: 395/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2215,7 +2215,7 @@
 | 2207 | ❌ [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/description/) | 35.1% | <span style="color: orange;">Medium</span> |
 | 2208 | ❌ [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/description/) | 47.2% | <span style="color: orange;">Medium</span> |
 | 2209 | ❌ [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/description/) | 37.2% | <span style="color: red;">Hard</span> |
-| 2210 | ❌ [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/) | 61.3% | <span style="color: green;">Easy</span> |
+| 2210 | ✔️ [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/) | 61.3% | <span style="color: green;">Easy</span> |
 | 2211 | ❌ [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/) | 44.0% | <span style="color: orange;">Medium</span> |
 | 2212 | ❌ [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/description/) | 50.4% | <span style="color: orange;">Medium</span> |
 | 2213 | ❌ [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/) | 32.3% | <span style="color: red;">Hard</span> |
