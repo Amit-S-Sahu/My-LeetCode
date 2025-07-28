@@ -1,23 +1,25 @@
 class Solution {
-    List<Integer> or = new ArrayList<>();
-    public int countMaxOrSubsets(int[] nums) {
-        helper(0, nums, 0);
-        Collections.sort(or, Collections.reverseOrder());
-        int max = or.get(0);
-        int ans = 0;
-        for (Integer i: or){
-            if (max == i) ans++;
-            else break;
-        }
-        return ans;
-    }
-    public void helper(int index,int[] nums,int sum){
-        if (index == nums.length){
-            or.add(sum);
+    HashMap<Integer, Integer> map = new HashMap<>();
+    ArrayList<Integer> list = new ArrayList<>();
+    private void helper(int arr[], int i) {
+        if (i == arr.length) {
+            if (list.size() == 0) return;
+            int temp = list.get(0);
+            for (int num : list) temp |= num;
+            map.put(temp, map.getOrDefault(temp, 0) + 1);
             return;
         }
-        int val = (sum | nums[index]);
-        helper(index+1,nums,val);
-        helper(index+1,nums,sum);
+        helper(arr, i + 1);
+        list.add(arr[i]);
+        helper(arr, i + 1);
+        list.removeLast();
     }
+
+    public int countMaxOrSubsets(int[] nums) {
+        helper(nums, 0);
+        int max = 0;
+        for (int num : map.keySet()) max = Math.max(max, num);
+        return map.get(max);
+    }
+
 }
