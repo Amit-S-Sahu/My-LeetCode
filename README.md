@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 396/3312
+### Solved: 397/3312
 
 [██░░░░░░░░░░░░░░░░░░] 11%
 
@@ -2424,7 +2424,7 @@
 | 2416 | ✔️ [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/description/) | 60.6% | <span style="color: red;">Hard</span> |
 | 2417 | ❌ [Closest Fair Integer](https://leetcode.com/problems/closest-fair-integer/description/) | 45.4% | <span style="color: orange;">Medium</span> |
 | 2418 | ❌ [Sort the People](https://leetcode.com/problems/sort-the-people/description/) | 84.9% | <span style="color: green;">Easy</span> |
-| 2419 | ❌ [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/) | 61.8% | <span style="color: orange;">Medium</span> |
+| 2419 | ✔️ [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/) | 61.8% | <span style="color: orange;">Medium</span> |
 | 2420 | ❌ [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/description/) | 39.1% | <span style="color: orange;">Medium</span> |
 | 2421 | ❌ [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/description/) | 56.3% | <span style="color: red;">Hard</span> |
 | 2422 | ❌ [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/description/) | 69.1% | <span style="color: orange;">Medium</span> |
