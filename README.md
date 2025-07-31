@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 397/3312
+### Solved: 398/3312
 
-[██░░░░░░░░░░░░░░░░░░] 11%
+[██░░░░░░░░░░░░░░░░░░] 12%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -903,7 +903,7 @@
 | 895 | ❌ [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | 66.5% | <span style="color: red;">Hard</span> |
 | 896 | ❌ [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | 61.4% | <span style="color: green;">Easy</span> |
 | 897 | ❌ [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | 78.5% | <span style="color: green;">Easy</span> |
-| 898 | ❌ [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | 39.7% | <span style="color: orange;">Medium</span> |
+| 898 | ✔️ [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | 39.7% | <span style="color: orange;">Medium</span> |
 | 899 | ❌ [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | 66.1% | <span style="color: red;">Hard</span> |
 | 900 | ❌ [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | 59.7% | <span style="color: orange;">Medium</span> |
 | 901 | ❌ [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | 66.6% | <span style="color: orange;">Medium</span> |
