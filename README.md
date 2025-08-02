@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 401/3312
+### Solved: 402/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -2566,7 +2566,7 @@
 | 2558 | ✔️ [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/) | 67.3% | <span style="color: green;">Easy</span> |
 | 2559 | ✔️ [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/) | 52.9% | <span style="color: orange;">Medium</span> |
 | 2560 | ✔️ [House Robber IV](https://leetcode.com/problems/house-robber-iv/description/) | 44.5% | <span style="color: orange;">Medium</span> |
-| 2561 | ❌ [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/) | 34.2% | <span style="color: red;">Hard</span> |
+| 2561 | ✔️ [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/) | 34.2% | <span style="color: red;">Hard</span> |
 | 2562 | ❌ [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/description/) | 70.3% | <span style="color: green;">Easy</span> |
 | 2563 | ✔️ [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | 33.4% | <span style="color: orange;">Medium</span> |
 | 2564 | ❌ [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/description/) | 33.7% | <span style="color: orange;">Medium</span> |
