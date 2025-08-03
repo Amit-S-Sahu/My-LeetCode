@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 403/3312
+### Solved: 404/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -212,7 +212,7 @@
 | 204 | ❌ [Count Primes](https://leetcode.com/problems/count-primes/description/) | 34.0% | <span style="color: orange;">Medium</span> |
 | 205 | ❌ [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | 45.8% | <span style="color: green;">Easy</span> |
 | 206 | ❌ [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | 77.8% | <span style="color: green;">Easy</span> |
-| 207 | ❌ [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | 47.6% | <span style="color: orange;">Medium</span> |
+| 207 | ✔️ [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | 47.6% | <span style="color: orange;">Medium</span> |
 | 208 | ❌ [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-(prefix-tree)/description/) | 66.5% | <span style="color: orange;">Medium</span> |
 | 209 | ❌ [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | 47.9% | <span style="color: orange;">Medium</span> |
 | 210 | ❌ [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | 51.6% | <span style="color: orange;">Medium</span> |
