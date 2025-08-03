@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 405/3312
+### Solved: 406/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -2111,7 +2111,7 @@
 | 2103 | ❌ [Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/) | 80.9% | <span style="color: green;">Easy</span> |
 | 2104 | ❌ [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/description/) | 60.7% | <span style="color: orange;">Medium</span> |
 | 2105 | ❌ [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/description/) | 48.4% | <span style="color: orange;">Medium</span> |
-| 2106 | ❌ [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/) | 36.4% | <span style="color: red;">Hard</span> |
+| 2106 | ✔️ [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/) | 36.4% | <span style="color: red;">Hard</span> |
 | 2107 | ❌ [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/description/) | 55.7% | <span style="color: orange;">Medium</span> |
 | 2108 | ❌ [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 83.9% | <span style="color: green;">Easy</span> |
 | 2109 | ✔️ [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/) | 59.5% | <span style="color: orange;">Medium</span> |
