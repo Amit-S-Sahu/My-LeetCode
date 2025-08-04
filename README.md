@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 406/3312
+### Solved: 407/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -909,7 +909,7 @@
 | 901 | ❌ [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | 66.6% | <span style="color: orange;">Medium</span> |
 | 902 | ❌ [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | 42.8% | <span style="color: red;">Hard</span> |
 | 903 | ❌ [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | 57.2% | <span style="color: red;">Hard</span> |
-| 904 | ❌ [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | 45.0% | <span style="color: orange;">Medium</span> |
+| 904 | ✔️ [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | 45.0% | <span style="color: orange;">Medium</span> |
 | 905 | ❌ [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | 76.3% | <span style="color: green;">Easy</span> |
 | 906 | ❌ [Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) | 39.0% | <span style="color: red;">Hard</span> |
 | 907 | ❌ [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | 37.2% | <span style="color: orange;">Medium</span> |
