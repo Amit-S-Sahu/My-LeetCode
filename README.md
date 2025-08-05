@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 407/3312
+### Solved: 408/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -789,7 +789,7 @@
 | 781 | ✔️ [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | 53.0% | <span style="color: orange;">Medium</span> |
 | 782 | ❌ [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) | 50.7% | <span style="color: red;">Hard</span> |
 | 783 | ❌ [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | 59.8% | <span style="color: green;">Easy</span> |
-| 784 | ❌ [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | 74.5% | <span style="color: orange;">Medium</span> |
+| 784 | ✔️ [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | 74.5% | <span style="color: orange;">Medium</span> |
 | 785 | ❌ [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite?/description/) | 56.5% | <span style="color: orange;">Medium</span> |
 | 786 | ❌ [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | 68.2% | <span style="color: orange;">Medium</span> |
 | 787 | ❌ [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | 39.7% | <span style="color: orange;">Medium</span> |
