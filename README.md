@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 408/3312
+### Solved: 409/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -813,7 +813,7 @@
 | 805 | ❌ [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | 25.5% | <span style="color: red;">Hard</span> |
 | 806 | ❌ [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | 69.3% | <span style="color: green;">Easy</span> |
 | 807 | ❌ [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | 86.2% | <span style="color: orange;">Medium</span> |
-| 808 | ❌ [Soup Servings](https://leetcode.com/problems/soup-servings/description/) | 53.7% | <span style="color: orange;">Medium</span> |
+| 808 | ✔️ [Soup Servings](https://leetcode.com/problems/soup-servings/description/) | 53.7% | <span style="color: orange;">Medium</span> |
 | 809 | ❌ [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | 46.3% | <span style="color: orange;">Medium</span> |
 | 810 | ❌ [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) | 61.3% | <span style="color: red;">Hard</span> |
 | 811 | ❌ [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | 76.5% | <span style="color: orange;">Medium</span> |
