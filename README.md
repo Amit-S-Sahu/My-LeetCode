@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 409/3312
+### Solved: 410/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -236,7 +236,7 @@
 | 228 | ✔️ [Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) | 51.7% | <span style="color: green;">Easy</span> |
 | 229 | ✔️ [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 52.8% | <span style="color: orange;">Medium</span> |
 | 230 | ❌ [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | 73.8% | <span style="color: orange;">Medium</span> |
-| 231 | ❌ [Power of Two](https://leetcode.com/problems/power-of-two/description/) | 48.0% | <span style="color: green;">Easy</span> |
+| 231 | ✔️ [Power of Two](https://leetcode.com/problems/power-of-two/description/) | 48.0% | <span style="color: green;">Easy</span> |
 | 232 | ❌ [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | 67.1% | <span style="color: green;">Easy</span> |
 | 233 | ❌ [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) | 35.0% | <span style="color: red;">Hard</span> |
 | 234 | ✔️ [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | 54.3% | <span style="color: green;">Easy</span> |
