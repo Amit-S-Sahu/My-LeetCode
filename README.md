@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 410/3312
+### Solved: 411/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -874,7 +874,7 @@
 | 866 | ❌ [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | 26.2% | <span style="color: orange;">Medium</span> |
 | 867 | ❌ [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | 72.7% | <span style="color: green;">Easy</span> |
 | 868 | ❌ [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | 64.0% | <span style="color: green;">Easy</span> |
-| 869 | ❌ [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | 62.5% | <span style="color: orange;">Medium</span> |
+| 869 | ✔️ [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | 62.5% | <span style="color: orange;">Medium</span> |
 | 870 | ❌ [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | 52.8% | <span style="color: orange;">Medium</span> |
 | 871 | ❌ [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | 40.2% | <span style="color: red;">Hard</span> |
 | 872 | ❌ [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | 70.1% | <span style="color: green;">Easy</span> |
