@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 411/3312
+### Solved: 412/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -2443,7 +2443,7 @@
 | 2435 | ❌ [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/) | 43.3% | <span style="color: red;">Hard</span> |
 | 2436 | ❌ [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/description/) | 71.4% | <span style="color: orange;">Medium</span> |
 | 2437 | ❌ [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/description/) | 47.1% | <span style="color: green;">Easy</span> |
-| 2438 | ❌ [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/) | 41.0% | <span style="color: orange;">Medium</span> |
+| 2438 | ✔️ [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/) | 41.0% | <span style="color: orange;">Medium</span> |
 | 2439 | ❌ [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/) | 46.4% | <span style="color: orange;">Medium</span> |
 | 2440 | ❌ [Create Components With Same Value](https://leetcode.com/problems/create-components-with-same-value/description/) | 52.9% | <span style="color: red;">Hard</span> |
 | 2441 | ❌ [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/) | 75.1% | <span style="color: green;">Easy</span> |
