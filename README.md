@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 412/3312
+### Solved: 413/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -2792,7 +2792,7 @@
 | 2784 | ❌ [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | 49.4% | <span style="color: green;">Easy</span> |
 | 2785 | ❌ [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/) | 81.2% | <span style="color: orange;">Medium</span> |
 | 2786 | ❌ [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/) | 36.3% | <span style="color: orange;">Medium</span> |
-| 2787 | ❌ [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/) | 34.1% | <span style="color: orange;">Medium</span> |
+| 2787 | ✔️ [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/) | 34.1% | <span style="color: orange;">Medium</span> |
 | 2788 | ❌ [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/) | 74.8% | <span style="color: green;">Easy</span> |
 | 2789 | ❌ [Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/description/) | 47.5% | <span style="color: orange;">Medium</span> |
 | 2790 | ❌ [Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/description/) | 20.4% | <span style="color: red;">Hard</span> |
