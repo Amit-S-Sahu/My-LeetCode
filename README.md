@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 413/3312
+### Solved: 414/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -331,7 +331,7 @@
 | 323 | ❌ [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | 63.3% | <span style="color: orange;">Medium</span> |
 | 324 | ❌ [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/) | 34.8% | <span style="color: orange;">Medium</span> |
 | 325 | ❌ [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/) | 49.7% | <span style="color: orange;">Medium</span> |
-| 326 | ❌ [Power of Three](https://leetcode.com/problems/power-of-three/description/) | 47.1% | <span style="color: green;">Easy</span> |
+| 326 | ✔️ [Power of Three](https://leetcode.com/problems/power-of-three/description/) | 47.1% | <span style="color: green;">Easy</span> |
 | 327 | ❌ [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) | 36.2% | <span style="color: red;">Hard</span> |
 | 328 | ❌ [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | 61.7% | <span style="color: orange;">Medium</span> |
 | 329 | ❌ [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | 54.2% | <span style="color: red;">Hard</span> |
