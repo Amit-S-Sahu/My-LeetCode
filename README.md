@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 414/3312
+### Solved: 415/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -2269,7 +2269,7 @@
 | 2261 | ❌ [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/description/) | 52.5% | <span style="color: orange;">Medium</span> |
 | 2262 | ❌ [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/description/) | 55.8% | <span style="color: red;">Hard</span> |
 | 2263 | ❌ [Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/description/) | 65.7% | <span style="color: red;">Hard</span> |
-| 2264 | ❌ [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/) | 69.1% | <span style="color: green;">Easy</span> |
+| 2264 | ✔️ [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/) | 69.1% | <span style="color: green;">Easy</span> |
 | 2265 | ❌ [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | 86.4% | <span style="color: orange;">Medium</span> |
 | 2266 | ❌ [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/description/) | 48.1% | <span style="color: orange;">Medium</span> |
 | 2267 | ❌ [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/) | 39.1% | <span style="color: red;">Hard</span> |
