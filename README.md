@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 415/3312
+### Solved: 416/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -347,7 +347,7 @@
 | 339 | ❌ [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) | 84.4% | <span style="color: orange;">Medium</span> |
 | 340 | ❌ [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | 49.1% | <span style="color: orange;">Medium</span> |
 | 341 | ❌ [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) | 64.8% | <span style="color: orange;">Medium</span> |
-| 342 | ❌ [Power of Four](https://leetcode.com/problems/power-of-four/description/) | 48.5% | <span style="color: green;">Easy</span> |
+| 342 | ✔️ [Power of Four](https://leetcode.com/problems/power-of-four/description/) | 48.5% | <span style="color: green;">Easy</span> |
 | 343 | ❌ [Integer Break](https://leetcode.com/problems/integer-break/description/) | 60.7% | <span style="color: orange;">Medium</span> |
 | 344 | ✔️ [Reverse String](https://leetcode.com/problems/reverse-string/description/) | 79.1% | <span style="color: green;">Easy</span> |
 | 345 | ✔️ [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | 54.7% | <span style="color: green;">Easy</span> |
