@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 416/3312
+### Solved: 417/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -1328,7 +1328,7 @@
 | 1320 | ❌ [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/) | 59.1% | <span style="color: red;">Hard</span> |
 | 1321 | ❌ [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/) | 53.5% | <span style="color: orange;">Medium</span> |
 | 1322 | ❌ [Ads Performance](https://leetcode.com/problems/ads-performance/description/) | 59.4% | <span style="color: green;">Easy</span> |
-| 1323 | ❌ [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | 82.5% | <span style="color: green;">Easy</span> |
+| 1323 | ✔️ [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | 82.5% | <span style="color: green;">Easy</span> |
 | 1324 | ❌ [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/) | 64.9% | <span style="color: orange;">Medium</span> |
 | 1325 | ❌ [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) | 77.4% | <span style="color: orange;">Medium</span> |
 | 1326 | ❌ [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) | 50.7% | <span style="color: red;">Hard</span> |
