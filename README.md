@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 418/3312
+### Solved: 419/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -684,7 +684,7 @@
 | 676 | ❌ [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | 57.7% | <span style="color: orange;">Medium</span> |
 | 677 | ❌ [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | 56.9% | <span style="color: orange;">Medium</span> |
 | 678 | ❌ [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) | 38.3% | <span style="color: orange;">Medium</span> |
-| 679 | ❌ [24 Game](https://leetcode.com/problems/24-game/description/) | 49.5% | <span style="color: red;">Hard</span> |
+| 679 | ✔️ [24 Game](https://leetcode.com/problems/24-game/description/) | 49.5% | <span style="color: red;">Hard</span> |
 | 680 | ❌ [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | 41.5% | <span style="color: green;">Easy</span> |
 | 681 | ❌ [Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | 46.8% | <span style="color: orange;">Medium</span> |
 | 682 | ✔️ [Baseball Game](https://leetcode.com/problems/baseball-game/description/) | 77.4% | <span style="color: green;">Easy</span> |
