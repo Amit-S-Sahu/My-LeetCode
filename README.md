@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 419/3312
+### Solved: 420/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -2353,7 +2353,7 @@
 | 2345 | ❌ [Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/) | 37.7% | <span style="color: orange;">Medium</span> |
 | 2346 | ❌ [Compute the Rank as a Percentage](https://leetcode.com/problems/compute-the-rank-as-a-percentage/description/) | 33.6% | <span style="color: orange;">Medium</span> |
 | 2347 | ❌ [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/) | 60.9% | <span style="color: green;">Easy</span> |
-| 2348 | ❌ [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) | 66.7% | <span style="color: orange;">Medium</span> |
+| 2348 | ✔️ [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) | 66.7% | <span style="color: orange;">Medium</span> |
 | 2349 | ✔️ [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/) | 44.8% | <span style="color: orange;">Medium</span> |
 | 2350 | ❌ [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/description/) | 68.6% | <span style="color: red;">Hard</span> |
 | 2351 | ❌ [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/) | 73.9% | <span style="color: green;">Easy</span> |
