@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 420/3312
+### Solved: 421/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -1509,7 +1509,7 @@
 | 1501 | ❌ [Countries You Can Safely Invest In](https://leetcode.com/problems/countries-you-can-safely-invest-in/description/) | 50.2% | <span style="color: orange;">Medium</span> |
 | 1502 | ✔️ [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/) | 69.5% | <span style="color: green;">Easy</span> |
 | 1503 | ❌ [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/) | 68.5% | <span style="color: orange;">Medium</span> |
-| 1504 | ❌ [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/) | 57.3% | <span style="color: orange;">Medium</span> |
+| 1504 | ✔️ [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 1505 | ❌ [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/) | 40.0% | <span style="color: red;">Hard</span> |
 | 1506 | ❌ [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/description/) | 78.4% | <span style="color: orange;">Medium</span> |
 | 1507 | ❌ [Reformat Date](https://leetcode.com/problems/reformat-date/description/) | 66.8% | <span style="color: green;">Easy</span> |
