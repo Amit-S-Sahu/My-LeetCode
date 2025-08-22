@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 421/3312
+### Solved: 422/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -3200,7 +3200,7 @@
 | 3192 | ❌ [Minimum Operations to Make Binary Array Elements Equal to One II](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/description/) | 65.4% | <span style="color: orange;">Medium</span> |
 | 3193 | ❌ [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/description/) | 33.8% | <span style="color: red;">Hard</span> |
 | 3194 | ❌ [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/) | 85.4% | <span style="color: green;">Easy</span> |
-| 3195 | ❌ [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/) | 73.7% | <span style="color: orange;">Medium</span> |
+| 3195 | ✔️ [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/) | 73.7% | <span style="color: orange;">Medium</span> |
 | 3196 | ❌ [Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/description/) | 28.7% | <span style="color: orange;">Medium</span> |
 | 3197 | ❌ [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/) | 38.1% | <span style="color: red;">Hard</span> |
 | 3198 | ❌ [Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/description/) | 82.4% | <span style="color: green;">Easy</span> |
