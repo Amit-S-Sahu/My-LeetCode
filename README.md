@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 423/3312
+### Solved: 424/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -503,7 +503,7 @@
 | 495 | ❌ [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | 56.7% | <span style="color: green;">Easy</span> |
 | 496 | ✔️ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | 73.2% | <span style="color: green;">Easy</span> |
 | 497 | ❌ [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) | 40.3% | <span style="color: orange;">Medium</span> |
-| 498 | ❌ [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | 61.2% | <span style="color: orange;">Medium</span> |
+| 498 | ✔️ [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | 61.2% | <span style="color: orange;">Medium</span> |
 | 499 | ❌ [The Maze III](https://leetcode.com/problems/the-maze-iii/description/) | 49.5% | <span style="color: red;">Hard</span> |
 | 500 | ❌ [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | 71.4% | <span style="color: green;">Easy</span> |
 | 501 | ❌ [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | 56.7% | <span style="color: green;">Easy</span> |
