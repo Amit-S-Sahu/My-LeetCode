@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 425/3312
+### Solved: 426/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -3026,7 +3026,7 @@
 | 3018 | ❌ [Maximum Number of Removal Queries That Can Be Processed I](https://leetcode.com/problems/maximum-number-of-removal-queries-that-can-be-processed-i/description/) | 44.6% | <span style="color: red;">Hard</span> |
 | 3019 | ❌ [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/) | 81.1% | <span style="color: green;">Easy</span> |
 | 3020 | ❌ [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/) | 25.2% | <span style="color: orange;">Medium</span> |
-| 3021 | ❌ [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | 47.9% | <span style="color: orange;">Medium</span> |
+| 3021 | ✔️ [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | 47.9% | <span style="color: orange;">Medium</span> |
 | 3022 | ❌ [Minimize OR of Remaining Elements Using Operations](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/) | 33.6% | <span style="color: red;">Hard</span> |
 | 3023 | ❌ [Find Pattern in Infinite Stream I](https://leetcode.com/problems/find-pattern-in-infinite-stream-i/description/) | 59.3% | <span style="color: orange;">Medium</span> |
 | 3024 | ✔️ [Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/) | 38.3% | <span style="color: green;">Easy</span> |
