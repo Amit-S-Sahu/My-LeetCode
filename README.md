@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 427/3312
+### Solved: 428/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -42,7 +42,7 @@
 | 34 | ❌ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 45.3% | <span style="color: orange;">Medium</span> |
 | 35 | ❌ [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | 47.3% | <span style="color: green;">Easy</span> |
 | 36 | ✔️ [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | 60.7% | <span style="color: orange;">Medium</span> |
-| 37 | ❌ [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | 63.0% | <span style="color: red;">Hard</span> |
+| 37 | ✔️ [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | 63.0% | <span style="color: red;">Hard</span> |
 | 38 | ✔️ [Count and Say](https://leetcode.com/problems/count-and-say/description/) | 56.6% | <span style="color: orange;">Medium</span> |
 | 39 | ❌ [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | 72.9% | <span style="color: orange;">Medium</span> |
 | 40 | ❌ [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | 56.5% | <span style="color: orange;">Medium</span> |
