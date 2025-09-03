@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 429/3312
+### Solved: 430/3312
 
 [██░░░░░░░░░░░░░░░░░░] 12%
 
@@ -3030,7 +3030,7 @@
 | 3022 | ❌ [Minimize OR of Remaining Elements Using Operations](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/description/) | 33.6% | <span style="color: red;">Hard</span> |
 | 3023 | ❌ [Find Pattern in Infinite Stream I](https://leetcode.com/problems/find-pattern-in-infinite-stream-i/description/) | 59.3% | <span style="color: orange;">Medium</span> |
 | 3024 | ✔️ [Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/) | 38.3% | <span style="color: green;">Easy</span> |
-| 3025 | ❌ [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | 41.7% | <span style="color: orange;">Medium</span> |
+| 3025 | ✔️ [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | 41.7% | <span style="color: orange;">Medium</span> |
 | 3026 | ❌ [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/description/) | 19.4% | <span style="color: orange;">Medium</span> |
 | 3027 | ❌ [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/) | 48.2% | <span style="color: red;">Hard</span> |
 | 3028 | ❌ [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/description/) | 74.8% | <span style="color: green;">Easy</span> |
