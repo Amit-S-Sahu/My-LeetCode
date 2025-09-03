@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 431/3312
+### Solved: 432/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -151,7 +151,7 @@
 | 143 | ❌ [Reorder List](https://leetcode.com/problems/reorder-list/description/) | 60.3% | <span style="color: orange;">Medium</span> |
 | 144 | ❌ [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | 71.0% | <span style="color: green;">Easy</span> |
 | 145 | ❌ [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | 73.6% | <span style="color: green;">Easy</span> |
-| 146 | ❌ [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | 43.4% | <span style="color: orange;">Medium</span> |
+| 146 | ✔️ [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | 43.4% | <span style="color: orange;">Medium</span> |
 | 147 | ❌ [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | 54.7% | <span style="color: orange;">Medium</span> |
 | 148 | ✔️ [Sort List](https://leetcode.com/problems/sort-list/description/) | 59.7% | <span style="color: orange;">Medium</span> |
 | 149 | ❌ [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | 27.6% | <span style="color: red;">Hard</span> |
