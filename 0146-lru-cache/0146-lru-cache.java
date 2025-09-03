@@ -2,7 +2,10 @@ class LRUCache {
     class Node {
         int key, value;
         Node prev, next;
-        Node(int k, int v) { key = k; value = v; }
+        Node(int k, int v) { 
+            key = k; 
+            value = v; 
+        }
     }
 
     private int capacity;
@@ -27,12 +30,8 @@ class LRUCache {
     }
 
     public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            remove(map.get(key));
-        }
-        if (map.size() == capacity) {
-            remove(tail.prev);
-        }
+        if (map.containsKey(key)) remove(map.get(key));
+        if (map.size() == capacity) remove(tail.prev);
         insert(new Node(key, value));
     }
 
