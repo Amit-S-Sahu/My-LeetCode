@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 432/3312
+### Solved: 433/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -2754,7 +2754,7 @@
 | 2746 | ❌ [Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/description/) | 27.2% | <span style="color: orange;">Medium</span> |
 | 2747 | ❌ [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/description/) | 33.2% | <span style="color: orange;">Medium</span> |
 | 2748 | ❌ [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/description/) | 50.7% | <span style="color: green;">Easy</span> |
-| 2749 | ❌ [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | 30.3% | <span style="color: orange;">Medium</span> |
+| 2749 | ✔️ [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | 30.3% | <span style="color: orange;">Medium</span> |
 | 2750 | ❌ [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) | 34.5% | <span style="color: orange;">Medium</span> |
 | 2751 | ❌ [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/) | 57.0% | <span style="color: red;">Hard</span> |
 | 2752 | ❌ [Customers with Maximum Number of Transactions on Consecutive Days](https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days/description/) | 38.9% | <span style="color: red;">Hard</span> |
