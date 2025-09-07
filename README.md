@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 433/3312
+### Solved: 434/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -1309,7 +1309,7 @@
 | 1301 | ❌ [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/) | 40.0% | <span style="color: red;">Hard</span> |
 | 1302 | ❌ [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/) | 86.3% | <span style="color: orange;">Medium</span> |
 | 1303 | ❌ [Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/) | 89.5% | <span style="color: green;">Easy</span> |
-| 1304 | ❌ [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | 76.2% | <span style="color: green;">Easy</span> |
+| 1304 | ✔️ [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | 76.2% | <span style="color: green;">Easy</span> |
 | 1305 | ❌ [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | 79.9% | <span style="color: orange;">Medium</span> |
 | 1306 | ❌ [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | 65.3% | <span style="color: orange;">Medium</span> |
 | 1307 | ❌ [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/) | 34.7% | <span style="color: red;">Hard</span> |
