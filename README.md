@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 434/3312
+### Solved: 435/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -1322,7 +1322,7 @@
 | 1314 | ❌ [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/) | 75.7% | <span style="color: orange;">Medium</span> |
 | 1315 | ❌ [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/) | 85.6% | <span style="color: orange;">Medium</span> |
 | 1316 | ❌ [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/description/) | 51.1% | <span style="color: red;">Hard</span> |
-| 1317 | ❌ [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) | 54.0% | <span style="color: green;">Easy</span> |
+| 1317 | ✔️ [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) | 54.0% | <span style="color: green;">Easy</span> |
 | 1318 | ❌ [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/) | 71.2% | <span style="color: orange;">Medium</span> |
 | 1319 | ❌ [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/) | 63.5% | <span style="color: orange;">Medium</span> |
 | 1320 | ❌ [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/) | 59.1% | <span style="color: red;">Hard</span> |
