@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 435/3312
+### Solved: 436/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -2332,7 +2332,7 @@
 | 2324 | ❌ [Product Sales Analysis IV](https://leetcode.com/problems/product-sales-analysis-iv/description/) | 74.8% | <span style="color: orange;">Medium</span> |
 | 2325 | ❌ [Decode the Message](https://leetcode.com/problems/decode-the-message/description/) | 84.8% | <span style="color: green;">Easy</span> |
 | 2326 | ❌ [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/) | 82.3% | <span style="color: orange;">Medium</span> |
-| 2327 | ❌ [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/) | 46.0% | <span style="color: orange;">Medium</span> |
+| 2327 | ✔️ [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/) | 46.0% | <span style="color: orange;">Medium</span> |
 | 2328 | ❌ [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/) | 58.1% | <span style="color: red;">Hard</span> |
 | 2329 | ❌ [Product Sales Analysis V](https://leetcode.com/problems/product-sales-analysis-v/description/) | 69.9% | <span style="color: green;">Easy</span> |
 | 2330 | ❌ [Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/description/) | 76.2% | <span style="color: orange;">Medium</span> |
