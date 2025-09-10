@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 437/3312
+### Solved: 438/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -1738,7 +1738,7 @@
 | 1730 | ❌ [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/description/) | 55.2% | <span style="color: orange;">Medium</span> |
 | 1731 | ❌ [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/) | 49.8% | <span style="color: green;">Easy</span> |
 | 1732 | ❌ [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | 83.6% | <span style="color: green;">Easy</span> |
-| 1733 | ❌ [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/) | 43.2% | <span style="color: orange;">Medium</span> |
+| 1733 | ✔️ [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/) | 43.2% | <span style="color: orange;">Medium</span> |
 | 1734 | ❌ [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/description/) | 65.5% | <span style="color: orange;">Medium</span> |
 | 1735 | ❌ [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/description/) | 52.0% | <span style="color: red;">Hard</span> |
 | 1736 | ❌ [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/description/) | 43.0% | <span style="color: green;">Easy</span> |
