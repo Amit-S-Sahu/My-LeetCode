@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 439/3312
+### Solved: 440/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -3232,7 +3232,7 @@
 | 3224 | ❌ [Minimum Array Changes to Make Differences Equal](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/description/) | 23.2% | <span style="color: orange;">Medium</span> |
 | 3225 | ❌ [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/) | 28.1% | <span style="color: red;">Hard</span> |
 | 3226 | ❌ [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/description/) | 64.7% | <span style="color: green;">Easy</span> |
-| 3227 | ❌ [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/) | 62.9% | <span style="color: orange;">Medium</span> |
+| 3227 | ✔️ [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/) | 62.9% | <span style="color: orange;">Medium</span> |
 | 3228 | ❌ [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/) | 54.1% | <span style="color: orange;">Medium</span> |
 | 3229 | ❌ [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/description/) | 38.7% | <span style="color: red;">Hard</span> |
 | 3230 | ❌ [Customer Purchasing Behavior Analysis](https://leetcode.com/problems/customer-purchasing-behavior-analysis/description/) | 38.9% | <span style="color: orange;">Medium</span> |
