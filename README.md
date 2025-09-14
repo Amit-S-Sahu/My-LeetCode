@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 440/3312
+### Solved: 441/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -491,7 +491,7 @@
 | 483 | ❌ [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/) | 41.7% | <span style="color: red;">Hard</span> |
 | 484 | ❌ [Find Permutation](https://leetcode.com/problems/find-permutation/description/) | 67.0% | <span style="color: orange;">Medium</span> |
 | 485 | ✔️ [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 60.7% | <span style="color: green;">Easy</span> |
-| 486 | ❌ [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | 55.5% | <span style="color: orange;">Medium</span> |
+| 486 | ✔️ [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) | 55.5% | <span style="color: orange;">Medium</span> |
 | 487 | ❌ [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/) | 50.6% | <span style="color: orange;">Medium</span> |
 | 488 | ❌ [Zuma Game](https://leetcode.com/problems/zuma-game/description/) | 32.4% | <span style="color: red;">Hard</span> |
 | 489 | ❌ [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/) | 76.9% | <span style="color: red;">Hard</span> |
