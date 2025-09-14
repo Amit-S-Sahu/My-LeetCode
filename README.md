@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 441/3312
+### Solved: 442/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -971,7 +971,7 @@
 | 963 | ❌ [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/description/) | 55.2% | <span style="color: orange;">Medium</span> |
 | 964 | ❌ [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/description/) | 48.7% | <span style="color: red;">Hard</span> |
 | 965 | ❌ [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/) | 71.4% | <span style="color: green;">Easy</span> |
-| 966 | ❌ [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/) | 51.4% | <span style="color: orange;">Medium</span> |
+| 966 | ✔️ [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/) | 51.4% | <span style="color: orange;">Medium</span> |
 | 967 | ❌ [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/description/) | 58.3% | <span style="color: orange;">Medium</span> |
 | 968 | ❌ [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/description/) | 46.9% | <span style="color: red;">Hard</span> |
 | 969 | ❌ [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) | 71.0% | <span style="color: orange;">Medium</span> |
