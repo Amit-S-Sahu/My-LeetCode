@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 442/3312
+### Solved: 443/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -1940,7 +1940,7 @@
 | 1932 | ❌ [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/) | 36.4% | <span style="color: red;">Hard</span> |
 | 1933 | ❌ [Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/description/) | 51.0% | <span style="color: green;">Easy</span> |
 | 1934 | ❌ [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/) | 59.7% | <span style="color: orange;">Medium</span> |
-| 1935 | ❌ [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/) | 73.8% | <span style="color: green;">Easy</span> |
+| 1935 | ✔️ [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/) | 73.8% | <span style="color: green;">Easy</span> |
 | 1936 | ❌ [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/description/) | 43.1% | <span style="color: orange;">Medium</span> |
 | 1937 | ❌ [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/) | 42.9% | <span style="color: orange;">Medium</span> |
 | 1938 | ❌ [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/description/) | 42.9% | <span style="color: red;">Hard</span> |
