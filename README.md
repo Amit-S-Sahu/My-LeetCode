@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 445/3312
+### Solved: 446/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -2202,7 +2202,7 @@
 | 2194 | ❌ [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/) | 84.2% | <span style="color: green;">Easy</span> |
 | 2195 | ❌ [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/) | 25.6% | <span style="color: orange;">Medium</span> |
 | 2196 | ❌ [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | 81.8% | <span style="color: orange;">Medium</span> |
-| 2197 | ❌ [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/) | 39.9% | <span style="color: red;">Hard</span> |
+| 2197 | ✔️ [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/) | 39.9% | <span style="color: red;">Hard</span> |
 | 2198 | ❌ [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/description/) | 54.7% | <span style="color: orange;">Medium</span> |
 | 2199 | ❌ [Finding the Topic of Each Post](https://leetcode.com/problems/finding-the-topic-of-each-post/description/) | 50.1% | <span style="color: red;">Hard</span> |
 | 2200 | ✔️ [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/) | 66.4% | <span style="color: green;">Easy</span> |
