@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 447/3312
+### Solved: 448/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -93,7 +93,7 @@
 | 85 | ❌ [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | 51.8% | <span style="color: red;">Hard</span> |
 | 86 | ❌ [Partition List](https://leetcode.com/problems/partition-list/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 87 | ❌ [Scramble String](https://leetcode.com/problems/scramble-string/description/) | 40.9% | <span style="color: red;">Hard</span> |
-| 88 | ❌ [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | 51.2% | <span style="color: green;">Easy</span> |
+| 88 | ✔️ [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | 51.2% | <span style="color: green;">Easy</span> |
 | 89 | ❌ [Gray Code](https://leetcode.com/problems/gray-code/description/) | 60.2% | <span style="color: orange;">Medium</span> |
 | 90 | ✔️ [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | 58.2% | <span style="color: orange;">Medium</span> |
 | 91 | ❌ [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | 35.5% | <span style="color: orange;">Medium</span> |
