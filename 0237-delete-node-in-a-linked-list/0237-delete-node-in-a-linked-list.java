@@ -9,13 +9,12 @@
 class Solution {
     public void deleteNode(ListNode node) {
         ListNode temp = node;
-        temp = temp.next;
-        while (temp.next != null) {
-            node.val = temp.val;
-            node = node.next;
+        ListNode prev = node;
+        while (temp != null && temp.next != null) {
+            temp.val = temp.next.val;
+            prev = temp;
             temp = temp.next;
         }
-        node.val = temp.val;
-        node.next = null;
+        prev.next = null;
     }
 }
