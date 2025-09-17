@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 450/3312
+### Solved: 451/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -30,7 +30,7 @@
 | 22 | ❌ [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | 75.6% | <span style="color: orange;">Medium</span> |
 | 23 | ✔️ [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | 54.3% | <span style="color: red;">Hard</span> |
 | 24 | ❌ [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | 65.5% | <span style="color: orange;">Medium</span> |
-| 25 | ❌ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | 60.6% | <span style="color: red;">Hard</span> |
+| 25 | ✔️ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | 60.6% | <span style="color: red;">Hard</span> |
 | 26 | ✔️ [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 57.9% | <span style="color: green;">Easy</span> |
 | 27 | ✔️ [Remove Element](https://leetcode.com/problems/remove-element/description/) | 58.4% | <span style="color: green;">Easy</span> |
 | 28 | ✔️ [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | 43.6% | <span style="color: green;">Easy</span> |
