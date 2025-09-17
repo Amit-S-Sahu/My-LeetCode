@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 446/3312
+### Solved: 447/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -2358,7 +2358,7 @@
 | 2350 | ❌ [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/description/) | 68.6% | <span style="color: red;">Hard</span> |
 | 2351 | ❌ [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/) | 73.9% | <span style="color: green;">Easy</span> |
 | 2352 | ❌ [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/) | 70.4% | <span style="color: orange;">Medium</span> |
-| 2353 | ❌ [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) | 45.2% | <span style="color: orange;">Medium</span> |
+| 2353 | ✔️ [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) | 45.2% | <span style="color: orange;">Medium</span> |
 | 2354 | ❌ [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/description/) | 47.7% | <span style="color: red;">Hard</span> |
 | 2355 | ❌ [Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/description/) | 40.0% | <span style="color: red;">Hard</span> |
 | 2356 | ❌ [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) | 88.9% | <span style="color: green;">Easy</span> |
