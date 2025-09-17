@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 449/3312
+### Solved: 450/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -146,7 +146,7 @@
 | 138 | ❌ [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | 57.8% | <span style="color: orange;">Medium</span> |
 | 139 | ❌ [Word Break](https://leetcode.com/problems/word-break/description/) | 47.3% | <span style="color: orange;">Medium</span> |
 | 140 | ❌ [Word Break II](https://leetcode.com/problems/word-break-ii/description/) | 51.9% | <span style="color: red;">Hard</span> |
-| 141 | ❌ [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | 51.2% | <span style="color: green;">Easy</span> |
+| 141 | ✔️ [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | 51.2% | <span style="color: green;">Easy</span> |
 | 142 | ✔️ [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | 52.8% | <span style="color: orange;">Medium</span> |
 | 143 | ❌ [Reorder List](https://leetcode.com/problems/reorder-list/description/) | 60.3% | <span style="color: orange;">Medium</span> |
 | 144 | ❌ [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | 71.0% | <span style="color: green;">Easy</span> |
