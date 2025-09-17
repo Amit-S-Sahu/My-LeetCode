@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 455/3312
+### Solved: 456/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -51,7 +51,7 @@
 | 43 | ❌ [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | 41.1% | <span style="color: orange;">Medium</span> |
 | 44 | ❌ [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) | 28.7% | <span style="color: red;">Hard</span> |
 | 45 | ❌ [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | 40.8% | <span style="color: orange;">Medium</span> |
-| 46 | ❌ [Permutations](https://leetcode.com/problems/permutations/description/) | 79.3% | <span style="color: orange;">Medium</span> |
+| 46 | ✔️ [Permutations](https://leetcode.com/problems/permutations/description/) | 79.3% | <span style="color: orange;">Medium</span> |
 | 47 | ❌ [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | 60.1% | <span style="color: orange;">Medium</span> |
 | 48 | ✔️ [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | 76.0% | <span style="color: orange;">Medium</span> |
 | 49 | ❌ [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 69.5% | <span style="color: orange;">Medium</span> |
