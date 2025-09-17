@@ -1,35 +1,24 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int m = nums1.length;
-        int n = nums2.length;
-        int l = m + n;
-        int ans[] = new int[l];
+        PriorityQueue<Integer> min = new PriorityQueue<>();
+        PriorityQueue<Integer> max = new PriorityQueue<>(Comparator.reverseOrder());
 
-        int i = 0, j = 0, k = 0;
+        for (int num : nums1) {
+            if (max.isEmpty() || num <= max.peek()) max.offer(num);
+            else min.offer(num);
 
-        while ((i < m) && (j < n)) {
-            if (nums1[i] < nums2[j]) {
-                ans[k++] = nums1[i++];
-            }
-            else if(nums1[i] > nums2[j]) {
-                ans[k++] = nums2[j++];
-            }
-            else {
-                ans[k++] = nums1[i++];
-                ans[k++] = nums2[j++];
-            }
+            if (max.size() > min.size() + 1) min.offer(max.poll());
+            else if (min.size() > max.size()) max.offer(min.poll()); 
         }
 
-        while (i < m) {
-            ans[k++] = nums1[i++];
-        }
+        for (int num : nums2) {
+            if (max.isEmpty() || num <= max.peek()) max.offer(num);
+            else min.offer(num);
 
-        while (j < n) {
-            ans[k++] = nums2[j++];
-        }
+            if (max.size() > min.size() + 1) min.offer(max.poll());
+            else if (min.size() > max.size()) max.offer(min.poll()); 
+        }   
 
-        if (l % 2 != 0) return (double)ans[l / 2];
-        int temp = ans[l / 2] + ans[(l / 2) - 1];
-        return (double)temp / 2.0;
+        return (max.size() > min.size()) ? max.peek() : ((long)max.peek() + (long)min.peek()) / 2.0;
     }
 }
