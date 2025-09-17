@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 454/3312
+### Solved: 455/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -65,7 +65,7 @@
 | 57 | ✔️ [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | 42.3% | <span style="color: orange;">Medium</span> |
 | 58 | ✔️ [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | 53.9% | <span style="color: green;">Easy</span> |
 | 59 | ❌ [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | 72.2% | <span style="color: orange;">Medium</span> |
-| 60 | ❌ [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | 48.2% | <span style="color: red;">Hard</span> |
+| 60 | ✔️ [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | 48.2% | <span style="color: red;">Hard</span> |
 | 61 | ✔️ [Rotate List](https://leetcode.com/problems/rotate-list/description/) | 38.7% | <span style="color: orange;">Medium</span> |
 | 62 | ✔️ [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | 64.9% | <span style="color: orange;">Medium</span> |
 | 63 | ❌ [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | 42.3% | <span style="color: orange;">Medium</span> |
