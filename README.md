@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 457/3312
+### Solved: 458/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -300,7 +300,7 @@
 | 292 | ❌ [Nim Game](https://leetcode.com/problems/nim-game/description/) | 57.3% | <span style="color: green;">Easy</span> |
 | 293 | ❌ [Flip Game](https://leetcode.com/problems/flip-game/description/) | 64.7% | <span style="color: green;">Easy</span> |
 | 294 | ❌ [Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | 52.1% | <span style="color: orange;">Medium</span> |
-| 295 | ❌ [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | 52.4% | <span style="color: red;">Hard</span> |
+| 295 | ✔️ [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | 52.4% | <span style="color: red;">Hard</span> |
 | 296 | ❌ [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) | 61.0% | <span style="color: red;">Hard</span> |
 | 297 | ❌ [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | 57.6% | <span style="color: red;">Hard</span> |
 | 298 | ❌ [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | 53.8% | <span style="color: orange;">Medium</span> |
