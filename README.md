@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 452/3312
+### Solved: 453/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -460,7 +460,7 @@
 | 452 | ❌ [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | 59.4% | <span style="color: orange;">Medium</span> |
 | 453 | ❌ [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | 57.1% | <span style="color: orange;">Medium</span> |
 | 454 | ❌ [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | 57.4% | <span style="color: orange;">Medium</span> |
-| 455 | ❌ [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | 53.2% | <span style="color: green;">Easy</span> |
+| 455 | ✔️ [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | 53.2% | <span style="color: green;">Easy</span> |
 | 456 | ❌ [132 Pattern](https://leetcode.com/problems/132-pattern/description/) | 33.8% | <span style="color: orange;">Medium</span> |
 | 457 | ❌ [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) | 34.6% | <span style="color: orange;">Medium</span> |
 | 458 | ❌ [Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) | 59.5% | <span style="color: red;">Hard</span> |
