@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 456/3312
+### Solved: 457/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -545,7 +545,7 @@
 | 537 | ❌ [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | 72.1% | <span style="color: orange;">Medium</span> |
 | 538 | ❌ [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) | 69.8% | <span style="color: orange;">Medium</span> |
 | 539 | ❌ [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | 62.0% | <span style="color: orange;">Medium</span> |
-| 540 | ❌ [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | 59.3% | <span style="color: orange;">Medium</span> |
+| 540 | ✔️ [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | 59.3% | <span style="color: orange;">Medium</span> |
 | 541 | ❌ [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | 51.2% | <span style="color: green;">Easy</span> |
 | 542 | ❌ [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | 49.6% | <span style="color: orange;">Medium</span> |
 | 543 | ❌ [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | 61.6% | <span style="color: green;">Easy</span> |
