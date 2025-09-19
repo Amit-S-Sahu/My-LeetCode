@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 458/3312
+### Solved: 459/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -305,7 +305,7 @@
 | 297 | ❌ [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | 57.6% | <span style="color: red;">Hard</span> |
 | 298 | ❌ [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | 53.8% | <span style="color: orange;">Medium</span> |
 | 299 | ❌ [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) | 50.7% | <span style="color: orange;">Medium</span> |
-| 300 | ❌ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | 56.4% | <span style="color: orange;">Medium</span> |
+| 300 | ✔️ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | 56.4% | <span style="color: orange;">Medium</span> |
 | 301 | ❌ [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | 48.6% | <span style="color: red;">Hard</span> |
 | 302 | ❌ [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) | 59.2% | <span style="color: red;">Hard</span> |
 | 303 | ❌ [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable/description/) | 65.3% | <span style="color: green;">Easy</span> |
