@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 459/3312
+### Solved: 460/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -75,7 +75,7 @@
 | 67 | ✔️ [Add Binary](https://leetcode.com/problems/add-binary/description/) | 54.4% | <span style="color: green;">Easy</span> |
 | 68 | ❌ [Text Justification](https://leetcode.com/problems/text-justification/description/) | 45.4% | <span style="color: red;">Hard</span> |
 | 69 | ❌ [Sqrt(x)](https://leetcode.com/problems/sqrt(x)/description/) | 39.4% | <span style="color: green;">Easy</span> |
-| 70 | ❌ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | 53.2% | <span style="color: green;">Easy</span> |
+| 70 | ✔️ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | 53.2% | <span style="color: green;">Easy</span> |
 | 71 | ❌ [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | 44.4% | <span style="color: orange;">Medium</span> |
 | 72 | ❌ [Edit Distance](https://leetcode.com/problems/edit-distance/description/) | 57.4% | <span style="color: orange;">Medium</span> |
 | 73 | ✔️ [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | 57.6% | <span style="color: orange;">Medium</span> |
