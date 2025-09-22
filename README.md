@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 461/3312
+### Solved: 462/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -3010,7 +3010,7 @@
 | 3002 | ❌ [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/description/) | 46.0% | <span style="color: orange;">Medium</span> |
 | 3003 | ❌ [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/) | 28.5% | <span style="color: red;">Hard</span> |
 | 3004 | ❌ [Maximum Subtree of the Same Color](https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/) | 64.6% | <span style="color: orange;">Medium</span> |
-| 3005 | ❌ [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | 78.6% | <span style="color: green;">Easy</span> |
+| 3005 | ✔️ [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | 78.6% | <span style="color: green;">Easy</span> |
 | 3006 | ❌ [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/description/) | 36.8% | <span style="color: orange;">Medium</span> |
 | 3007 | ❌ [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) | 36.9% | <span style="color: orange;">Medium</span> |
 | 3008 | ❌ [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/) | 25.0% | <span style="color: red;">Hard</span> |
