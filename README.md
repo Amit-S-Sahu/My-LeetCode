@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 462/3312
+### Solved: 463/3312
 
 [██░░░░░░░░░░░░░░░░░░] 13%
 
@@ -1917,7 +1917,7 @@
 | 1909 | ❌ [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/) | 28.0% | <span style="color: green;">Easy</span> |
 | 1910 | ✔️ [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | 78.0% | <span style="color: orange;">Medium</span> |
 | 1911 | ❌ [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/) | 58.8% | <span style="color: orange;">Medium</span> |
-| 1912 | ❌ [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/) | 36.6% | <span style="color: red;">Hard</span> |
+| 1912 | ✔️ [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/) | 36.6% | <span style="color: red;">Hard</span> |
 | 1913 | ❌ [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/) | 82.9% | <span style="color: green;">Easy</span> |
 | 1914 | ❌ [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/) | 49.8% | <span style="color: orange;">Medium</span> |
 | 1915 | ❌ [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/) | 66.9% | <span style="color: orange;">Medium</span> |
