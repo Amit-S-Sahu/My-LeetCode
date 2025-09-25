@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 465/3312
+### Solved: 466/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -125,7 +125,7 @@
 | 117 | ❌ [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) | 53.7% | <span style="color: orange;">Medium</span> |
 | 118 | ❌ [Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/description/) | 75.5% | <span style="color: green;">Easy</span> |
 | 119 | ❌ [Pascal's Triangle II](https://leetcode.com/problems/pascal's-triangle-ii/description/) | 64.8% | <span style="color: green;">Easy</span> |
-| 120 | ❌ [Triangle](https://leetcode.com/problems/triangle/description/) | 57.8% | <span style="color: orange;">Medium</span> |
+| 120 | ✔️ [Triangle](https://leetcode.com/problems/triangle/description/) | 57.8% | <span style="color: orange;">Medium</span> |
 | 121 | ✔️ [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | 54.2% | <span style="color: green;">Easy</span> |
 | 122 | ❌ [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | 67.8% | <span style="color: orange;">Medium</span> |
 | 123 | ❌ [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | 49.3% | <span style="color: red;">Hard</span> |
