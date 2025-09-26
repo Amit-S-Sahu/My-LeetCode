@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 466/3312
+### Solved: 467/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -616,7 +616,7 @@
 | 608 | ❌ [Tree Node](https://leetcode.com/problems/tree-node/description/) | 72.9% | <span style="color: orange;">Medium</span> |
 | 609 | ❌ [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) | 67.7% | <span style="color: orange;">Medium</span> |
 | 610 | ❌ [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) | 72.5% | <span style="color: green;">Easy</span> |
-| 611 | ❌ [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | 51.5% | <span style="color: orange;">Medium</span> |
+| 611 | ✔️ [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | 51.5% | <span style="color: orange;">Medium</span> |
 | 612 | ❌ [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/description/) | 61.3% | <span style="color: orange;">Medium</span> |
 | 613 | ❌ [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/description/) | 80.1% | <span style="color: green;">Easy</span> |
 | 614 | ❌ [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/description/) | 39.1% | <span style="color: orange;">Medium</span> |
