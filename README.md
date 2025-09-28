@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 468/3312
+### Solved: 469/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -981,7 +981,7 @@
 | 973 | ❌ [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | 67.0% | <span style="color: orange;">Medium</span> |
 | 974 | ❌ [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | 55.5% | <span style="color: orange;">Medium</span> |
 | 975 | ❌ [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) | 40.3% | <span style="color: red;">Hard</span> |
-| 976 | ❌ [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) | 56.5% | <span style="color: green;">Easy</span> |
+| 976 | ✔️ [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) | 56.5% | <span style="color: green;">Easy</span> |
 | 977 | ✔️ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | 73.0% | <span style="color: green;">Easy</span> |
 | 978 | ❌ [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) | 47.6% | <span style="color: orange;">Medium</span> |
 | 979 | ❌ [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) | 77.1% | <span style="color: orange;">Medium</span> |
