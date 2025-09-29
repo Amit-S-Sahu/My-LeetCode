@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 469/3312
+### Solved: 470/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -1044,7 +1044,7 @@
 | 1036 | ❌ [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/description/) | 34.8% | <span style="color: red;">Hard</span> |
 | 1037 | ❌ [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) | 37.3% | <span style="color: green;">Easy</span> |
 | 1038 | ❌ [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | 88.3% | <span style="color: orange;">Medium</span> |
-| 1039 | ❌ [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/) | 59.8% | <span style="color: orange;">Medium</span> |
+| 1039 | ✔️ [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/) | 59.8% | <span style="color: orange;">Medium</span> |
 | 1040 | ❌ [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 1041 | ❌ [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 1042 | ❌ [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) | 51.7% | <span style="color: orange;">Medium</span> |
