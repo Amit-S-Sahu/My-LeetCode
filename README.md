@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 470/3312
+### Solved: 471/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -2226,7 +2226,7 @@
 | 2218 | ❌ [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/) | 60.5% | <span style="color: red;">Hard</span> |
 | 2219 | ❌ [Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/description/) | 61.8% | <span style="color: orange;">Medium</span> |
 | 2220 | ❌ [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/) | 87.5% | <span style="color: green;">Easy</span> |
-| 2221 | ❌ [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/) | 78.9% | <span style="color: orange;">Medium</span> |
+| 2221 | ✔️ [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/) | 78.9% | <span style="color: orange;">Medium</span> |
 | 2222 | ❌ [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/description/) | 50.8% | <span style="color: orange;">Medium</span> |
 | 2223 | ❌ [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/description/) | 41.0% | <span style="color: red;">Hard</span> |
 | 2224 | ❌ [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/description/) | 65.5% | <span style="color: green;">Easy</span> |
