@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 471/3312
+### Solved: 472/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -1523,7 +1523,7 @@
 | 1515 | ❌ [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/description/) | 34.7% | <span style="color: red;">Hard</span> |
 | 1516 | ❌ [Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/) | 61.6% | <span style="color: red;">Hard</span> |
 | 1517 | ❌ [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/) | 44.0% | <span style="color: green;">Easy</span> |
-| 1518 | ❌ [Water Bottles](https://leetcode.com/problems/water-bottles/description/) | 71.0% | <span style="color: green;">Easy</span> |
+| 1518 | ✔️ [Water Bottles](https://leetcode.com/problems/water-bottles/description/) | 71.0% | <span style="color: green;">Easy</span> |
 | 1519 | ❌ [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) | 55.0% | <span style="color: orange;">Medium</span> |
 | 1520 | ❌ [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/) | 39.8% | <span style="color: red;">Hard</span> |
 | 1521 | ❌ [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/) | 45.5% | <span style="color: red;">Hard</span> |
