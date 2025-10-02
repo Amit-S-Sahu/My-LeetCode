@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 472/3312
+### Solved: 473/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -3105,7 +3105,7 @@
 | 3097 | ✔️ [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/) | 30.6% | <span style="color: orange;">Medium</span> |
 | 3098 | ❌ [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/) | 24.7% | <span style="color: red;">Hard</span> |
 | 3099 | ❌ [Harshad Number](https://leetcode.com/problems/harshad-number/description/) | 83.0% | <span style="color: green;">Easy</span> |
-| 3100 | ❌ [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | 63.9% | <span style="color: orange;">Medium</span> |
+| 3100 | ✔️ [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | 63.9% | <span style="color: orange;">Medium</span> |
 | 3101 | ❌ [Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/description/) | 57.4% | <span style="color: orange;">Medium</span> |
 | 3102 | ❌ [Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/description/) | 32.9% | <span style="color: red;">Hard</span> |
 | 3103 | ❌ [Find Trending Hashtags II](https://leetcode.com/problems/find-trending-hashtags-ii/description/) | 64.6% | <span style="color: red;">Hard</span> |
