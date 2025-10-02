@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 473/3312
+### Solved: 474/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -565,7 +565,7 @@
 | 557 | ❌ [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | 83.3% | <span style="color: green;">Easy</span> |
 | 558 | ❌ [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/description/) | 50.2% | <span style="color: orange;">Medium</span> |
 | 559 | ❌ [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | 72.4% | <span style="color: green;">Easy</span> |
-| 560 | ❌ [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | 44.2% | <span style="color: orange;">Medium</span> |
+| 560 | ✔️ [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | 44.2% | <span style="color: orange;">Medium</span> |
 | 561 | ❌ [Array Partition](https://leetcode.com/problems/array-partition/description/) | 79.4% | <span style="color: green;">Easy</span> |
 | 562 | ❌ [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/) | 50.5% | <span style="color: orange;">Medium</span> |
 | 563 | ❌ [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) | 62.7% | <span style="color: green;">Easy</span> |
