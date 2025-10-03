@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 477/3312
+### Solved: 478/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -1016,7 +1016,7 @@
 | 1008 | ❌ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) | 82.6% | <span style="color: orange;">Medium</span> |
 | 1009 | ❌ [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) | 60.8% | <span style="color: green;">Easy</span> |
 | 1010 | ❌ [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) | 53.1% | <span style="color: orange;">Medium</span> |
-| 1011 | ❌ [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | 70.5% | <span style="color: orange;">Medium</span> |
+| 1011 | ✔️ [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | 70.5% | <span style="color: orange;">Medium</span> |
 | 1012 | ❌ [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) | 42.7% | <span style="color: red;">Hard</span> |
 | 1013 | ❌ [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/) | 42.1% | <span style="color: green;">Easy</span> |
 | 1014 | ✔️ [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) | 59.4% | <span style="color: orange;">Medium</span> |
