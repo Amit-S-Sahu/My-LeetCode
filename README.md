@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 474/3312
+### Solved: 475/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -412,7 +412,7 @@
 | 404 | ❌ [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | 61.0% | <span style="color: green;">Easy</span> |
 | 405 | ❌ [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) | 49.4% | <span style="color: green;">Easy</span> |
 | 406 | ❌ [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | 73.8% | <span style="color: orange;">Medium</span> |
-| 407 | ❌ [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) | 48.4% | <span style="color: red;">Hard</span> |
+| 407 | ✔️ [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) | 48.4% | <span style="color: red;">Hard</span> |
 | 408 | ❌ [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) | 36.1% | <span style="color: green;">Easy</span> |
 | 409 | ❌ [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | 55.4% | <span style="color: green;">Easy</span> |
 | 410 | ❌ [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) | 56.5% | <span style="color: red;">Hard</span> |
