@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 479/3312
+### Solved: 480/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -783,7 +783,7 @@
 | 775 | ❌ [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | 42.4% | <span style="color: orange;">Medium</span> |
 | 776 | ❌ [Split BST](https://leetcode.com/problems/split-bst/description/) | 82.6% | <span style="color: orange;">Medium</span> |
 | 777 | ❌ [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) | 36.9% | <span style="color: orange;">Medium</span> |
-| 778 | ❌ [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | 61.6% | <span style="color: red;">Hard</span> |
+| 778 | ✔️ [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | 61.6% | <span style="color: red;">Hard</span> |
 | 779 | ❌ [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) | 46.8% | <span style="color: orange;">Medium</span> |
 | 780 | ❌ [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | 33.4% | <span style="color: red;">Hard</span> |
 | 781 | ✔️ [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | 53.0% | <span style="color: orange;">Medium</span> |
