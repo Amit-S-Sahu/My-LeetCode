@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 480/3312
+### Solved: 481/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -1493,7 +1493,7 @@
 | 1485 | ❌ [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/) | 80.7% | <span style="color: orange;">Medium</span> |
 | 1486 | ❌ [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/) | 86.3% | <span style="color: green;">Easy</span> |
 | 1487 | ❌ [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/) | 37.4% | <span style="color: orange;">Medium</span> |
-| 1488 | ❌ [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/) | 27.1% | <span style="color: orange;">Medium</span> |
+| 1488 | ✔️ [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/) | 27.1% | <span style="color: orange;">Medium</span> |
 | 1489 | ❌ [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) | 67.3% | <span style="color: red;">Hard</span> |
 | 1490 | ❌ [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/description/) | 83.1% | <span style="color: orange;">Medium</span> |
 | 1491 | ❌ [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/) | 63.5% | <span style="color: green;">Easy</span> |
