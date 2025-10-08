@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 481/3312
+### Solved: 482/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -2305,7 +2305,7 @@
 | 2297 | ❌ [Jump Game VIII](https://leetcode.com/problems/jump-game-viii/description/) | 45.8% | <span style="color: orange;">Medium</span> |
 | 2298 | ❌ [Tasks Count in the Weekend](https://leetcode.com/problems/tasks-count-in-the-weekend/description/) | 81.6% | <span style="color: orange;">Medium</span> |
 | 2299 | ❌ [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/description/) | 55.0% | <span style="color: green;">Easy</span> |
-| 2300 | ❌ [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | 43.8% | <span style="color: orange;">Medium</span> |
+| 2300 | ✔️ [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | 43.8% | <span style="color: orange;">Medium</span> |
 | 2301 | ❌ [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/description/) | 41.4% | <span style="color: red;">Hard</span> |
 | 2302 | ✔️ [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/) | 55.4% | <span style="color: red;">Hard</span> |
 | 2303 | ❌ [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/description/) | 66.2% | <span style="color: green;">Easy</span> |
