@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 483/3312
+### Solved: 484/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -3191,7 +3191,7 @@
 | 3183 | ❌ [The Number of Ways to Make the Sum](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/description/) | 56.5% | <span style="color: orange;">Medium</span> |
 | 3184 | ❌ [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/description/) | 79.3% | <span style="color: green;">Easy</span> |
 | 3185 | ❌ [Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/description/) | 43.1% | <span style="color: orange;">Medium</span> |
-| 3186 | ❌ [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/description/) | 26.5% | <span style="color: orange;">Medium</span> |
+| 3186 | ✔️ [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/description/) | 26.5% | <span style="color: orange;">Medium</span> |
 | 3187 | ❌ [Peaks in Array](https://leetcode.com/problems/peaks-in-array/description/) | 27.2% | <span style="color: red;">Hard</span> |
 | 3188 | ❌ [Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/description/) | 38.4% | <span style="color: red;">Hard</span> |
 | 3189 | ❌ [Minimum Moves to Get a Peaceful Board](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/description/) | 77.0% | <span style="color: orange;">Medium</span> |
