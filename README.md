@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 484/3312
+### Solved: 485/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -2278,7 +2278,7 @@
 | 2270 | ✔️ [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/) | 48.3% | <span style="color: orange;">Medium</span> |
 | 2271 | ❌ [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/description/) | 33.9% | <span style="color: orange;">Medium</span> |
 | 2272 | ❌ [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/) | 46.2% | <span style="color: red;">Hard</span> |
-| 2273 | ❌ [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/) | 58.6% | <span style="color: green;">Easy</span> |
+| 2273 | ✔️ [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/) | 58.6% | <span style="color: green;">Easy</span> |
 | 2274 | ❌ [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/description/) | 51.9% | <span style="color: orange;">Medium</span> |
 | 2275 | ✔️ [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/) | 73.0% | <span style="color: orange;">Medium</span> |
 | 2276 | ❌ [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/description/) | 35.4% | <span style="color: red;">Hard</span> |
