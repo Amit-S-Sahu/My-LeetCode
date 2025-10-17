@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 485/3312
+### Solved: 486/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -2603,7 +2603,7 @@
 | 2595 | ❌ [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/description/) | 73.7% | <span style="color: green;">Easy</span> |
 | 2596 | ❌ [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 2597 | ❌ [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/) | 51.1% | <span style="color: orange;">Medium</span> |
-| 2598 | ❌ [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/) | 39.7% | <span style="color: orange;">Medium</span> |
+| 2598 | ✔️ [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/) | 39.7% | <span style="color: orange;">Medium</span> |
 | 2599 | ❌ [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/description/) | 50.8% | <span style="color: orange;">Medium</span> |
 | 2600 | ❌ [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/) | 62.1% | <span style="color: green;">Easy</span> |
 | 2601 | ✔️ [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/) | 38.1% | <span style="color: orange;">Medium</span> |
