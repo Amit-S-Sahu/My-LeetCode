@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 487/3312
+### Solved: 488/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -1630,7 +1630,7 @@
 | 1622 | ❌ [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/) | 17.7% | <span style="color: red;">Hard</span> |
 | 1623 | ❌ [All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/description/) | 81.9% | <span style="color: green;">Easy</span> |
 | 1624 | ❌ [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | 68.5% | <span style="color: green;">Easy</span> |
-| 1625 | ❌ [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/) | 65.8% | <span style="color: orange;">Medium</span> |
+| 1625 | ✔️ [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/) | 65.8% | <span style="color: orange;">Medium</span> |
 | 1626 | ❌ [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/) | 50.4% | <span style="color: orange;">Medium</span> |
 | 1627 | ❌ [Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/description/) | 47.5% | <span style="color: red;">Hard</span> |
 | 1628 | ❌ [Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/) | 82.5% | <span style="color: orange;">Medium</span> |
