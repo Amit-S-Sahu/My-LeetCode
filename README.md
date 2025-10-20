@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 488/3312
+### Solved: 489/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -2016,7 +2016,7 @@
 | 2008 | ❌ [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/description/) | 44.4% | <span style="color: orange;">Medium</span> |
 | 2009 | ❌ [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/) | 52.6% | <span style="color: red;">Hard</span> |
 | 2010 | ❌ [The Number of Seniors and Juniors to Join the Company II](https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii/description/) | 62.6% | <span style="color: red;">Hard</span> |
-| 2011 | ❌ [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) | 89.5% | <span style="color: green;">Easy</span> |
+| 2011 | ✔️ [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) | 89.5% | <span style="color: green;">Easy</span> |
 | 2012 | ❌ [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/description/) | 48.5% | <span style="color: orange;">Medium</span> |
 | 2013 | ❌ [Detect Squares](https://leetcode.com/problems/detect-squares/description/) | 51.4% | <span style="color: orange;">Medium</span> |
 | 2014 | ✔️ [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) | 55.8% | <span style="color: red;">Hard</span> |
