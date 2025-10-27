@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 494/3312
+### Solved: 495/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -3151,7 +3151,7 @@
 | 3143 | ❌ [Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/description/) | 39.1% | <span style="color: orange;">Medium</span> |
 | 3144 | ❌ [Minimum Substring Partition of Equal Character Frequency](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/description/) | 41.2% | <span style="color: orange;">Medium</span> |
 | 3145 | ❌ [Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/description/) | 25.8% | <span style="color: red;">Hard</span> |
-| 3146 | ❌ [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) | 89.2% | <span style="color: green;">Easy</span> |
+| 3146 | ✔️ [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) | 89.2% | <span style="color: green;">Easy</span> |
 | 3147 | ✔️ [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/description/) | 40.7% | <span style="color: orange;">Medium</span> |
 | 3148 | ❌ [Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/description/) | 47.9% | <span style="color: orange;">Medium</span> |
 | 3149 | ❌ [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/) | 23.3% | <span style="color: red;">Hard</span> |
