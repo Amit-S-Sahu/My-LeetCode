@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 491/3312
+### Solved: 492/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -2130,7 +2130,7 @@
 | 2122 | ❌ [Recover the Original Array](https://leetcode.com/problems/recover-the-original-array/description/) | 39.8% | <span style="color: red;">Hard</span> |
 | 2123 | ❌ [Minimum Operations to Remove Adjacent Ones in Matrix](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/) | 40.4% | <span style="color: red;">Hard</span> |
 | 2124 | ❌ [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-a's-appears-before-all-b's/description/) | 72.2% | <span style="color: green;">Easy</span> |
-| 2125 | ❌ [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/) | 85.6% | <span style="color: orange;">Medium</span> |
+| 2125 | ✔️ [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/) | 85.6% | <span style="color: orange;">Medium</span> |
 | 2126 | ❌ [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) | 51.9% | <span style="color: orange;">Medium</span> |
 | 2127 | ✔️ [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/) | 37.4% | <span style="color: red;">Hard</span> |
 | 2128 | ❌ [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/) | 76.2% | <span style="color: orange;">Medium</span> |
