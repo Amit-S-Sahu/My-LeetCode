@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 493/3312
+### Solved: 494/3312
 
 [██░░░░░░░░░░░░░░░░░░] 14%
 
@@ -473,7 +473,7 @@
 | 465 | ❌ [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/description/) | 49.6% | <span style="color: red;">Hard</span> |
 | 466 | ❌ [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/description/) | 30.7% | <span style="color: red;">Hard</span> |
 | 467 | ❌ [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/) | 40.3% | <span style="color: orange;">Medium</span> |
-| 468 | ❌ [Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/) | 27.5% | <span style="color: orange;">Medium</span> |
+| 468 | ✔️ [Validate IP Address](https://leetcode.com/problems/validate-ip-address/description/) | 27.5% | <span style="color: orange;">Medium</span> |
 | 469 | ❌ [Convex Polygon](https://leetcode.com/problems/convex-polygon/description/) | 39.6% | <span style="color: orange;">Medium</span> |
 | 470 | ❌ [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10()-using-rand7()/description/) | 45.8% | <span style="color: orange;">Medium</span> |
 | 471 | ❌ [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/description/) | 50.5% | <span style="color: red;">Hard</span> |
