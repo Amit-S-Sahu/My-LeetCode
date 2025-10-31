@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 496/3312
+### Solved: 497/3312
 
-[██░░░░░░░░░░░░░░░░░░] 14%
+[███░░░░░░░░░░░░░░░░░] 15%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -3294,7 +3294,7 @@
 | 3286 | ❌ [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/) | 27.6% | <span style="color: orange;">Medium</span> |
 | 3287 | ❌ [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/) | 15.2% | <span style="color: red;">Hard</span> |
 | 3288 | ❌ [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/description/) | 15.7% | <span style="color: red;">Hard</span> |
-| 3289 | ❌ [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/) | 88.9% | <span style="color: green;">Easy</span> |
+| 3289 | ✔️ [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/) | 88.9% | <span style="color: green;">Easy</span> |
 | 3290 | ❌ [Maximum Multiplication Score](https://leetcode.com/problems/maximum-multiplication-score/description/) | 41.5% | <span style="color: orange;">Medium</span> |
 | 3291 | ❌ [Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/description/) | 18.2% | <span style="color: orange;">Medium</span> |
 | 3292 | ❌ [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/description/) | 16.2% | <span style="color: red;">Hard</span> |
