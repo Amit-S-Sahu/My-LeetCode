@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 497/3312
+### Solved: 498/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -3222,7 +3222,7 @@
 | 3214 | ❌ [Year on Year Growth Rate](https://leetcode.com/problems/year-on-year-growth-rate/description/) | 51.3% | <span style="color: red;">Hard</span> |
 | 3215 | ❌ [Count Triplets with Even XOR Set Bits II](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/) | 73.6% | <span style="color: orange;">Medium</span> |
 | 3216 | ❌ [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/description/) | 53.8% | <span style="color: green;">Easy</span> |
-| 3217 | ❌ [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | 69.1% | <span style="color: orange;">Medium</span> |
+| 3217 | ✔️ [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | 69.1% | <span style="color: orange;">Medium</span> |
 | 3218 | ❌ [Minimum Cost for Cutting Cake I](https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/description/) | 58.1% | <span style="color: orange;">Medium</span> |
 | 3219 | ❌ [Minimum Cost for Cutting Cake II](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/description/) | 56.1% | <span style="color: red;">Hard</span> |
 | 3220 | ❌ [Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/description/) | 70.0% | <span style="color: orange;">Medium</span> |
