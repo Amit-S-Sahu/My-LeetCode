@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 498/3312
+### Solved: 499/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1583,7 +1583,7 @@
 | 1575 | ❌ [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/) | 65.2% | <span style="color: red;">Hard</span> |
 | 1576 | ❌ [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-?'s-to-avoid-consecutive-repeating-characters/description/) | 46.1% | <span style="color: green;">Easy</span> |
 | 1577 | ❌ [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/) | 41.6% | <span style="color: orange;">Medium</span> |
-| 1578 | ❌ [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | 63.7% | <span style="color: orange;">Medium</span> |
+| 1578 | ✔️ [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | 63.7% | <span style="color: orange;">Medium</span> |
 | 1579 | ❌ [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | 70.8% | <span style="color: red;">Hard</span> |
 | 1580 | ❌ [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/) | 66.0% | <span style="color: orange;">Medium</span> |
 | 1581 | ❌ [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/) | 67.9% | <span style="color: green;">Easy</span> |
