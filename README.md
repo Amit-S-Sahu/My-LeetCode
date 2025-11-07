@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 499/3312
+### Solved: 500/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -2533,7 +2533,7 @@
 | 2525 | ❌ [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/description/) | 36.2% | <span style="color: green;">Easy</span> |
 | 2526 | ✔️ [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/description/) | 49.6% | <span style="color: orange;">Medium</span> |
 | 2527 | ❌ [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/description/) | 68.7% | <span style="color: orange;">Medium</span> |
-| 2528 | ❌ [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/) | 32.7% | <span style="color: red;">Hard</span> |
+| 2528 | ✔️ [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/) | 32.7% | <span style="color: red;">Hard</span> |
 | 2529 | ✔️ [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) | 71.1% | <span style="color: green;">Easy</span> |
 | 2530 | ✔️ [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/) | 46.4% | <span style="color: orange;">Medium</span> |
 | 2531 | ❌ [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/description/) | 26.6% | <span style="color: orange;">Medium</span> |
