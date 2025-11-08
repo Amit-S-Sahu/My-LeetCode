@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 500/3312
+### Solved: 501/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1616,7 +1616,7 @@
 | 1608 | ❌ [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) | 66.9% | <span style="color: green;">Easy</span> |
 | 1609 | ❌ [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/) | 66.1% | <span style="color: orange;">Medium</span> |
 | 1610 | ❌ [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/description/) | 37.4% | <span style="color: red;">Hard</span> |
-| 1611 | ❌ [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) | 74.0% | <span style="color: red;">Hard</span> |
+| 1611 | ✔️ [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) | 74.0% | <span style="color: red;">Hard</span> |
 | 1612 | ❌ [Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/) | 70.7% | <span style="color: orange;">Medium</span> |
 | 1613 | ❌ [Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/description/) | 73.0% | <span style="color: orange;">Medium</span> |
 | 1614 | ❌ [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | 84.0% | <span style="color: green;">Easy</span> |
