@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 501/3312
+### Solved: 502/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -2174,7 +2174,7 @@
 | 2166 | ❌ [Design Bitset](https://leetcode.com/problems/design-bitset/description/) | 32.7% | <span style="color: orange;">Medium</span> |
 | 2167 | ❌ [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/) | 41.6% | <span style="color: red;">Hard</span> |
 | 2168 | ❌ [Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/description/) | 60.2% | <span style="color: orange;">Medium</span> |
-| 2169 | ❌ [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/) | 74.6% | <span style="color: green;">Easy</span> |
+| 2169 | ✔️ [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/) | 74.6% | <span style="color: green;">Easy</span> |
 | 2170 | ❌ [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/description/) | 33.4% | <span style="color: orange;">Medium</span> |
 | 2171 | ❌ [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/) | 43.1% | <span style="color: orange;">Medium</span> |
 | 2172 | ❌ [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/description/) | 49.4% | <span style="color: red;">Hard</span> |
