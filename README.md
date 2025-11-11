@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 502/3312
+### Solved: 503/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -479,7 +479,7 @@
 | 471 | ❌ [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/description/) | 50.5% | <span style="color: red;">Hard</span> |
 | 472 | ❌ [Concatenated Words](https://leetcode.com/problems/concatenated-words/description/) | 49.3% | <span style="color: red;">Hard</span> |
 | 473 | ❌ [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | 40.5% | <span style="color: orange;">Medium</span> |
-| 474 | ❌ [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | 48.0% | <span style="color: orange;">Medium</span> |
+| 474 | ✔️ [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | 48.0% | <span style="color: orange;">Medium</span> |
 | 475 | ❌ [Heaters](https://leetcode.com/problems/heaters/description/) | 38.6% | <span style="color: orange;">Medium</span> |
 | 476 | ❌ [Number Complement](https://leetcode.com/problems/number-complement/description/) | 70.3% | <span style="color: green;">Easy</span> |
 | 477 | ❌ [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) | 53.1% | <span style="color: orange;">Medium</span> |
