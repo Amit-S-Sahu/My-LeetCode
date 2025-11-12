@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 503/3312
+### Solved: 504/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -2659,7 +2659,7 @@
 | 2651 | ❌ [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/description/) | 78.5% | <span style="color: green;">Easy</span> |
 | 2652 | ❌ [Sum Multiples](https://leetcode.com/problems/sum-multiples/description/) | 85.8% | <span style="color: green;">Easy</span> |
 | 2653 | ❌ [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/description/) | 33.6% | <span style="color: orange;">Medium</span> |
-| 2654 | ❌ [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/) | 35.5% | <span style="color: orange;">Medium</span> |
+| 2654 | ✔️ [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/) | 35.5% | <span style="color: orange;">Medium</span> |
 | 2655 | ❌ [Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/description/) | 52.0% | <span style="color: orange;">Medium</span> |
 | 2656 | ❌ [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/) | 82.4% | <span style="color: green;">Easy</span> |
 | 2657 | ✔️ [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | 81.6% | <span style="color: orange;">Medium</span> |
