@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 506/3312
+### Solved: 507/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -3239,7 +3239,7 @@
 | 3231 | ❌ [Minimum Number of Increasing Subsequence to Be Removed](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/description/) | 55.4% | <span style="color: red;">Hard</span> |
 | 3232 | ❌ [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/description/) | 83.3% | <span style="color: green;">Easy</span> |
 | 3233 | ❌ [Find the Count of Numbers Which Are Not Special](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/description/) | 26.7% | <span style="color: orange;">Medium</span> |
-| 3234 | ❌ [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/) | 15.9% | <span style="color: orange;">Medium</span> |
+| 3234 | ✔️ [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/description/) | 15.9% | <span style="color: orange;">Medium</span> |
 | 3235 | ❌ [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/description/) | 27.8% | <span style="color: red;">Hard</span> |
 | 3236 | ❌ [CEO Subordinate Hierarchy](https://leetcode.com/problems/ceo-subordinate-hierarchy/description/) | 72.9% | <span style="color: red;">Hard</span> |
 | 3237 | ❌ [Alt and Tab Simulation](https://leetcode.com/problems/alt-and-tab-simulation/description/) | 78.9% | <span style="color: orange;">Medium</span> |
