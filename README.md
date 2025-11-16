@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 507/3312
+### Solved: 508/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1518,7 +1518,7 @@
 | 1510 | ❌ [Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/) | 59.6% | <span style="color: red;">Hard</span> |
 | 1511 | ❌ [Customer Order Frequency](https://leetcode.com/problems/customer-order-frequency/description/) | 67.4% | <span style="color: green;">Easy</span> |
 | 1512 | ❌ [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | 89.3% | <span style="color: green;">Easy</span> |
-| 1513 | ❌ [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) | 47.1% | <span style="color: orange;">Medium</span> |
+| 1513 | ✔️ [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) | 47.1% | <span style="color: orange;">Medium</span> |
 | 1514 | ❌ [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/) | 65.5% | <span style="color: orange;">Medium</span> |
 | 1515 | ❌ [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/description/) | 34.7% | <span style="color: red;">Hard</span> |
 | 1516 | ❌ [Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/) | 61.6% | <span style="color: red;">Hard</span> |
