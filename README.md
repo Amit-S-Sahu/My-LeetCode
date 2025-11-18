@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 508/3312
+### Solved: 509/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -722,7 +722,7 @@
 | 714 | ❌ [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | 69.4% | <span style="color: orange;">Medium</span> |
 | 715 | ❌ [Range Module](https://leetcode.com/problems/range-module/description/) | 43.9% | <span style="color: red;">Hard</span> |
 | 716 | ❌ [Max Stack](https://leetcode.com/problems/max-stack/description/) | 45.1% | <span style="color: red;">Hard</span> |
-| 717 | ❌ [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | 45.2% | <span style="color: green;">Easy</span> |
+| 717 | ✔️ [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | 45.2% | <span style="color: green;">Easy</span> |
 | 718 | ❌ [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | 51.0% | <span style="color: orange;">Medium</span> |
 | 719 | ❌ [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | 45.4% | <span style="color: red;">Hard</span> |
 | 720 | ❌ [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | 52.8% | <span style="color: orange;">Medium</span> |
