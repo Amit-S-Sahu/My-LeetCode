@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 511/3312
+### Solved: 512/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -3195,7 +3195,7 @@
 | 3187 | ❌ [Peaks in Array](https://leetcode.com/problems/peaks-in-array/description/) | 27.2% | <span style="color: red;">Hard</span> |
 | 3188 | ❌ [Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/description/) | 38.4% | <span style="color: red;">Hard</span> |
 | 3189 | ❌ [Minimum Moves to Get a Peaceful Board](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/description/) | 77.0% | <span style="color: orange;">Medium</span> |
-| 3190 | ❌ [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/) | 89.9% | <span style="color: green;">Easy</span> |
+| 3190 | ✔️ [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/description/) | 89.9% | <span style="color: green;">Easy</span> |
 | 3191 | ✔️ [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/) | 71.1% | <span style="color: orange;">Medium</span> |
 | 3192 | ❌ [Minimum Operations to Make Binary Array Elements Equal to One II](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/description/) | 65.4% | <span style="color: orange;">Medium</span> |
 | 3193 | ❌ [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/description/) | 33.8% | <span style="color: red;">Hard</span> |
