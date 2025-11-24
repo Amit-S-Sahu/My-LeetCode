@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 513/3312
+### Solved: 514/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1023,7 +1023,7 @@
 | 1015 | ❌ [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) | 46.6% | <span style="color: orange;">Medium</span> |
 | 1016 | ❌ [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) | 57.5% | <span style="color: orange;">Medium</span> |
 | 1017 | ❌ [Convert to Base -2](https://leetcode.com/problems/convert-to-base--2/description/) | 61.2% | <span style="color: orange;">Medium</span> |
-| 1018 | ❌ [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) | 46.8% | <span style="color: green;">Easy</span> |
+| 1018 | ✔️ [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) | 46.8% | <span style="color: green;">Easy</span> |
 | 1019 | ❌ [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) | 61.4% | <span style="color: orange;">Medium</span> |
 | 1020 | ❌ [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | 69.5% | <span style="color: orange;">Medium</span> |
 | 1021 | ❌ [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | 84.0% | <span style="color: green;">Easy</span> |
