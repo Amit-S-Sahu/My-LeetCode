@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 516/3312
+### Solved: 517/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -101,7 +101,7 @@
 | 93 | ❌ [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | 51.2% | <span style="color: orange;">Medium</span> |
 | 94 | ✔️ [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | 77.2% | <span style="color: green;">Easy</span> |
 | 95 | ❌ [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | 58.8% | <span style="color: orange;">Medium</span> |
-| 96 | ❌ [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | 61.6% | <span style="color: orange;">Medium</span> |
+| 96 | ✔️ [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | 61.6% | <span style="color: orange;">Medium</span> |
 | 97 | ❌ [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | 40.7% | <span style="color: orange;">Medium</span> |
 | 98 | ❌ [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | 33.5% | <span style="color: orange;">Medium</span> |
 | 99 | ❌ [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | 54.4% | <span style="color: orange;">Medium</span> |
