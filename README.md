@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 515/3312
+### Solved: 516/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -109,7 +109,7 @@
 | 101 | ❌ [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | 57.7% | <span style="color: green;">Easy</span> |
 | 102 | ❌ [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | 68.7% | <span style="color: orange;">Medium</span> |
 | 103 | ❌ [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | 60.1% | <span style="color: orange;">Medium</span> |
-| 104 | ❌ [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | 76.2% | <span style="color: green;">Easy</span> |
+| 104 | ✔️ [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | 76.2% | <span style="color: green;">Easy</span> |
 | 105 | ❌ [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | 65.1% | <span style="color: orange;">Medium</span> |
 | 106 | ❌ [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | 64.4% | <span style="color: orange;">Medium</span> |
 | 107 | ❌ [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | 64.4% | <span style="color: orange;">Medium</span> |
