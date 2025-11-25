@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 517/3312
+### Solved: 518/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1020,7 +1020,7 @@
 | 1012 | ❌ [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) | 42.7% | <span style="color: red;">Hard</span> |
 | 1013 | ❌ [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/) | 42.1% | <span style="color: green;">Easy</span> |
 | 1014 | ✔️ [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) | 59.4% | <span style="color: orange;">Medium</span> |
-| 1015 | ❌ [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) | 46.6% | <span style="color: orange;">Medium</span> |
+| 1015 | ✔️ [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) | 46.6% | <span style="color: orange;">Medium</span> |
 | 1016 | ❌ [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) | 57.5% | <span style="color: orange;">Medium</span> |
 | 1017 | ❌ [Convert to Base -2](https://leetcode.com/problems/convert-to-base--2/description/) | 61.2% | <span style="color: orange;">Medium</span> |
 | 1018 | ✔️ [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) | 46.8% | <span style="color: green;">Easy</span> |
