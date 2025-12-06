@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 521/3312
+### Solved: 522/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1446,7 +1446,7 @@
 | 1438 | ❌ [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/) | 56.6% | <span style="color: orange;">Medium</span> |
 | 1439 | ❌ [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/description/) | 62.0% | <span style="color: red;">Hard</span> |
 | 1440 | ❌ [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/description/) | 72.6% | <span style="color: orange;">Medium</span> |
-| 1441 | ❌ [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | 80.1% | <span style="color: orange;">Medium</span> |
+| 1441 | ✔️ [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | 80.1% | <span style="color: orange;">Medium</span> |
 | 1442 | ❌ [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) | 84.9% | <span style="color: orange;">Medium</span> |
 | 1443 | ❌ [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) | 62.5% | <span style="color: orange;">Medium</span> |
 | 1444 | ❌ [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) | 61.9% | <span style="color: red;">Hard</span> |
