@@ -1,33 +1,30 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<String> s = new Stack<>();
+        Deque<Long> st = new ArrayDeque<>();
         for (String token : tokens) {
             if (token.equals("+")) {
-                int n1 = Integer.parseInt(s.pop());
-                int n2 = Integer.parseInt(s.pop());
-                n1 += n2;
-                s.push(String.valueOf(n1));
+                long a = st.pop();
+                long b = st.pop();
+                st.push(a + b);
             }
             else if (token.equals("-")) {
-                int n1 = Integer.parseInt(s.pop());
-                int n2 = Integer.parseInt(s.pop());
-                n2 -= n1;
-                s.push(String.valueOf(n2));
+                long b = st.pop();
+                long a = st.pop();
+                st.push(a - b);
             }
             else if (token.equals("*")) {
-                int n1 = Integer.parseInt(s.pop());
-                int n2 = Integer.parseInt(s.pop());
-                n1 *= n2;
-                s.push(String.valueOf(n1));
+                long a = st.pop();
+                long b = st.pop();
+                st.push(a * b);
             }
             else if (token.equals("/")) {
-                int n1 = Integer.parseInt(s.pop());
-                int n2 = Integer.parseInt(s.pop());
-                n2 /= n1;
-                s.push(String.valueOf(n2));
+                long b = st.pop();
+                long a = st.pop();
+                st.push((long)Math.floor(a / b));
             }
-            else s.push(token);
+            else st.push(Long.parseLong(token));
         }
-        return Integer.parseInt(s.pop());
+        long ans = st.pop();
+        return (int)ans;
     }
 }
