@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 523/3312
+### Solved: 524/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1528,7 +1528,7 @@
 | 1520 | ❌ [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/) | 39.8% | <span style="color: red;">Hard</span> |
 | 1521 | ❌ [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/) | 45.5% | <span style="color: red;">Hard</span> |
 | 1522 | ❌ [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/description/) | 74.5% | <span style="color: orange;">Medium</span> |
-| 1523 | ❌ [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | 50.0% | <span style="color: green;">Easy</span> |
+| 1523 | ✔️ [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | 50.0% | <span style="color: green;">Easy</span> |
 | 1524 | ✔️ [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/) | 43.8% | <span style="color: orange;">Medium</span> |
 | 1525 | ❌ [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/) | 68.3% | <span style="color: orange;">Medium</span> |
 | 1526 | ✔️ [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/) | 71.5% | <span style="color: red;">Hard</span> |
