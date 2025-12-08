@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 524/3312
+### Solved: 525/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -1930,7 +1930,7 @@
 | 1922 | ✔️ [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 1923 | ❌ [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/description/) | 28.5% | <span style="color: red;">Hard</span> |
 | 1924 | ❌ [Erect the Fence II](https://leetcode.com/problems/erect-the-fence-ii/description/) | 50.8% | <span style="color: red;">Hard</span> |
-| 1925 | ❌ [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/) | 68.2% | <span style="color: green;">Easy</span> |
+| 1925 | ✔️ [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/) | 68.2% | <span style="color: green;">Easy</span> |
 | 1926 | ❌ [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 1927 | ❌ [Sum Game](https://leetcode.com/problems/sum-game/description/) | 47.8% | <span style="color: orange;">Medium</span> |
 | 1928 | ❌ [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | 38.9% | <span style="color: red;">Hard</span> |
