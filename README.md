@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 526/3312
+### Solved: 527/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -2115,7 +2115,7 @@
 | 2107 | ❌ [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/description/) | 55.7% | <span style="color: orange;">Medium</span> |
 | 2108 | ❌ [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 83.9% | <span style="color: green;">Easy</span> |
 | 2109 | ✔️ [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/) | 59.5% | <span style="color: orange;">Medium</span> |
-| 2110 | ❌ [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/) | 59.2% | <span style="color: orange;">Medium</span> |
+| 2110 | ✔️ [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/) | 59.2% | <span style="color: orange;">Medium</span> |
 | 2111 | ❌ [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/description/) | 39.1% | <span style="color: red;">Hard</span> |
 | 2112 | ❌ [The Airport With the Most Traffic](https://leetcode.com/problems/the-airport-with-the-most-traffic/description/) | 70.6% | <span style="color: orange;">Medium</span> |
 | 2113 | ❌ [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/description/) | 73.5% | <span style="color: orange;">Medium</span> |
