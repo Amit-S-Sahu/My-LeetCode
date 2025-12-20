@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 528/3312
+### Solved: 529/3312
 
 [███░░░░░░░░░░░░░░░░░] 15%
 
@@ -949,7 +949,7 @@
 | 941 | ✔️ [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) | 33.6% | <span style="color: green;">Easy</span> |
 | 942 | ❌ [DI String Match](https://leetcode.com/problems/di-string-match/description/) | 79.3% | <span style="color: green;">Easy</span> |
 | 943 | ❌ [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) | 44.2% | <span style="color: red;">Hard</span> |
-| 944 | ❌ [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) | 74.7% | <span style="color: green;">Easy</span> |
+| 944 | ✔️ [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) | 74.7% | <span style="color: green;">Easy</span> |
 | 945 | ❌ [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/) | 60.1% | <span style="color: orange;">Medium</span> |
 | 946 | ❌ [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) | 69.6% | <span style="color: orange;">Medium</span> |
 | 947 | ❌ [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) | 62.1% | <span style="color: orange;">Medium</span> |
