@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 529/3312
+### Solved: 530/3312
 
-[███░░░░░░░░░░░░░░░░░] 15%
+[███░░░░░░░░░░░░░░░░░] 16%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -960,7 +960,7 @@
 | 952 | ❌ [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/description/) | 41.0% | <span style="color: red;">Hard</span> |
 | 953 | ❌ [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) | 55.2% | <span style="color: green;">Easy</span> |
 | 954 | ❌ [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/) | 39.2% | <span style="color: orange;">Medium</span> |
-| 955 | ❌ [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/) | 35.3% | <span style="color: orange;">Medium</span> |
+| 955 | ✔️ [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/) | 35.3% | <span style="color: orange;">Medium</span> |
 | 956 | ❌ [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/description/) | 52.1% | <span style="color: red;">Hard</span> |
 | 957 | ❌ [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) | 39.0% | <span style="color: orange;">Medium</span> |
 | 958 | ❌ [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | 57.3% | <span style="color: orange;">Medium</span> |
