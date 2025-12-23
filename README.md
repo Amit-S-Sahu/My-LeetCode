@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 530/3312
+### Solved: 531/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -965,7 +965,7 @@
 | 957 | ❌ [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) | 39.0% | <span style="color: orange;">Medium</span> |
 | 958 | ❌ [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 959 | ❌ [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) | 78.0% | <span style="color: orange;">Medium</span> |
-| 960 | ❌ [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/) | 58.4% | <span style="color: red;">Hard</span> |
+| 960 | ✔️ [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/) | 58.4% | <span style="color: red;">Hard</span> |
 | 961 | ❌ [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) | 77.0% | <span style="color: green;">Easy</span> |
 | 962 | ✔️ [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/) | 50.9% | <span style="color: orange;">Medium</span> |
 | 963 | ❌ [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/description/) | 55.2% | <span style="color: orange;">Medium</span> |
