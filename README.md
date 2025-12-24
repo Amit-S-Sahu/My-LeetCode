@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 531/3312
+### Solved: 532/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -3079,7 +3079,7 @@
 | 3071 | ❌ [Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/description/) | 63.4% | <span style="color: orange;">Medium</span> |
 | 3072 | ❌ [Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/) | 28.1% | <span style="color: red;">Hard</span> |
 | 3073 | ❌ [Maximum Increasing Triplet Value](https://leetcode.com/problems/maximum-increasing-triplet-value/description/) | 40.1% | <span style="color: orange;">Medium</span> |
-| 3074 | ❌ [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/) | 67.5% | <span style="color: green;">Easy</span> |
+| 3074 | ✔️ [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/) | 67.5% | <span style="color: green;">Easy</span> |
 | 3075 | ❌ [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/) | 55.0% | <span style="color: orange;">Medium</span> |
 | 3076 | ❌ [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/) | 46.3% | <span style="color: orange;">Medium</span> |
 | 3077 | ❌ [Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/) | 28.0% | <span style="color: red;">Hard</span> |
