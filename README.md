@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 532/3312
+### Solved: 533/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -3080,7 +3080,7 @@
 | 3072 | ❌ [Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/) | 28.1% | <span style="color: red;">Hard</span> |
 | 3073 | ❌ [Maximum Increasing Triplet Value](https://leetcode.com/problems/maximum-increasing-triplet-value/description/) | 40.1% | <span style="color: orange;">Medium</span> |
 | 3074 | ✔️ [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/) | 67.5% | <span style="color: green;">Easy</span> |
-| 3075 | ❌ [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/) | 55.0% | <span style="color: orange;">Medium</span> |
+| 3075 | ✔️ [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/) | 55.0% | <span style="color: orange;">Medium</span> |
 | 3076 | ❌ [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/description/) | 46.3% | <span style="color: orange;">Medium</span> |
 | 3077 | ❌ [Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/description/) | 28.0% | <span style="color: red;">Hard</span> |
 | 3078 | ❌ [Match Alphanumerical Pattern in Matrix I](https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i/description/) | 68.2% | <span style="color: orange;">Medium</span> |
