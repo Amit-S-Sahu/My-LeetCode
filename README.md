@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 533/3312
+### Solved: 534/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -2488,7 +2488,7 @@
 | 2480 | ❌ [Form a Chemical Bond](https://leetcode.com/problems/form-a-chemical-bond/description/) | 76.6% | <span style="color: green;">Easy</span> |
 | 2481 | ❌ [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/description/) | 53.7% | <span style="color: green;">Easy</span> |
 | 2482 | ❌ [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/) | 84.4% | <span style="color: orange;">Medium</span> |
-| 2483 | ❌ [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/) | 67.4% | <span style="color: orange;">Medium</span> |
+| 2483 | ✔️ [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/) | 67.4% | <span style="color: orange;">Medium</span> |
 | 2484 | ❌ [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/description/) | 38.3% | <span style="color: red;">Hard</span> |
 | 2485 | ❌ [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/) | 83.9% | <span style="color: green;">Easy</span> |
 | 2486 | ❌ [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/) | 73.0% | <span style="color: orange;">Medium</span> |
