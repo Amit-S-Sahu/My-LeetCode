@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 535/3312
+### Solved: 536/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -761,7 +761,7 @@
 | 753 | ❌ [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/) | 57.3% | <span style="color: red;">Hard</span> |
 | 754 | ❌ [Reach a Number](https://leetcode.com/problems/reach-a-number/description/) | 43.5% | <span style="color: orange;">Medium</span> |
 | 755 | ❌ [Pour Water](https://leetcode.com/problems/pour-water/description/) | 47.2% | <span style="color: orange;">Medium</span> |
-| 756 | ❌ [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | 52.9% | <span style="color: orange;">Medium</span> |
+| 756 | ✔️ [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | 52.9% | <span style="color: orange;">Medium</span> |
 | 757 | ✔️ [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/) | 44.8% | <span style="color: red;">Hard</span> |
 | 758 | ❌ [Bold Words in String](https://leetcode.com/problems/bold-words-in-string/description/) | 51.7% | <span style="color: orange;">Medium</span> |
 | 759 | ❌ [Employee Free Time](https://leetcode.com/problems/employee-free-time/description/) | 72.3% | <span style="color: red;">Hard</span> |
