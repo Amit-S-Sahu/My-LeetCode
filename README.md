@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 536/3312
+### Solved: 537/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -845,7 +845,7 @@
 | 837 | ✔️ [New 21 Game](https://leetcode.com/problems/new-21-game/description/) | 45.0% | <span style="color: orange;">Medium</span> |
 | 838 | ✔️ [Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | 57.3% | <span style="color: orange;">Medium</span> |
 | 839 | ❌ [Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) | 55.2% | <span style="color: red;">Hard</span> |
-| 840 | ❌ [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | 51.7% | <span style="color: orange;">Medium</span> |
+| 840 | ✔️ [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | 51.7% | <span style="color: orange;">Medium</span> |
 | 841 | ❌ [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | 73.7% | <span style="color: orange;">Medium</span> |
 | 842 | ❌ [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) | 39.2% | <span style="color: orange;">Medium</span> |
 | 843 | ❌ [Guess the Word](https://leetcode.com/problems/guess-the-word/description/) | 38.5% | <span style="color: red;">Hard</span> |
