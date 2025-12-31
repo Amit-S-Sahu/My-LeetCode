@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 537/3312
+### Solved: 538/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1975,7 +1975,7 @@
 | 1967 | ✔️ [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/) | 81.3% | <span style="color: green;">Easy</span> |
 | 1968 | ❌ [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/description/) | 50.5% | <span style="color: orange;">Medium</span> |
 | 1969 | ❌ [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/description/) | 35.8% | <span style="color: orange;">Medium</span> |
-| 1970 | ❌ [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/) | 61.9% | <span style="color: red;">Hard</span> |
+| 1970 | ✔️ [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/) | 61.9% | <span style="color: red;">Hard</span> |
 | 1971 | ❌ [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | 53.9% | <span style="color: green;">Easy</span> |
 | 1972 | ❌ [First and Last Call On the Same Day](https://leetcode.com/problems/first-and-last-call-on-the-same-day/description/) | 50.6% | <span style="color: red;">Hard</span> |
 | 1973 | ❌ [Count Nodes Equal to Sum of Descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/description/) | 77.2% | <span style="color: orange;">Medium</span> |
