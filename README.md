@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 539/3312
+### Solved: 540/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1395,7 +1395,7 @@
 | 1387 | ❌ [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/description/) | 70.3% | <span style="color: orange;">Medium</span> |
 | 1388 | ❌ [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/description/) | 52.3% | <span style="color: red;">Hard</span> |
 | 1389 | ❌ [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) | 86.0% | <span style="color: green;">Easy</span> |
-| 1390 | ❌ [Four Divisors](https://leetcode.com/problems/four-divisors/description/) | 43.5% | <span style="color: orange;">Medium</span> |
+| 1390 | ✔️ [Four Divisors](https://leetcode.com/problems/four-divisors/description/) | 43.5% | <span style="color: orange;">Medium</span> |
 | 1391 | ❌ [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | 48.3% | <span style="color: orange;">Medium</span> |
 | 1392 | ❌ [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/) | 46.9% | <span style="color: red;">Hard</span> |
 | 1393 | ❌ [Capital Gain/Loss](https://leetcode.com/problems/capital-gain/loss/description/) | 85.4% | <span style="color: orange;">Medium</span> |
