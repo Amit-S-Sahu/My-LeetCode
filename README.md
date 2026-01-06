@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 542/3312
+### Solved: 543/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -729,7 +729,7 @@
 | 721 | ❌ [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | 58.0% | <span style="color: orange;">Medium</span> |
 | 722 | ❌ [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | 39.0% | <span style="color: orange;">Medium</span> |
 | 723 | ❌ [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | 77.0% | <span style="color: orange;">Medium</span> |
-| 724 | ❌ [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | 58.8% | <span style="color: green;">Easy</span> |
+| 724 | ✔️ [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | 58.8% | <span style="color: green;">Easy</span> |
 | 725 | ❌ [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | 70.0% | <span style="color: orange;">Medium</span> |
 | 726 | ❌ [Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/) | 65.2% | <span style="color: red;">Hard</span> |
 | 727 | ❌ [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | 43.5% | <span style="color: red;">Hard</span> |
