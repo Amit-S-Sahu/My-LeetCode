@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 541/3312
+### Solved: 542/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -39,7 +39,7 @@
 | 31 | ✔️ [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | 41.2% | <span style="color: orange;">Medium</span> |
 | 32 | ❌ [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | 34.9% | <span style="color: red;">Hard</span> |
 | 33 | ✔️ [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 41.6% | <span style="color: orange;">Medium</span> |
-| 34 | ❌ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 45.3% | <span style="color: orange;">Medium</span> |
+| 34 | ✔️ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 45.3% | <span style="color: orange;">Medium</span> |
 | 35 | ✔️ [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | 47.3% | <span style="color: green;">Easy</span> |
 | 36 | ✔️ [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | 60.7% | <span style="color: orange;">Medium</span> |
 | 37 | ✔️ [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | 63.0% | <span style="color: red;">Hard</span> |
