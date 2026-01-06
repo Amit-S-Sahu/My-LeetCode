@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 540/3312
+### Solved: 541/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1166,7 +1166,7 @@
 | 1158 | ❌ [Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/) | 57.2% | <span style="color: orange;">Medium</span> |
 | 1159 | ❌ [Market Analysis II](https://leetcode.com/problems/market-analysis-ii/description/) | 57.4% | <span style="color: red;">Hard</span> |
 | 1160 | ❌ [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) | 70.7% | <span style="color: green;">Easy</span> |
-| 1161 | ❌ [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | 67.2% | <span style="color: orange;">Medium</span> |
+| 1161 | ✔️ [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | 67.2% | <span style="color: orange;">Medium</span> |
 | 1162 | ❌ [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) | 51.7% | <span style="color: orange;">Medium</span> |
 | 1163 | ❌ [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/) | 34.5% | <span style="color: red;">Hard</span> |
 | 1164 | ❌ [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/) | 56.7% | <span style="color: orange;">Medium</span> |
