@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 543/3312
+### Solved: 544/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1344,7 +1344,7 @@
 | 1336 | ❌ [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/description/) | 47.7% | <span style="color: red;">Hard</span> |
 | 1337 | ❌ [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/) | 73.7% | <span style="color: green;">Easy</span> |
 | 1338 | ❌ [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/description/) | 69.0% | <span style="color: orange;">Medium</span> |
-| 1339 | ❌ [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | 47.7% | <span style="color: orange;">Medium</span> |
+| 1339 | ✔️ [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | 47.7% | <span style="color: orange;">Medium</span> |
 | 1340 | ❌ [Jump Game V](https://leetcode.com/problems/jump-game-v/description/) | 63.7% | <span style="color: red;">Hard</span> |
 | 1341 | ❌ [Movie Rating](https://leetcode.com/problems/movie-rating/description/) | 40.5% | <span style="color: orange;">Medium</span> |
 | 1342 | ✔️ [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | 85.4% | <span style="color: green;">Easy</span> |
