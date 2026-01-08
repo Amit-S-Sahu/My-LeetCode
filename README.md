@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 544/3312
+### Solved: 545/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -751,7 +751,7 @@
 | 743 | ❌ [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | 55.2% | <span style="color: orange;">Medium</span> |
 | 744 | ❌ [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | 52.9% | <span style="color: green;">Easy</span> |
 | 745 | ❌ [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) | 41.1% | <span style="color: red;">Hard</span> |
-| 746 | ❌ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | 66.3% | <span style="color: green;">Easy</span> |
+| 746 | ✔️ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | 66.3% | <span style="color: green;">Easy</span> |
 | 747 | ❌ [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | 49.7% | <span style="color: green;">Easy</span> |
 | 748 | ❌ [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | 60.6% | <span style="color: green;">Easy</span> |
 | 749 | ❌ [Contain Virus](https://leetcode.com/problems/contain-virus/description/) | 51.5% | <span style="color: red;">Hard</span> |
