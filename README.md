@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 545/3312
+### Solved: 546/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1463,7 +1463,7 @@
 | 1455 | ✔️ [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/) | 64.6% | <span style="color: green;">Easy</span> |
 | 1456 | ❌ [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | 59.1% | <span style="color: orange;">Medium</span> |
 | 1457 | ❌ [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | 68.3% | <span style="color: orange;">Medium</span> |
-| 1458 | ❌ [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) | 62.4% | <span style="color: red;">Hard</span> |
+| 1458 | ✔️ [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) | 62.4% | <span style="color: red;">Hard</span> |
 | 1459 | ❌ [Rectangles Area](https://leetcode.com/problems/rectangles-area/description/) | 68.5% | <span style="color: orange;">Medium</span> |
 | 1460 | ❌ [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/) | 76.0% | <span style="color: green;">Easy</span> |
 | 1461 | ❌ [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) | 56.6% | <span style="color: orange;">Medium</span> |
