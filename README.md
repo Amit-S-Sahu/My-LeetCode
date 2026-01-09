@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 546/3312
+### Solved: 547/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -870,7 +870,7 @@
 | 862 | ✔️ [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) | 26.2% | <span style="color: red;">Hard</span> |
 | 863 | ❌ [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | 65.1% | <span style="color: orange;">Medium</span> |
 | 864 | ❌ [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | 53.6% | <span style="color: red;">Hard</span> |
-| 865 | ❌ [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | 71.1% | <span style="color: orange;">Medium</span> |
+| 865 | ✔️ [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | 71.1% | <span style="color: orange;">Medium</span> |
 | 866 | ❌ [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | 26.2% | <span style="color: orange;">Medium</span> |
 | 867 | ❌ [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | 72.7% | <span style="color: green;">Easy</span> |
 | 868 | ❌ [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | 64.0% | <span style="color: green;">Easy</span> |
