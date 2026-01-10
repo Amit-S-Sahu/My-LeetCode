@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 547/3312
+### Solved: 548/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -717,7 +717,7 @@
 | 709 | ✔️ [To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | 83.7% | <span style="color: green;">Easy</span> |
 | 710 | ❌ [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | 33.6% | <span style="color: red;">Hard</span> |
 | 711 | ❌ [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | 53.1% | <span style="color: red;">Hard</span> |
-| 712 | ❌ [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | 65.3% | <span style="color: orange;">Medium</span> |
+| 712 | ✔️ [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | 65.3% | <span style="color: orange;">Medium</span> |
 | 713 | ❌ [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | 51.9% | <span style="color: orange;">Medium</span> |
 | 714 | ❌ [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | 69.4% | <span style="color: orange;">Medium</span> |
 | 715 | ❌ [Range Module](https://leetcode.com/problems/range-module/description/) | 43.9% | <span style="color: red;">Hard</span> |
