@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 550/3312
+### Solved: 551/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -96,7 +96,7 @@
 | 88 | ✔️ [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | 51.2% | <span style="color: green;">Easy</span> |
 | 89 | ❌ [Gray Code](https://leetcode.com/problems/gray-code/description/) | 60.2% | <span style="color: orange;">Medium</span> |
 | 90 | ✔️ [Subsets II](https://leetcode.com/problems/subsets-ii/description/) | 58.2% | <span style="color: orange;">Medium</span> |
-| 91 | ❌ [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | 35.5% | <span style="color: orange;">Medium</span> |
+| 91 | ✔️ [Decode Ways](https://leetcode.com/problems/decode-ways/description/) | 35.5% | <span style="color: orange;">Medium</span> |
 | 92 | ❌ [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | 48.4% | <span style="color: orange;">Medium</span> |
 | 93 | ❌ [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) | 51.2% | <span style="color: orange;">Medium</span> |
 | 94 | ✔️ [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | 77.2% | <span style="color: green;">Easy</span> |
