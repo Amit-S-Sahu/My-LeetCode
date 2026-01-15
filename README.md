@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 551/3312
+### Solved: 552/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -2948,7 +2948,7 @@
 | 2940 | ✔️ [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/) | 35.3% | <span style="color: red;">Hard</span> |
 | 2941 | ❌ [Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/description/) | 46.3% | <span style="color: red;">Hard</span> |
 | 2942 | ✔️ [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/) | 88.7% | <span style="color: green;">Easy</span> |
-| 2943 | ❌ [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | 37.2% | <span style="color: orange;">Medium</span> |
+| 2943 | ✔️ [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/) | 37.2% | <span style="color: orange;">Medium</span> |
 | 2944 | ❌ [Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 2945 | ❌ [Find Maximum Non-decreasing Array Length](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/description/) | 16.7% | <span style="color: red;">Hard</span> |
 | 2946 | ❌ [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/) | 58.8% | <span style="color: green;">Easy</span> |
