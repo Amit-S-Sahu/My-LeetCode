@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 553/3312
+### Solved: 554/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -357,7 +357,7 @@
 | 349 | ❌ [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | 75.3% | <span style="color: green;">Easy</span> |
 | 350 | ❌ [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | 58.7% | <span style="color: green;">Easy</span> |
 | 351 | ❌ [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/description/) | 53.0% | <span style="color: orange;">Medium</span> |
-| 352 | ❌ [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) | 60.2% | <span style="color: red;">Hard</span> |
+| 352 | ✔️ [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) | 60.2% | <span style="color: red;">Hard</span> |
 | 353 | ❌ [Design Snake Game](https://leetcode.com/problems/design-snake-game/description/) | 38.9% | <span style="color: orange;">Medium</span> |
 | 354 | ❌ [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) | 37.1% | <span style="color: red;">Hard</span> |
 | 355 | ❌ [Design Twitter](https://leetcode.com/problems/design-twitter/description/) | 40.7% | <span style="color: orange;">Medium</span> |
