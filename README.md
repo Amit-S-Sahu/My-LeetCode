@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 552/3312
+### Solved: 553/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -3052,7 +3052,7 @@
 | 3044 | ❌ [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/description/) | 48.6% | <span style="color: orange;">Medium</span> |
 | 3045 | ❌ [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/) | 25.4% | <span style="color: red;">Hard</span> |
 | 3046 | ❌ [Split the Array](https://leetcode.com/problems/split-the-array/description/) | 59.0% | <span style="color: green;">Easy</span> |
-| 3047 | ❌ [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/) | 45.6% | <span style="color: orange;">Medium</span> |
+| 3047 | ✔️ [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/) | 45.6% | <span style="color: orange;">Medium</span> |
 | 3048 | ❌ [Earliest Second to Mark Indices I](https://leetcode.com/problems/earliest-second-to-mark-indices-i/description/) | 36.3% | <span style="color: orange;">Medium</span> |
 | 3049 | ❌ [Earliest Second to Mark Indices II](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/description/) | 22.7% | <span style="color: red;">Hard</span> |
 | 3050 | ❌ [Pizza Toppings Cost Analysis](https://leetcode.com/problems/pizza-toppings-cost-analysis/description/) | 65.4% | <span style="color: orange;">Medium</span> |
