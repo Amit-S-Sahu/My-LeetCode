@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 554/3312
+### Solved: 555/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1297,7 +1297,7 @@
 | 1289 | ❌ [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) | 64.3% | <span style="color: red;">Hard</span> |
 | 1290 | ✔️ [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | 81.2% | <span style="color: green;">Easy</span> |
 | 1291 | ❌ [Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) | 65.3% | <span style="color: orange;">Medium</span> |
-| 1292 | ❌ [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) | 53.8% | <span style="color: orange;">Medium</span> |
+| 1292 | ✔️ [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) | 53.8% | <span style="color: orange;">Medium</span> |
 | 1293 | ❌ [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) | 45.3% | <span style="color: red;">Hard</span> |
 | 1294 | ❌ [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/description/) | 66.7% | <span style="color: green;">Easy</span> |
 | 1295 | ✔️ [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | 77.5% | <span style="color: green;">Easy</span> |
