@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 557/3312
+### Solved: 558/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -69,7 +69,7 @@
 | 61 | ✔️ [Rotate List](https://leetcode.com/problems/rotate-list/description/) | 38.7% | <span style="color: orange;">Medium</span> |
 | 62 | ✔️ [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | 64.9% | <span style="color: orange;">Medium</span> |
 | 63 | ✔️ [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | 42.3% | <span style="color: orange;">Medium</span> |
-| 64 | ❌ [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | 65.1% | <span style="color: orange;">Medium</span> |
+| 64 | ✔️ [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | 65.1% | <span style="color: orange;">Medium</span> |
 | 65 | ❌ [Valid Number](https://leetcode.com/problems/valid-number/description/) | 20.4% | <span style="color: red;">Hard</span> |
 | 66 | ✔️ [Plus One](https://leetcode.com/problems/plus-one/description/) | 46.3% | <span style="color: green;">Easy</span> |
 | 67 | ✔️ [Add Binary](https://leetcode.com/problems/add-binary/description/) | 54.4% | <span style="color: green;">Easy</span> |
