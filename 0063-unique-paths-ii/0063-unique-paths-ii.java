@@ -26,7 +26,6 @@ class Solution {
                 dp[i][j] = (dp[i - 1][j] == Integer.MAX_VALUE ? 0 : dp[i - 1][j]) + (dp[i][j - 1] == Integer.MAX_VALUE ? 0 : dp[i][j - 1]);
             }
         }
-        System.out.println(Arrays.deepToString(dp));
         return dp[m - 1][n - 1] == Integer.MAX_VALUE ? 0 : dp[m - 1][n - 1];
     }
 }
