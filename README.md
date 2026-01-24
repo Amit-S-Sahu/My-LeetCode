@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 555/3312
+### Solved: 556/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1882,7 +1882,7 @@
 | 1874 | ❌ [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/description/) | 89.5% | <span style="color: orange;">Medium</span> |
 | 1875 | ❌ [Group Employees of the Same Salary](https://leetcode.com/problems/group-employees-of-the-same-salary/description/) | 67.1% | <span style="color: orange;">Medium</span> |
 | 1876 | ❌ [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | 74.2% | <span style="color: green;">Easy</span> |
-| 1877 | ❌ [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | 81.4% | <span style="color: orange;">Medium</span> |
+| 1877 | ✔️ [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | 81.4% | <span style="color: orange;">Medium</span> |
 | 1878 | ❌ [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/) | 48.2% | <span style="color: orange;">Medium</span> |
 | 1879 | ❌ [Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/) | 48.3% | <span style="color: red;">Hard</span> |
 | 1880 | ❌ [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/) | 74.4% | <span style="color: green;">Easy</span> |
