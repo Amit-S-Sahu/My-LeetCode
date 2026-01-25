@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 558/3312
+### Solved: 559/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1989,7 +1989,7 @@
 | 1981 | ❌ [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/description/) | 35.3% | <span style="color: orange;">Medium</span> |
 | 1982 | ❌ [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/description/) | 48.9% | <span style="color: red;">Hard</span> |
 | 1983 | ❌ [Widest Pair of Indices With Equal Range Sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/description/) | 54.0% | <span style="color: orange;">Medium</span> |
-| 1984 | ❌ [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/) | 57.5% | <span style="color: green;">Easy</span> |
+| 1984 | ✔️ [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/) | 57.5% | <span style="color: green;">Easy</span> |
 | 1985 | ❌ [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/description/) | 45.9% | <span style="color: orange;">Medium</span> |
 | 1986 | ❌ [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/description/) | 33.4% | <span style="color: orange;">Medium</span> |
 | 1987 | ❌ [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/description/) | 52.2% | <span style="color: red;">Hard</span> |
