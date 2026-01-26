@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 559/3312
+### Solved: 560/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1205,7 +1205,7 @@
 | 1197 | ❌ [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) | 40.7% | <span style="color: orange;">Medium</span> |
 | 1198 | ❌ [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/description/) | 76.4% | <span style="color: orange;">Medium</span> |
 | 1199 | ❌ [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/description/) | 45.9% | <span style="color: red;">Hard</span> |
-| 1200 | ❌ [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | 69.8% | <span style="color: green;">Easy</span> |
+| 1200 | ✔️ [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) | 69.8% | <span style="color: green;">Easy</span> |
 | 1201 | ❌ [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/) | 29.9% | <span style="color: orange;">Medium</span> |
 | 1202 | ❌ [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/) | 58.7% | <span style="color: orange;">Medium</span> |
 | 1203 | ❌ [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/) | 66.1% | <span style="color: red;">Hard</span> |
