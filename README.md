@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 560/3312
+### Solved: 561/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -1933,7 +1933,7 @@
 | 1925 | ✔️ [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/description/) | 68.2% | <span style="color: green;">Easy</span> |
 | 1926 | ❌ [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 1927 | ❌ [Sum Game](https://leetcode.com/problems/sum-game/description/) | 47.8% | <span style="color: orange;">Medium</span> |
-| 1928 | ❌ [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | 38.9% | <span style="color: red;">Hard</span> |
+| 1928 | ✔️ [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | 38.9% | <span style="color: red;">Hard</span> |
 | 1929 | ❌ [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | 90.1% | <span style="color: green;">Easy</span> |
 | 1930 | ✔️ [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | 66.1% | <span style="color: orange;">Medium</span> |
 | 1931 | ✔️ [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/) | 58.1% | <span style="color: red;">Hard</span> |
