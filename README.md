@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 561/3312
+### Solved: 562/3312
 
 [███░░░░░░░░░░░░░░░░░] 16%
 
@@ -2981,7 +2981,7 @@
 | 2973 | ❌ [Find Number of Coins to Place in Tree Nodes](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/description/) | 37.1% | <span style="color: red;">Hard</span> |
 | 2974 | ❌ [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/) | 86.0% | <span style="color: green;">Easy</span> |
 | 2975 | ❌ [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/description/) | 23.3% | <span style="color: orange;">Medium</span> |
-| 2976 | ❌ [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | 58.4% | <span style="color: orange;">Medium</span> |
+| 2976 | ✔️ [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/) | 58.4% | <span style="color: orange;">Medium</span> |
 | 2977 | ❌ [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/) | 25.7% | <span style="color: red;">Hard</span> |
 | 2978 | ❌ [Symmetric Coordinates](https://leetcode.com/problems/symmetric-coordinates/description/) | 41.3% | <span style="color: orange;">Medium</span> |
 | 2979 | ❌ [Most Expensive Item That Can Not Be Bought](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/description/) | 79.8% | <span style="color: orange;">Medium</span> |
