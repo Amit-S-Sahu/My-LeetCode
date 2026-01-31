@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 563/3312
+### Solved: 564/3312
 
-[███░░░░░░░░░░░░░░░░░] 16%
+[███░░░░░░░░░░░░░░░░░] 17%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -749,7 +749,7 @@
 | 741 | ❌ [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | 37.3% | <span style="color: red;">Hard</span> |
 | 742 | ❌ [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) | 46.5% | <span style="color: orange;">Medium</span> |
 | 743 | ❌ [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | 55.2% | <span style="color: orange;">Medium</span> |
-| 744 | ❌ [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | 52.9% | <span style="color: green;">Easy</span> |
+| 744 | ✔️ [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | 52.9% | <span style="color: green;">Easy</span> |
 | 745 | ❌ [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) | 41.1% | <span style="color: red;">Hard</span> |
 | 746 | ✔️ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | 66.3% | <span style="color: green;">Easy</span> |
 | 747 | ❌ [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | 49.7% | <span style="color: green;">Easy</span> |
