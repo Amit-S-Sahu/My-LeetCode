@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 566/3312
+### Solved: 567/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1658,7 +1658,7 @@
 | 1650 | ❌ [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/) | 80.6% | <span style="color: orange;">Medium</span> |
 | 1651 | ❌ [Hopper Company Queries III](https://leetcode.com/problems/hopper-company-queries-iii/description/) | 65.6% | <span style="color: red;">Hard</span> |
 | 1652 | ✔️ [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/) | 67.1% | <span style="color: green;">Easy</span> |
-| 1653 | ❌ [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/) | 65.8% | <span style="color: orange;">Medium</span> |
+| 1653 | ✔️ [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/) | 65.8% | <span style="color: orange;">Medium</span> |
 | 1654 | ❌ [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/description/) | 29.7% | <span style="color: orange;">Medium</span> |
 | 1655 | ❌ [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/description/) | 39.9% | <span style="color: red;">Hard</span> |
 | 1656 | ❌ [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/) | 84.4% | <span style="color: green;">Easy</span> |
