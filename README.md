@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 567/3312
+### Solved: 568/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -115,7 +115,7 @@
 | 107 | ❌ [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | 64.4% | <span style="color: orange;">Medium</span> |
 | 108 | ❌ [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | 72.7% | <span style="color: green;">Easy</span> |
 | 109 | ❌ [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | 62.8% | <span style="color: orange;">Medium</span> |
-| 110 | ❌ [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | 53.5% | <span style="color: green;">Easy</span> |
+| 110 | ✔️ [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | 53.5% | <span style="color: green;">Easy</span> |
 | 111 | ❌ [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | 49.0% | <span style="color: green;">Easy</span> |
 | 112 | ❌ [Path Sum](https://leetcode.com/problems/path-sum/description/) | 51.5% | <span style="color: green;">Easy</span> |
 | 113 | ❌ [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | 59.3% | <span style="color: orange;">Medium</span> |
