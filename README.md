@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 568/3312
+### Solved: 569/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1387,7 +1387,7 @@
 | 1379 | ❌ [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/) | 85.9% | <span style="color: green;">Easy</span> |
 | 1380 | ✔️ [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) | 79.9% | <span style="color: green;">Easy</span> |
 | 1381 | ✔️ [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/) | 80.6% | <span style="color: orange;">Medium</span> |
-| 1382 | ❌ [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | 84.7% | <span style="color: orange;">Medium</span> |
+| 1382 | ✔️ [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | 84.7% | <span style="color: orange;">Medium</span> |
 | 1383 | ❌ [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/description/) | 47.7% | <span style="color: red;">Hard</span> |
 | 1384 | ❌ [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/description/) | 60.9% | <span style="color: red;">Hard</span> |
 | 1385 | ❌ [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/) | 69.1% | <span style="color: green;">Easy</span> |
