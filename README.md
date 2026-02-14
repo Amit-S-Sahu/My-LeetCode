@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 571/3312
+### Solved: 572/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -999,7 +999,7 @@
 | 991 | ❌ [Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) | 54.8% | <span style="color: orange;">Medium</span> |
 | 992 | ❌ [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) | 64.3% | <span style="color: red;">Hard</span> |
 | 993 | ❌ [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) | 56.8% | <span style="color: green;">Easy</span> |
-| 994 | ❌ [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | 55.1% | <span style="color: orange;">Medium</span> |
+| 994 | ✔️ [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | 55.1% | <span style="color: orange;">Medium</span> |
 | 995 | ❌ [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/) | 62.7% | <span style="color: red;">Hard</span> |
 | 996 | ❌ [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/description/) | 50.3% | <span style="color: red;">Hard</span> |
 | 997 | ❌ [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) | 49.8% | <span style="color: green;">Easy</span> |
