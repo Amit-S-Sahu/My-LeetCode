@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 570/3312
+### Solved: 571/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -552,7 +552,7 @@
 | 544 | ❌ [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/description/) | 77.2% | <span style="color: orange;">Medium</span> |
 | 545 | ❌ [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/description/) | 45.9% | <span style="color: orange;">Medium</span> |
 | 546 | ❌ [Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) | 48.1% | <span style="color: red;">Hard</span> |
-| 547 | ❌ [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | 67.3% | <span style="color: orange;">Medium</span> |
+| 547 | ✔️ [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | 67.3% | <span style="color: orange;">Medium</span> |
 | 548 | ❌ [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/description/) | 50.1% | <span style="color: red;">Hard</span> |
 | 549 | ❌ [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) | 49.5% | <span style="color: orange;">Medium</span> |
 | 550 | ❌ [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/) | 38.0% | <span style="color: orange;">Medium</span> |
