@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 569/3312
+### Solved: 570/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -804,7 +804,7 @@
 | 796 | ✔️ [Rotate String](https://leetcode.com/problems/rotate-string/description/) | 59.5% | <span style="color: green;">Easy</span> |
 | 797 | ❌ [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | 82.7% | <span style="color: orange;">Medium</span> |
 | 798 | ❌ [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) | 51.5% | <span style="color: red;">Hard</span> |
-| 799 | ❌ [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | 58.3% | <span style="color: orange;">Medium</span> |
+| 799 | ✔️ [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | 58.3% | <span style="color: orange;">Medium</span> |
 | 800 | ❌ [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | 67.6% | <span style="color: green;">Easy</span> |
 | 801 | ❌ [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) | 40.3% | <span style="color: red;">Hard</span> |
 | 802 | ✔️ [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) | 64.3% | <span style="color: orange;">Medium</span> |
