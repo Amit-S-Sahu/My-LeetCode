@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 576/3312
+### Solved: 577/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -820,7 +820,7 @@
 | 812 | ✔️ [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | 61.2% | <span style="color: green;">Easy</span> |
 | 813 | ❌ [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) | 53.8% | <span style="color: orange;">Medium</span> |
 | 814 | ❌ [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) | 72.3% | <span style="color: orange;">Medium</span> |
-| 815 | ❌ [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | 47.4% | <span style="color: red;">Hard</span> |
+| 815 | ✔️ [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | 47.4% | <span style="color: red;">Hard</span> |
 | 816 | ❌ [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/) | 56.9% | <span style="color: orange;">Medium</span> |
 | 817 | ❌ [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | 57.0% | <span style="color: orange;">Medium</span> |
 | 818 | ❌ [Race Car](https://leetcode.com/problems/race-car/description/) | 43.8% | <span style="color: red;">Hard</span> |
