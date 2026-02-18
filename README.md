@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 578/3312
+### Solved: 579/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -698,7 +698,7 @@
 | 690 | ❌ [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | 67.5% | <span style="color: orange;">Medium</span> |
 | 691 | ❌ [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/) | 49.3% | <span style="color: red;">Hard</span> |
 | 692 | ❌ [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | 58.5% | <span style="color: orange;">Medium</span> |
-| 693 | ❌ [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | 63.0% | <span style="color: green;">Easy</span> |
+| 693 | ✔️ [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | 63.0% | <span style="color: green;">Easy</span> |
 | 694 | ❌ [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | 61.7% | <span style="color: orange;">Medium</span> |
 | 695 | ❌ [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | 72.6% | <span style="color: orange;">Medium</span> |
 | 696 | ❌ [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | 65.7% | <span style="color: green;">Easy</span> |
