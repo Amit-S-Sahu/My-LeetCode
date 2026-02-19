@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 579/3312
+### Solved: 580/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -701,7 +701,7 @@
 | 693 | ✔️ [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | 63.0% | <span style="color: green;">Easy</span> |
 | 694 | ❌ [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | 61.7% | <span style="color: orange;">Medium</span> |
 | 695 | ❌ [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | 72.6% | <span style="color: orange;">Medium</span> |
-| 696 | ❌ [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | 65.7% | <span style="color: green;">Easy</span> |
+| 696 | ✔️ [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | 65.7% | <span style="color: green;">Easy</span> |
 | 697 | ❌ [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | 56.8% | <span style="color: green;">Easy</span> |
 | 698 | ❌ [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | 38.1% | <span style="color: orange;">Medium</span> |
 | 699 | ❌ [Falling Squares](https://leetcode.com/problems/falling-squares/description/) | 45.6% | <span style="color: red;">Hard</span> |
