@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 582/3312
+### Solved: 583/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -547,7 +547,7 @@
 | 539 | ❌ [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) | 62.0% | <span style="color: orange;">Medium</span> |
 | 540 | ✔️ [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | 59.3% | <span style="color: orange;">Medium</span> |
 | 541 | ❌ [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | 51.2% | <span style="color: green;">Easy</span> |
-| 542 | ❌ [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | 49.6% | <span style="color: orange;">Medium</span> |
+| 542 | ✔️ [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | 49.6% | <span style="color: orange;">Medium</span> |
 | 543 | ❌ [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | 61.6% | <span style="color: green;">Easy</span> |
 | 544 | ❌ [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/description/) | 77.2% | <span style="color: orange;">Medium</span> |
 | 545 | ❌ [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/description/) | 45.9% | <span style="color: orange;">Medium</span> |
