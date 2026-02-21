@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 581/3312
+### Solved: 582/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -767,7 +767,7 @@
 | 759 | ❌ [Employee Free Time](https://leetcode.com/problems/employee-free-time/description/) | 72.3% | <span style="color: red;">Hard</span> |
 | 760 | ❌ [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | 83.7% | <span style="color: green;">Easy</span> |
 | 761 | ✔️ [Special Binary String](https://leetcode.com/problems/special-binary-string/description/) | 62.0% | <span style="color: red;">Hard</span> |
-| 762 | ❌ [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | 70.1% | <span style="color: green;">Easy</span> |
+| 762 | ✔️ [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | 70.1% | <span style="color: green;">Easy</span> |
 | 763 | ✔️ [Partition Labels](https://leetcode.com/problems/partition-labels/description/) | 80.0% | <span style="color: orange;">Medium</span> |
 | 764 | ❌ [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) | 48.5% | <span style="color: orange;">Medium</span> |
 | 765 | ❌ [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | 57.7% | <span style="color: red;">Hard</span> |
