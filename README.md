@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 586/3312
+### Solved: 587/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1027,7 +1027,7 @@
 | 1019 | ❌ [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) | 61.4% | <span style="color: orange;">Medium</span> |
 | 1020 | ❌ [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | 69.5% | <span style="color: orange;">Medium</span> |
 | 1021 | ❌ [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | 84.0% | <span style="color: green;">Easy</span> |
-| 1022 | ❌ [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | 73.2% | <span style="color: green;">Easy</span> |
+| 1022 | ✔️ [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | 73.2% | <span style="color: green;">Easy</span> |
 | 1023 | ❌ [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) | 62.9% | <span style="color: orange;">Medium</span> |
 | 1024 | ❌ [Video Stitching](https://leetcode.com/problems/video-stitching/description/) | 51.6% | <span style="color: orange;">Medium</span> |
 | 1025 | ❌ [Divisor Game](https://leetcode.com/problems/divisor-game/description/) | 69.3% | <span style="color: green;">Easy</span> |
