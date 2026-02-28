@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 588/3312
+### Solved: 589/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1685,7 +1685,7 @@
 | 1677 | ❌ [Product's Worth Over Invoices](https://leetcode.com/problems/product's-worth-over-invoices/description/) | 38.3% | <span style="color: green;">Easy</span> |
 | 1678 | ❌ [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/) | 87.4% | <span style="color: green;">Easy</span> |
 | 1679 | ✔️ [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) | 55.3% | <span style="color: orange;">Medium</span> |
-| 1680 | ❌ [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/) | 57.2% | <span style="color: orange;">Medium</span> |
+| 1680 | ✔️ [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/) | 57.2% | <span style="color: orange;">Medium</span> |
 | 1681 | ❌ [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/description/) | 39.3% | <span style="color: red;">Hard</span> |
 | 1682 | ❌ [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/) | 50.2% | <span style="color: orange;">Medium</span> |
 | 1683 | ✔️ [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | 85.5% | <span style="color: green;">Easy</span> |
