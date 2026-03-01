@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 589/3312
+### Solved: 590/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1694,7 +1694,7 @@
 | 1686 | ❌ [Stone Game VI](https://leetcode.com/problems/stone-game-vi/description/) | 57.9% | <span style="color: orange;">Medium</span> |
 | 1687 | ❌ [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/) | 39.1% | <span style="color: red;">Hard</span> |
 | 1688 | ❌ [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/) | 85.7% | <span style="color: green;">Easy</span> |
-| 1689 | ❌ [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/) | 88.8% | <span style="color: orange;">Medium</span> |
+| 1689 | ✔️ [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/) | 88.8% | <span style="color: orange;">Medium</span> |
 | 1690 | ❌ [Stone Game VII](https://leetcode.com/problems/stone-game-vii/description/) | 58.2% | <span style="color: orange;">Medium</span> |
 | 1691 | ❌ [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) | 58.6% | <span style="color: red;">Hard</span> |
 | 1692 | ❌ [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/description/) | 62.6% | <span style="color: red;">Hard</span> |
