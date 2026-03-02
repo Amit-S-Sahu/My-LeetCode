@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 590/3312
+### Solved: 591/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1541,7 +1541,7 @@
 | 1533 | ❌ [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/description/) | 56.2% | <span style="color: orange;">Medium</span> |
 | 1534 | ✔️ [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/) | 81.5% | <span style="color: green;">Easy</span> |
 | 1535 | ❌ [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/) | 56.9% | <span style="color: orange;">Medium</span> |
-| 1536 | ❌ [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) | 47.8% | <span style="color: orange;">Medium</span> |
+| 1536 | ✔️ [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) | 47.8% | <span style="color: orange;">Medium</span> |
 | 1537 | ❌ [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/description/) | 39.7% | <span style="color: red;">Hard</span> |
 | 1538 | ❌ [Guess the Majority in a Hidden Array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/description/) | 70.1% | <span style="color: orange;">Medium</span> |
 | 1539 | ❌ [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) | 60.9% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
-<!---LeetCode Topics End-->
