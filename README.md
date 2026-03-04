@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 591/3312
+### Solved: 592/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1587,7 +1587,7 @@
 | 1579 | ❌ [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | 70.8% | <span style="color: red;">Hard</span> |
 | 1580 | ❌ [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/) | 66.0% | <span style="color: orange;">Medium</span> |
 | 1581 | ❌ [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/) | 67.9% | <span style="color: green;">Easy</span> |
-| 1582 | ❌ [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) | 68.7% | <span style="color: green;">Easy</span> |
+| 1582 | ✔️ [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) | 68.7% | <span style="color: green;">Easy</span> |
 | 1583 | ❌ [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/description/) | 61.7% | <span style="color: orange;">Medium</span> |
 | 1584 | ❌ [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | 67.6% | <span style="color: orange;">Medium</span> |
 | 1585 | ❌ [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/) | 48.7% | <span style="color: red;">Hard</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
-<!---LeetCode Topics End-->
