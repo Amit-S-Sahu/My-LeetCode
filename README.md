@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 592/3312
+### Solved: 593/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1763,7 +1763,7 @@
 | 1755 | ❌ [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/description/) | 40.2% | <span style="color: red;">Hard</span> |
 | 1756 | ❌ [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) | 75.8% | <span style="color: orange;">Medium</span> |
 | 1757 | ✔️ [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | 89.3% | <span style="color: green;">Easy</span> |
-| 1758 | ❌ [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) | 63.8% | <span style="color: green;">Easy</span> |
+| 1758 | ✔️ [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) | 63.8% | <span style="color: green;">Easy</span> |
 | 1759 | ❌ [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/) | 57.6% | <span style="color: orange;">Medium</span> |
 | 1760 | ✔️ [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/) | 60.4% | <span style="color: orange;">Medium</span> |
 | 1761 | ❌ [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) | 42.8% | <span style="color: red;">Hard</span> |
@@ -3318,11 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
-<!---LeetCode Topics End-->
