@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 593/3312
+### Solved: 594/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1789,7 +1789,7 @@
 | 1781 | ❌ [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/) | 68.1% | <span style="color: orange;">Medium</span> |
 | 1782 | ❌ [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/description/) | 40.5% | <span style="color: red;">Hard</span> |
 | 1783 | ❌ [Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/description/) | 83.1% | <span style="color: orange;">Medium</span> |
-| 1784 | ❌ [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/) | 39.2% | <span style="color: green;">Easy</span> |
+| 1784 | ✔️ [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/) | 39.2% | <span style="color: green;">Easy</span> |
 | 1785 | ❌ [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/description/) | 43.9% | <span style="color: orange;">Medium</span> |
 | 1786 | ❌ [Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/) | 39.4% | <span style="color: orange;">Medium</span> |
 | 1787 | ❌ [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/) | 39.7% | <span style="color: red;">Hard</span> |
@@ -3318,11 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
-<!---LeetCode Topics End-->
