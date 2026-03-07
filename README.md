@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 594/3312
+### Solved: 595/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -1893,7 +1893,7 @@
 | 1885 | ❌ [Count Pairs in Two Arrays](https://leetcode.com/problems/count-pairs-in-two-arrays/description/) | 60.5% | <span style="color: orange;">Medium</span> |
 | 1886 | ❌ [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/) | 57.5% | <span style="color: green;">Easy</span> |
 | 1887 | ❌ [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/) | 72.8% | <span style="color: orange;">Medium</span> |
-| 1888 | ❌ [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/) | 40.2% | <span style="color: orange;">Medium</span> |
+| 1888 | ✔️ [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/description/) | 40.2% | <span style="color: orange;">Medium</span> |
 | 1889 | ❌ [Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/description/) | 32.0% | <span style="color: red;">Hard</span> |
 | 1890 | ❌ [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/) | 77.3% | <span style="color: green;">Easy</span> |
 | 1891 | ❌ [Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/description/) | 49.7% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
-<!---LeetCode Topics End-->
