@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 595/3312
+### Solved: 596/3312
 
 [███░░░░░░░░░░░░░░░░░] 17%
 
@@ -3134,7 +3134,7 @@
 | 3126 | ❌ [Server Utilization Time](https://leetcode.com/problems/server-utilization-time/description/) | 58.2% | <span style="color: orange;">Medium</span> |
 | 3127 | ❌ [Make a Square with the Same Color](https://leetcode.com/problems/make-a-square-with-the-same-color/description/) | 51.7% | <span style="color: green;">Easy</span> |
 | 3128 | ❌ [Right Triangles](https://leetcode.com/problems/right-triangles/description/) | 47.8% | <span style="color: orange;">Medium</span> |
-| 3129 | ❌ [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/description/) | 27.0% | <span style="color: orange;">Medium</span> |
+| 3129 | ✔️ [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/description/) | 27.0% | <span style="color: orange;">Medium</span> |
 | 3130 | ❌ [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/) | 28.6% | <span style="color: red;">Hard</span> |
 | 3131 | ❌ [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) | 82.4% | <span style="color: green;">Easy</span> |
 | 3132 | ❌ [Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/) | 31.4% | <span style="color: orange;">Medium</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
-<!---LeetCode Topics End-->
