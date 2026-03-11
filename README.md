@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 597/3312
+### Solved: 598/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1014,7 +1014,7 @@
 | 1006 | ❌ [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/) | 57.9% | <span style="color: orange;">Medium</span> |
 | 1007 | ✔️ [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) | 52.3% | <span style="color: orange;">Medium</span> |
 | 1008 | ❌ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) | 82.6% | <span style="color: orange;">Medium</span> |
-| 1009 | ❌ [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) | 60.8% | <span style="color: green;">Easy</span> |
+| 1009 | ✔️ [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) | 60.8% | <span style="color: green;">Easy</span> |
 | 1010 | ❌ [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) | 53.1% | <span style="color: orange;">Medium</span> |
 | 1011 | ✔️ [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | 70.5% | <span style="color: orange;">Medium</span> |
 | 1012 | ❌ [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) | 42.7% | <span style="color: red;">Hard</span> |
@@ -3318,11 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1009-complement-of-base-10-integer](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
-<!---LeetCode Topics End-->
