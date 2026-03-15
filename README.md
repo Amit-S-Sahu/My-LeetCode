@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 598/3312
+### Solved: 599/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1627,7 +1627,7 @@
 | 1619 | ❌ [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/description/) | 69.2% | <span style="color: green;">Easy</span> |
 | 1620 | ❌ [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/) | 38.3% | <span style="color: orange;">Medium</span> |
 | 1621 | ❌ [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/) | 43.9% | <span style="color: orange;">Medium</span> |
-| 1622 | ❌ [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/) | 17.7% | <span style="color: red;">Hard</span> |
+| 1622 | ✔️ [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/) | 17.7% | <span style="color: red;">Hard</span> |
 | 1623 | ❌ [All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/description/) | 81.9% | <span style="color: green;">Easy</span> |
 | 1624 | ❌ [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | 68.5% | <span style="color: green;">Easy</span> |
 | 1625 | ✔️ [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/) | 65.8% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1622-fancy-sequence](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1622-fancy-sequence/) | Hard |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1622-fancy-sequence](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1622-fancy-sequence/) | Hard |
-## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1622-fancy-sequence](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1622-fancy-sequence/) | Hard |
-<!---LeetCode Topics End-->
