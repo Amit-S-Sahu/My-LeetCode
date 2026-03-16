@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 599/3312
+### Solved: 600/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1883,7 +1883,7 @@
 | 1875 | ❌ [Group Employees of the Same Salary](https://leetcode.com/problems/group-employees-of-the-same-salary/description/) | 67.1% | <span style="color: orange;">Medium</span> |
 | 1876 | ❌ [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | 74.2% | <span style="color: green;">Easy</span> |
 | 1877 | ✔️ [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) | 81.4% | <span style="color: orange;">Medium</span> |
-| 1878 | ❌ [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/) | 48.2% | <span style="color: orange;">Medium</span> |
+| 1878 | ✔️ [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/) | 48.2% | <span style="color: orange;">Medium</span> |
 | 1879 | ❌ [Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/) | 48.3% | <span style="color: red;">Hard</span> |
 | 1880 | ❌ [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/) | 74.4% | <span style="color: green;">Easy</span> |
 | 1881 | ❌ [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/) | 38.3% | <span style="color: orange;">Medium</span> |
@@ -3318,31 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
-<!---LeetCode Topics End-->
