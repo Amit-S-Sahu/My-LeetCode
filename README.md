@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 600/3312
+### Solved: 601/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1030,7 +1030,7 @@
 | 1022 | ✔️ [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | 73.2% | <span style="color: green;">Easy</span> |
 | 1023 | ❌ [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) | 62.9% | <span style="color: orange;">Medium</span> |
 | 1024 | ❌ [Video Stitching](https://leetcode.com/problems/video-stitching/description/) | 51.6% | <span style="color: orange;">Medium</span> |
-| 1025 | ❌ [Divisor Game](https://leetcode.com/problems/divisor-game/description/) | 69.3% | <span style="color: green;">Easy</span> |
+| 1025 | ✔️ [Divisor Game](https://leetcode.com/problems/divisor-game/description/) | 69.3% | <span style="color: green;">Easy</span> |
 | 1026 | ❌ [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) | 78.1% | <span style="color: orange;">Medium</span> |
 | 1027 | ❌ [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) | 49.2% | <span style="color: orange;">Medium</span> |
 | 1028 | ✔️ [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) | 75.2% | <span style="color: red;">Hard</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1025-divisor-game](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1025-divisor-game/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1025-divisor-game](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1025-divisor-game/) | Easy |
-## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1025-divisor-game](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1025-divisor-game/) | Easy |
-## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1025-divisor-game](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1025-divisor-game/) | Easy |
-<!---LeetCode Topics End-->
