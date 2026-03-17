@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 601/3312
+### Solved: 602/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1732,7 +1732,7 @@
 | 1724 | ❌ [Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/) | 51.0% | <span style="color: red;">Hard</span> |
 | 1725 | ❌ [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/description/) | 78.9% | <span style="color: green;">Easy</span> |
 | 1726 | ✔️ [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | 61.3% | <span style="color: orange;">Medium</span> |
-| 1727 | ❌ [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/) | 75.3% | <span style="color: orange;">Medium</span> |
+| 1727 | ✔️ [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/) | 75.3% | <span style="color: orange;">Medium</span> |
 | 1728 | ❌ [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/description/) | 39.9% | <span style="color: red;">Hard</span> |
 | 1729 | ❌ [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/) | 69.2% | <span style="color: green;">Easy</span> |
 | 1730 | ❌ [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/description/) | 55.2% | <span style="color: orange;">Medium</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1727-largest-submatrix-with-rearrangements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1727-largest-submatrix-with-rearrangements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1727-largest-submatrix-with-rearrangements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1727-largest-submatrix-with-rearrangements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
-<!---LeetCode Topics End-->
