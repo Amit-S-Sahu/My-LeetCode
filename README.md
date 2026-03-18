@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 602/3312
+### Solved: 603/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -3075,7 +3075,7 @@
 | 3067 | ❌ [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/description/) | 58.2% | <span style="color: orange;">Medium</span> |
 | 3068 | ✔️ [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/) | 66.7% | <span style="color: red;">Hard</span> |
 | 3069 | ❌ [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/) | 73.1% | <span style="color: green;">Easy</span> |
-| 3070 | ❌ [Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/) | 59.5% | <span style="color: orange;">Medium</span> |
+| 3070 | ✔️ [Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/) | 59.5% | <span style="color: orange;">Medium</span> |
 | 3071 | ❌ [Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/description/) | 63.4% | <span style="color: orange;">Medium</span> |
 | 3072 | ❌ [Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/) | 28.1% | <span style="color: red;">Hard</span> |
 | 3073 | ❌ [Maximum Increasing Triplet Value](https://leetcode.com/problems/maximum-increasing-triplet-value/description/) | 40.1% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
-<!---LeetCode Topics End-->
