@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 603/3312
+### Solved: 604/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -3217,7 +3217,7 @@
 | 3209 | ❌ [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/) | 34.4% | <span style="color: red;">Hard</span> |
 | 3210 | ❌ [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/description/) | 69.1% | <span style="color: green;">Easy</span> |
 | 3211 | ❌ [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/) | 86.5% | <span style="color: orange;">Medium</span> |
-| 3212 | ❌ [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/) | 52.2% | <span style="color: orange;">Medium</span> |
+| 3212 | ✔️ [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/description/) | 52.2% | <span style="color: orange;">Medium</span> |
 | 3213 | ❌ [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/description/) | 20.0% | <span style="color: red;">Hard</span> |
 | 3214 | ❌ [Year on Year Growth Rate](https://leetcode.com/problems/year-on-year-growth-rate/description/) | 51.3% | <span style="color: red;">Hard</span> |
 | 3215 | ❌ [Count Triplets with Even XOR Set Bits II](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/description/) | 73.6% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
-<!---LeetCode Topics End-->
