@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 606/3312
+### Solved: 607/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2911,7 +2911,7 @@
 | 2903 | ❌ [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/description/) | 61.8% | <span style="color: green;">Easy</span> |
 | 2904 | ❌ [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/) | 39.5% | <span style="color: orange;">Medium</span> |
 | 2905 | ❌ [Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/description/) | 32.3% | <span style="color: orange;">Medium</span> |
-| 2906 | ❌ [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/) | 31.0% | <span style="color: orange;">Medium</span> |
+| 2906 | ✔️ [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/) | 31.0% | <span style="color: orange;">Medium</span> |
 | 2907 | ❌ [Maximum Profitable Triplets With Increasing Prices I](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/description/) | 56.9% | <span style="color: orange;">Medium</span> |
 | 2908 | ❌ [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/description/) | 65.4% | <span style="color: green;">Easy</span> |
 | 2909 | ❌ [Minimum Sum of Mountain Triplets II](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-ii/description/) | 54.2% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2906-construct-product-matrix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2906-construct-product-matrix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2906-construct-product-matrix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
-<!---LeetCode Topics End-->
