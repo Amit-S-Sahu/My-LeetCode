@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 608/3312
+### Solved: 609/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2844,7 +2844,7 @@
 | 2836 | ❌ [Maximize Value of Function in a Ball Passing Game](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/description/) | 31.4% | <span style="color: red;">Hard</span> |
 | 2837 | ❌ [Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/description/) | 76.1% | <span style="color: green;">Easy</span> |
 | 2838 | ❌ [Maximum Coins Heroes Can Collect](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/) | 70.1% | <span style="color: orange;">Medium</span> |
-| 2839 | ❌ [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/) | 47.4% | <span style="color: green;">Easy</span> |
+| 2839 | ✔️ [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/) | 47.4% | <span style="color: green;">Easy</span> |
 | 2840 | ❌ [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/) | 56.2% | <span style="color: orange;">Medium</span> |
 | 2841 | ❌ [Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/) | 38.4% | <span style="color: orange;">Medium</span> |
 | 2842 | ❌ [Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/description/) | 29.6% | <span style="color: red;">Hard</span> |
