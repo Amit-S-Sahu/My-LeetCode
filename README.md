@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 609/3312
+### Solved: 610/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2845,7 +2845,7 @@
 | 2837 | ❌ [Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/description/) | 76.1% | <span style="color: green;">Easy</span> |
 | 2838 | ❌ [Maximum Coins Heroes Can Collect](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/) | 70.1% | <span style="color: orange;">Medium</span> |
 | 2839 | ✔️ [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/) | 47.4% | <span style="color: green;">Easy</span> |
-| 2840 | ❌ [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/) | 56.2% | <span style="color: orange;">Medium</span> |
+| 2840 | ✔️ [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/) | 56.2% | <span style="color: orange;">Medium</span> |
 | 2841 | ❌ [Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/description/) | 38.4% | <span style="color: orange;">Medium</span> |
 | 2842 | ❌ [Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/description/) | 29.6% | <span style="color: red;">Hard</span> |
 | 2843 | ✔️ [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/description/) | 74.6% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
-<!---LeetCode Topics End-->
