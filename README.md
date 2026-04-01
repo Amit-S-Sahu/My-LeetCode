@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 610/3312
+### Solved: 611/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2756,7 +2756,7 @@
 | 2748 | ❌ [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/description/) | 50.7% | <span style="color: green;">Easy</span> |
 | 2749 | ✔️ [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | 30.3% | <span style="color: orange;">Medium</span> |
 | 2750 | ❌ [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) | 34.5% | <span style="color: orange;">Medium</span> |
-| 2751 | ❌ [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/) | 57.0% | <span style="color: red;">Hard</span> |
+| 2751 | ✔️ [Robot Collisions](https://leetcode.com/problems/robot-collisions/description/) | 57.0% | <span style="color: red;">Hard</span> |
 | 2752 | ❌ [Customers with Maximum Number of Transactions on Consecutive Days](https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days/description/) | 38.9% | <span style="color: red;">Hard</span> |
 | 2753 | ❌ [Count Houses in a Circular Street II](https://leetcode.com/problems/count-houses-in-a-circular-street-ii/description/) | 64.0% | <span style="color: red;">Hard</span> |
 | 2754 | ❌ [Bind Function to Context](https://leetcode.com/problems/bind-function-to-context/description/) | 86.8% | <span style="color: orange;">Medium</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2751-robot-collisions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2751-robot-collisions/) | Hard |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2751-robot-collisions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2751-robot-collisions/) | Hard |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2751-robot-collisions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2751-robot-collisions/) | Hard |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2751-robot-collisions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2751-robot-collisions/) | Hard |
-<!---LeetCode Topics End-->
