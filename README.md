@@ -3318,3 +3318,19 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+<!---LeetCode Topics End-->
