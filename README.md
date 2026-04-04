@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 611/3312
+### Solved: 612/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2080,7 +2080,7 @@
 | 2072 | ❌ [The Winner University](https://leetcode.com/problems/the-winner-university/description/) | 74.3% | <span style="color: green;">Easy</span> |
 | 2073 | ❌ [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) | 70.0% | <span style="color: green;">Easy</span> |
 | 2074 | ❌ [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/) | 59.0% | <span style="color: orange;">Medium</span> |
-| 2075 | ❌ [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/) | 49.1% | <span style="color: orange;">Medium</span> |
+| 2075 | ✔️ [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/) | 49.1% | <span style="color: orange;">Medium</span> |
 | 2076 | ❌ [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/description/) | 55.9% | <span style="color: red;">Hard</span> |
 | 2077 | ❌ [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 2078 | ❌ [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/) | 65.9% | <span style="color: green;">Easy</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2075-decode-the-slanted-ciphertext](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2075-decode-the-slanted-ciphertext](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
-<!---LeetCode Topics End-->
