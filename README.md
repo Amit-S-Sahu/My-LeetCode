@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 612/3312
+### Solved: 613/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -879,7 +879,7 @@
 | 871 | ❌ [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | 40.2% | <span style="color: red;">Hard</span> |
 | 872 | ❌ [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | 70.1% | <span style="color: green;">Easy</span> |
 | 873 | ✔️ [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | 48.5% | <span style="color: orange;">Medium</span> |
-| 874 | ❌ [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | 57.9% | <span style="color: orange;">Medium</span> |
+| 874 | ✔️ [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | 57.9% | <span style="color: orange;">Medium</span> |
 | 875 | ✔️ [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | 48.4% | <span style="color: orange;">Medium</span> |
 | 876 | ✔️ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | 79.4% | <span style="color: green;">Easy</span> |
 | 877 | ❌ [Stone Game](https://leetcode.com/problems/stone-game/description/) | 71.2% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0874-walking-robot-simulation](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0874-walking-robot-simulation](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0874-walking-robot-simulation](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
-<!---LeetCode Topics End-->
