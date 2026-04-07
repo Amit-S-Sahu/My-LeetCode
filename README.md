@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 613/3312
+### Solved: 614/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2074,7 +2074,7 @@
 | 2066 | ❌ [Account Balance](https://leetcode.com/problems/account-balance/description/) | 82.0% | <span style="color: orange;">Medium</span> |
 | 2067 | ❌ [Number of Equal Count Substrings](https://leetcode.com/problems/number-of-equal-count-substrings/description/) | 46.0% | <span style="color: orange;">Medium</span> |
 | 2068 | ❌ [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/) | 64.0% | <span style="color: green;">Easy</span> |
-| 2069 | ❌ [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/) | 26.5% | <span style="color: orange;">Medium</span> |
+| 2069 | ✔️ [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/description/) | 26.5% | <span style="color: orange;">Medium</span> |
 | 2070 | ✔️ [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/description/) | 49.9% | <span style="color: orange;">Medium</span> |
 | 2071 | ✔️ [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/) | 33.6% | <span style="color: red;">Hard</span> |
 | 2072 | ❌ [The Winner University](https://leetcode.com/problems/the-winner-university/description/) | 74.3% | <span style="color: green;">Easy</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2069-walking-robot-simulation-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2069-walking-robot-simulation-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
-<!---LeetCode Topics End-->
