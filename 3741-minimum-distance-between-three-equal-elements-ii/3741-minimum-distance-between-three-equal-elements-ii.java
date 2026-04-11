@@ -6,7 +6,6 @@ class Solution {
         }
 
         int min = Integer.MAX_VALUE;
-        System.out.println(map);
         for (List<Integer> num : map.values()) {
             if (num.size() >= 3) {
                 for (int i = 1; i < num.size() - 1; i++) {
