@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii">3741. Minimum Distance Between Three Equal Elements II</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/?envType=daily-question&envId=2026-04-11">3741. Minimum Distance Between Three Equal Elements II</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>A tuple <code>(i, j, k)</code> of 3 <strong>distinct</strong> indices is <strong>good</strong> if <code>nums[i] == nums[j] == nums[k]</code>.</p>
 
