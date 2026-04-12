@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 614/3312
+### Solved: 615/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1325,7 +1325,7 @@
 | 1317 | ✔️ [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) | 54.0% | <span style="color: green;">Easy</span> |
 | 1318 | ❌ [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/) | 71.2% | <span style="color: orange;">Medium</span> |
 | 1319 | ❌ [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/) | 63.5% | <span style="color: orange;">Medium</span> |
-| 1320 | ❌ [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/) | 59.1% | <span style="color: red;">Hard</span> |
+| 1320 | ✔️ [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/) | 59.1% | <span style="color: red;">Hard</span> |
 | 1321 | ❌ [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/) | 53.5% | <span style="color: orange;">Medium</span> |
 | 1322 | ❌ [Ads Performance](https://leetcode.com/problems/ads-performance/description/) | 59.4% | <span style="color: green;">Easy</span> |
 | 1323 | ✔️ [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | 82.5% | <span style="color: green;">Easy</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
-<!---LeetCode Topics End-->
