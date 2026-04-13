@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 615/3312
+### Solved: 616/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1853,7 +1853,7 @@
 | 1845 | ❌ [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/description/) | 69.5% | <span style="color: orange;">Medium</span> |
 | 1846 | ❌ [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/) | 65.8% | <span style="color: orange;">Medium</span> |
 | 1847 | ❌ [Closest Room](https://leetcode.com/problems/closest-room/description/) | 38.9% | <span style="color: red;">Hard</span> |
-| 1848 | ❌ [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/) | 54.5% | <span style="color: green;">Easy</span> |
+| 1848 | ✔️ [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/) | 54.5% | <span style="color: green;">Easy</span> |
 | 1849 | ❌ [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/description/) | 36.3% | <span style="color: orange;">Medium</span> |
 | 1850 | ❌ [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/description/) | 71.5% | <span style="color: orange;">Medium</span> |
 | 1851 | ❌ [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/) | 50.7% | <span style="color: red;">Hard</span> |
@@ -3318,11 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1848-minimum-distance-to-the-target-element](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
-<!---LeetCode Topics End-->
