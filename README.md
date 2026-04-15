@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 616/3312
+### Solved: 617/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2520,7 +2520,7 @@
 | 2512 | ❌ [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/description/) | 45.3% | <span style="color: orange;">Medium</span> |
 | 2513 | ❌ [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/) | 30.7% | <span style="color: orange;">Medium</span> |
 | 2514 | ❌ [Count Anagrams](https://leetcode.com/problems/count-anagrams/description/) | 34.0% | <span style="color: red;">Hard</span> |
-| 2515 | ❌ [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/) | 49.8% | <span style="color: green;">Easy</span> |
+| 2515 | ✔️ [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/) | 49.8% | <span style="color: green;">Easy</span> |
 | 2516 | ✔️ [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/) | 34.6% | <span style="color: orange;">Medium</span> |
 | 2517 | ❌ [Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/description/) | 64.3% | <span style="color: orange;">Medium</span> |
 | 2518 | ❌ [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/description/) | 31.7% | <span style="color: red;">Hard</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
-<!---LeetCode Topics End-->
