@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 617/3312
+### Solved: 618/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1860,7 +1860,7 @@
 | 1852 | ❌ [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/description/) | 71.6% | <span style="color: orange;">Medium</span> |
 | 1853 | ❌ [Convert Date Format](https://leetcode.com/problems/convert-date-format/description/) | 85.7% | <span style="color: green;">Easy</span> |
 | 1854 | ❌ [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/description/) | 61.3% | <span style="color: green;">Easy</span> |
-| 1855 | ❌ [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/) | 53.4% | <span style="color: orange;">Medium</span> |
+| 1855 | ✔️ [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/) | 53.4% | <span style="color: orange;">Medium</span> |
 | 1856 | ❌ [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/description/) | 38.4% | <span style="color: orange;">Medium</span> |
 | 1857 | ✔️ [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | 49.8% | <span style="color: red;">Hard</span> |
 | 1858 | ❌ [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/description/) | 71.4% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
-<!---LeetCode Topics End-->
