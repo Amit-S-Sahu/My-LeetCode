@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 618/3312
+### Solved: 619/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2083,7 +2083,7 @@
 | 2075 | ✔️ [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/) | 49.1% | <span style="color: orange;">Medium</span> |
 | 2076 | ❌ [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/description/) | 55.9% | <span style="color: red;">Hard</span> |
 | 2077 | ❌ [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/description/) | 56.0% | <span style="color: orange;">Medium</span> |
-| 2078 | ❌ [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/) | 65.9% | <span style="color: green;">Easy</span> |
+| 2078 | ✔️ [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/) | 65.9% | <span style="color: green;">Easy</span> |
 | 2079 | ❌ [Watering Plants](https://leetcode.com/problems/watering-plants/description/) | 79.9% | <span style="color: orange;">Medium</span> |
 | 2080 | ❌ [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/description/) | 40.6% | <span style="color: orange;">Medium</span> |
 | 2081 | ✔️ [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/) | 42.4% | <span style="color: red;">Hard</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2078-two-furthest-houses-with-different-colors](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2078-two-furthest-houses-with-different-colors](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
-<!---LeetCode Topics End-->
