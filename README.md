@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 619/3312
+### Solved: 620/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1727,7 +1727,7 @@
 | 1719 | ❌ [Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/) | 44.6% | <span style="color: red;">Hard</span> |
 | 1720 | ❌ [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/) | 86.6% | <span style="color: green;">Easy</span> |
 | 1721 | ❌ [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) | 68.1% | <span style="color: orange;">Medium</span> |
-| 1722 | ❌ [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/) | 48.9% | <span style="color: orange;">Medium</span> |
+| 1722 | ✔️ [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/) | 48.9% | <span style="color: orange;">Medium</span> |
 | 1723 | ❌ [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/) | 42.8% | <span style="color: red;">Hard</span> |
 | 1724 | ❌ [Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/) | 51.0% | <span style="color: red;">Hard</span> |
 | 1725 | ❌ [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/description/) | 78.9% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
-<!---LeetCode Topics End-->
