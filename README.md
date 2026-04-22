@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 620/3312
+### Solved: 621/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2457,7 +2457,7 @@
 | 2449 | ❌ [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/description/) | 61.9% | <span style="color: red;">Hard</span> |
 | 2450 | ❌ [Number of Distinct Binary Strings After Applying Operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/description/) | 64.2% | <span style="color: orange;">Medium</span> |
 | 2451 | ❌ [Odd String Difference](https://leetcode.com/problems/odd-string-difference/description/) | 59.8% | <span style="color: green;">Easy</span> |
-| 2452 | ❌ [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/) | 61.0% | <span style="color: orange;">Medium</span> |
+| 2452 | ✔️ [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/) | 61.0% | <span style="color: orange;">Medium</span> |
 | 2453 | ❌ [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/description/) | 39.8% | <span style="color: orange;">Medium</span> |
 | 2454 | ❌ [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/description/) | 38.9% | <span style="color: red;">Hard</span> |
 | 2455 | ❌ [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/) | 60.8% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2452-words-within-two-edits-of-dictionary](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2452-words-within-two-edits-of-dictionary](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2452-words-within-two-edits-of-dictionary](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
-<!---LeetCode Topics End-->
