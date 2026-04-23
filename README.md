@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 621/3312
+### Solved: 622/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2620,7 +2620,7 @@
 | 2612 | ❌ [Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/description/) | 16.6% | <span style="color: red;">Hard</span> |
 | 2613 | ❌ [Beautiful Pairs](https://leetcode.com/problems/beautiful-pairs/description/) | 42.9% | <span style="color: red;">Hard</span> |
 | 2614 | ❌ [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/description/) | 34.5% | <span style="color: green;">Easy</span> |
-| 2615 | ❌ [Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/) | 31.3% | <span style="color: orange;">Medium</span> |
+| 2615 | ✔️ [Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/) | 31.3% | <span style="color: orange;">Medium</span> |
 | 2616 | ✔️ [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/) | 44.0% | <span style="color: orange;">Medium</span> |
 | 2617 | ❌ [Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/description/) | 24.8% | <span style="color: red;">Hard</span> |
 | 2618 | ❌ [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/description/) | 27.6% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2615-sum-of-distances](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2615-sum-of-distances/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2615-sum-of-distances](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2615-sum-of-distances/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2615-sum-of-distances](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2615-sum-of-distances/) | Medium |
-<!---LeetCode Topics End-->
