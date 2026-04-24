@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 622/3312
+### Solved: 623/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -2838,7 +2838,7 @@
 | 2830 | ❌ [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/description/) | 36.7% | <span style="color: orange;">Medium</span> |
 | 2831 | ❌ [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/description/) | 36.0% | <span style="color: orange;">Medium</span> |
 | 2832 | ❌ [Maximal Range That Each Element Is Maximum in It](https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/description/) | 74.0% | <span style="color: orange;">Medium</span> |
-| 2833 | ❌ [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/) | 65.1% | <span style="color: green;">Easy</span> |
+| 2833 | ✔️ [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/) | 65.1% | <span style="color: green;">Easy</span> |
 | 2834 | ❌ [Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/description/) | 37.6% | <span style="color: orange;">Medium</span> |
 | 2835 | ❌ [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/) | 32.6% | <span style="color: red;">Hard</span> |
 | 2836 | ❌ [Maximize Value of Function in a Ball Passing Game](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/description/) | 31.4% | <span style="color: red;">Hard</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2833-furthest-point-from-origin](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2833-furthest-point-from-origin](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
-<!---LeetCode Topics End-->
