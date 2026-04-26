@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 623/3312
+### Solved: 624/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1564,7 +1564,7 @@
 | 1556 | ❌ [Thousand Separator](https://leetcode.com/problems/thousand-separator/description/) | 53.8% | <span style="color: green;">Easy</span> |
 | 1557 | ❌ [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) | 81.0% | <span style="color: orange;">Medium</span> |
 | 1558 | ❌ [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/) | 63.5% | <span style="color: orange;">Medium</span> |
-| 1559 | ❌ [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) | 48.9% | <span style="color: orange;">Medium</span> |
+| 1559 | ✔️ [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) | 48.9% | <span style="color: orange;">Medium</span> |
 | 1560 | ❌ [Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description/) | 59.0% | <span style="color: green;">Easy</span> |
 | 1561 | ❌ [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/) | 84.5% | <span style="color: orange;">Medium</span> |
 | 1562 | ❌ [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/description/) | 43.0% | <span style="color: orange;">Medium</span> |
