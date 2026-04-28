@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 624/3312
+### Solved: 625/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -1396,7 +1396,7 @@
 | 1388 | ❌ [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/description/) | 52.3% | <span style="color: red;">Hard</span> |
 | 1389 | ❌ [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) | 86.0% | <span style="color: green;">Easy</span> |
 | 1390 | ✔️ [Four Divisors](https://leetcode.com/problems/four-divisors/description/) | 43.5% | <span style="color: orange;">Medium</span> |
-| 1391 | ❌ [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | 48.3% | <span style="color: orange;">Medium</span> |
+| 1391 | ✔️ [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/) | 48.3% | <span style="color: orange;">Medium</span> |
 | 1392 | ❌ [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/) | 46.9% | <span style="color: red;">Hard</span> |
 | 1393 | ❌ [Capital Gain/Loss](https://leetcode.com/problems/capital-gain/loss/description/) | 85.4% | <span style="color: orange;">Medium</span> |
 | 1394 | ✔️ [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | 68.0% | <span style="color: green;">Easy</span> |
@@ -3318,37 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-<!---LeetCode Topics End-->
