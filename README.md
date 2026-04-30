@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 625/3312
+### Solved: 626/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -3230,7 +3230,7 @@
 | 3222 | ❌ [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/description/) | 51.8% | <span style="color: green;">Easy</span> |
 | 3223 | ✔️ [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | 55.3% | <span style="color: orange;">Medium</span> |
 | 3224 | ❌ [Minimum Array Changes to Make Differences Equal](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/description/) | 23.2% | <span style="color: orange;">Medium</span> |
-| 3225 | ❌ [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/) | 28.1% | <span style="color: red;">Hard</span> |
+| 3225 | ✔️ [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/) | 28.1% | <span style="color: red;">Hard</span> |
 | 3226 | ❌ [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/description/) | 64.7% | <span style="color: green;">Easy</span> |
 | 3227 | ✔️ [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/) | 62.9% | <span style="color: orange;">Medium</span> |
 | 3228 | ✔️ [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/) | 54.1% | <span style="color: orange;">Medium</span> |
@@ -3318,26 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3225-maximum-score-from-grid-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
-| [3742-maximum-path-score-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3225-maximum-score-from-grid-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
-| [3742-maximum-path-score-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3225-maximum-score-from-grid-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
-| [3742-maximum-path-score-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3225-maximum-score-from-grid-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
-<!---LeetCode Topics End-->
