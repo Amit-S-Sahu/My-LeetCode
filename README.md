@@ -3325,14 +3325,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
