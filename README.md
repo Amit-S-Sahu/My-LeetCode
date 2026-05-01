@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 626/3312
+### Solved: 627/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -401,7 +401,7 @@
 | 393 | ❌ [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) | 45.2% | <span style="color: orange;">Medium</span> |
 | 394 | ❌ [Decode String](https://leetcode.com/problems/decode-string/description/) | 60.0% | <span style="color: orange;">Medium</span> |
 | 395 | ❌ [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) | 45.1% | <span style="color: orange;">Medium</span> |
-| 396 | ❌ [Rotate Function](https://leetcode.com/problems/rotate-function/description/) | 43.0% | <span style="color: orange;">Medium</span> |
+| 396 | ✔️ [Rotate Function](https://leetcode.com/problems/rotate-function/description/) | 43.0% | <span style="color: orange;">Medium</span> |
 | 397 | ❌ [Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) | 36.1% | <span style="color: orange;">Medium</span> |
 | 398 | ❌ [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | 63.8% | <span style="color: orange;">Medium</span> |
 | 399 | ❌ [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | 62.3% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0396-rotate-function](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0396-rotate-function/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0396-rotate-function](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0396-rotate-function/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0396-rotate-function](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0396-rotate-function/) | Medium |
-<!---LeetCode Topics End-->
