@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 627/3312
+### Solved: 628/3312
 
 [███░░░░░░░░░░░░░░░░░] 18%
 
@@ -793,7 +793,7 @@
 | 785 | ❌ [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite?/description/) | 56.5% | <span style="color: orange;">Medium</span> |
 | 786 | ❌ [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | 68.2% | <span style="color: orange;">Medium</span> |
 | 787 | ❌ [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | 39.7% | <span style="color: orange;">Medium</span> |
-| 788 | ❌ [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | 56.5% | <span style="color: orange;">Medium</span> |
+| 788 | ✔️ [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | 56.5% | <span style="color: orange;">Medium</span> |
 | 789 | ❌ [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | 62.4% | <span style="color: orange;">Medium</span> |
 | 790 | ✔️ [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | 49.6% | <span style="color: orange;">Medium</span> |
 | 791 | ❌ [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | 71.1% | <span style="color: orange;">Medium</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0788-rotated-digits](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0788-rotated-digits/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0788-rotated-digits](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0788-rotated-digits/) | Medium |
-<!---LeetCode Topics End-->
