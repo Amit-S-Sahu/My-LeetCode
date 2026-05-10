@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 629/3312
+### Solved: 630/3312
 
-[███░░░░░░░░░░░░░░░░░] 18%
+[███░░░░░░░░░░░░░░░░░] 19%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -2775,7 +2775,7 @@
 | 2767 | ❌ [Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/description/) | 53.9% | <span style="color: orange;">Medium</span> |
 | 2768 | ❌ [Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks/description/) | 36.8% | <span style="color: orange;">Medium</span> |
 | 2769 | ❌ [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) | 91.0% | <span style="color: green;">Easy</span> |
-| 2770 | ❌ [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | 31.7% | <span style="color: orange;">Medium</span> |
+| 2770 | ✔️ [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | 31.7% | <span style="color: orange;">Medium</span> |
 | 2771 | ❌ [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/description/) | 29.8% | <span style="color: orange;">Medium</span> |
 | 2772 | ❌ [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/description/) | 33.4% | <span style="color: orange;">Medium</span> |
 | 2773 | ❌ [Height of Special Binary Tree](https://leetcode.com/problems/height-of-special-binary-tree/description/) | 75.8% | <span style="color: orange;">Medium</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
-<!---LeetCode Topics End-->
