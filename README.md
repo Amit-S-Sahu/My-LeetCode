@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 631/3312
+### Solved: 632/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1670,7 +1670,7 @@
 | 1662 | ❌ [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | 85.6% | <span style="color: green;">Easy</span> |
 | 1663 | ❌ [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/description/) | 66.9% | <span style="color: orange;">Medium</span> |
 | 1664 | ❌ [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/description/) | 63.8% | <span style="color: orange;">Medium</span> |
-| 1665 | ❌ [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/) | 58.5% | <span style="color: red;">Hard</span> |
+| 1665 | ✔️ [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/) | 58.5% | <span style="color: red;">Hard</span> |
 | 1666 | ❌ [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/description/) | 74.2% | <span style="color: orange;">Medium</span> |
 | 1667 | ❌ [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/) | 61.4% | <span style="color: green;">Easy</span> |
 | 1668 | ❌ [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/) | 39.0% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
-<!---LeetCode Topics End-->
