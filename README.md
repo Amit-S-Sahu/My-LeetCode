@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 632/3312
+### Solved: 633/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1679,7 +1679,7 @@
 | 1671 | ✔️ [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/) | 42.2% | <span style="color: red;">Hard</span> |
 | 1672 | ✔️ [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | 88.3% | <span style="color: green;">Easy</span> |
 | 1673 | ❌ [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/description/) | 50.9% | <span style="color: orange;">Medium</span> |
-| 1674 | ❌ [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/) | 40.5% | <span style="color: orange;">Medium</span> |
+| 1674 | ✔️ [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/) | 40.5% | <span style="color: orange;">Medium</span> |
 | 1675 | ❌ [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/) | 54.0% | <span style="color: red;">Hard</span> |
 | 1676 | ❌ [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/description/) | 78.6% | <span style="color: orange;">Medium</span> |
 | 1677 | ❌ [Product's Worth Over Invoices](https://leetcode.com/problems/product's-worth-over-invoices/description/) | 38.3% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1674-minimum-moves-to-make-array-complementary](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1674-minimum-moves-to-make-array-complementary](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1674-minimum-moves-to-make-array-complementary](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
-<!---LeetCode Topics End-->
