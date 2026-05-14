@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 633/3312
+### Solved: 634/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -2789,7 +2789,7 @@
 | 2781 | ❌ [Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/description/) | 38.0% | <span style="color: red;">Hard</span> |
 | 2782 | ❌ [Number of Unique Categories](https://leetcode.com/problems/number-of-unique-categories/description/) | 83.8% | <span style="color: orange;">Medium</span> |
 | 2783 | ❌ [Flight Occupancy and Waitlist Analysis](https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/description/) | 37.7% | <span style="color: orange;">Medium</span> |
-| 2784 | ❌ [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | 49.4% | <span style="color: green;">Easy</span> |
+| 2784 | ✔️ [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/) | 49.4% | <span style="color: green;">Easy</span> |
 | 2785 | ✔️ [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/) | 81.2% | <span style="color: orange;">Medium</span> |
 | 2786 | ❌ [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/) | 36.3% | <span style="color: orange;">Medium</span> |
 | 2787 | ✔️ [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/) | 34.1% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2784-check-if-array-is-good](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2784-check-if-array-is-good](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2784-check-if-array-is-good](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
-<!---LeetCode Topics End-->
