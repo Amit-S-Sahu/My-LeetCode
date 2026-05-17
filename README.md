@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 635/3312
+### Solved: 636/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1311,7 +1311,7 @@
 | 1303 | ❌ [Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/) | 89.5% | <span style="color: green;">Easy</span> |
 | 1304 | ✔️ [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | 76.2% | <span style="color: green;">Easy</span> |
 | 1305 | ❌ [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | 79.9% | <span style="color: orange;">Medium</span> |
-| 1306 | ❌ [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | 65.3% | <span style="color: orange;">Medium</span> |
+| 1306 | ✔️ [Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) | 65.3% | <span style="color: orange;">Medium</span> |
 | 1307 | ❌ [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/) | 34.7% | <span style="color: red;">Hard</span> |
 | 1308 | ❌ [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/description/) | 86.3% | <span style="color: orange;">Medium</span> |
 | 1309 | ❌ [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/) | 79.9% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1306-jump-game-iii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1306-jump-game-iii/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1306-jump-game-iii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1306-jump-game-iii/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1306-jump-game-iii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1306-jump-game-iii/) | Medium |
-<!---LeetCode Topics End-->
