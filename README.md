@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 636/3312
+### Solved: 637/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1350,7 +1350,7 @@
 | 1342 | ✔️ [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | 85.4% | <span style="color: green;">Easy</span> |
 | 1343 | ❌ [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) | 69.1% | <span style="color: orange;">Medium</span> |
 | 1344 | ❌ [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/) | 64.0% | <span style="color: orange;">Medium</span> |
-| 1345 | ❌ [Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/) | 46.2% | <span style="color: red;">Hard</span> |
+| 1345 | ✔️ [Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/) | 46.2% | <span style="color: red;">Hard</span> |
 | 1346 | ✔️ [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/) | 37.5% | <span style="color: green;">Easy</span> |
 | 1347 | ❌ [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/) | 82.1% | <span style="color: orange;">Medium</span> |
 | 1348 | ❌ [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/description/) | 44.8% | <span style="color: orange;">Medium</span> |
