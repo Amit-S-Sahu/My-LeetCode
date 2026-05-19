@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 637/3312
+### Solved: 638/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -2545,7 +2545,7 @@
 | 2537 | ✔️ [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/) | 51.7% | <span style="color: orange;">Medium</span> |
 | 2538 | ❌ [Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/) | 32.2% | <span style="color: red;">Hard</span> |
 | 2539 | ❌ [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/description/) | 52.6% | <span style="color: orange;">Medium</span> |
-| 2540 | ❌ [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/) | 58.6% | <span style="color: green;">Easy</span> |
+| 2540 | ✔️ [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/) | 58.6% | <span style="color: green;">Easy</span> |
 | 2541 | ❌ [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/description/) | 31.9% | <span style="color: orange;">Medium</span> |
 | 2542 | ❌ [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/) | 53.9% | <span style="color: orange;">Medium</span> |
 | 2543 | ❌ [Check if Point Is Reachable](https://leetcode.com/problems/check-if-point-is-reachable/description/) | 42.9% | <span style="color: red;">Hard</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2540-minimum-common-value](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2540-minimum-common-value](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2540-minimum-common-value](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2540-minimum-common-value](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2540-minimum-common-value/) | Easy |
-<!---LeetCode Topics End-->
