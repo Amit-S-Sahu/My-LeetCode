@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 638/3312
+### Solved: 639/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -3048,7 +3048,7 @@
 | 3040 | ❌ [Maximum Number of Operations With the Same Score II](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/description/) | 33.7% | <span style="color: orange;">Medium</span> |
 | 3041 | ❌ [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/) | 32.4% | <span style="color: red;">Hard</span> |
 | 3042 | ✔️ [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | 65.8% | <span style="color: green;">Easy</span> |
-| 3043 | ❌ [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/) | 56.0% | <span style="color: orange;">Medium</span> |
+| 3043 | ✔️ [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 3044 | ❌ [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/description/) | 48.6% | <span style="color: orange;">Medium</span> |
 | 3045 | ❌ [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/) | 25.4% | <span style="color: red;">Hard</span> |
 | 3046 | ❌ [Split the Array](https://leetcode.com/problems/split-the-array/description/) | 59.0% | <span style="color: green;">Easy</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-<!---LeetCode Topics End-->
