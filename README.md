@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 639/3312
+### Solved: 640/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1345,7 +1345,7 @@
 | 1337 | ❌ [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/) | 73.7% | <span style="color: green;">Easy</span> |
 | 1338 | ❌ [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/description/) | 69.0% | <span style="color: orange;">Medium</span> |
 | 1339 | ✔️ [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/) | 47.7% | <span style="color: orange;">Medium</span> |
-| 1340 | ❌ [Jump Game V](https://leetcode.com/problems/jump-game-v/description/) | 63.7% | <span style="color: red;">Hard</span> |
+| 1340 | ✔️ [Jump Game V](https://leetcode.com/problems/jump-game-v/description/) | 63.7% | <span style="color: red;">Hard</span> |
 | 1341 | ❌ [Movie Rating](https://leetcode.com/problems/movie-rating/description/) | 40.5% | <span style="color: orange;">Medium</span> |
 | 1342 | ✔️ [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | 85.4% | <span style="color: green;">Easy</span> |
 | 1343 | ❌ [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) | 69.1% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1340-jump-game-v](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1340-jump-game-v/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1340-jump-game-v](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1340-jump-game-v/) | Hard |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1340-jump-game-v](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1340-jump-game-v/) | Hard |
-<!---LeetCode Topics End-->
