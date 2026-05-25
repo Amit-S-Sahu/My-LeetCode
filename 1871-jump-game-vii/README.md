@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/jump-game-vii/">1871. Jump Game VII</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> binary string <code>s</code> and two integers <code>minJump</code> and <code>maxJump</code>. In the beginning, you are standing at index <code>0</code>, which is equal to <code>&#39;0&#39;</code>. You can move from index <code>i</code> to index <code>j</code> if the following conditions are fulfilled:</p>
+<h2><a href="https://leetcode.com/problems/jump-game-vii">1871. Jump Game VII</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> binary string <code>s</code> and two integers <code>minJump</code> and <code>maxJump</code>. In the beginning, you are standing at index <code>0</code>, which is equal to <code>&#39;0&#39;</code>. You can move from index <code>i</code> to index <code>j</code> if the following conditions are fulfilled:</p>
 
 <ul>
 	<li><code>i + minJump &lt;= j &lt;= min(i + maxJump, s.length - 1)</code>, and</li>
