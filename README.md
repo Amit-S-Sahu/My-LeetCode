@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 640/3312
+### Solved: 641/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -3126,7 +3126,7 @@
 | 3118 | ❌ [Friday Purchase III](https://leetcode.com/problems/friday-purchase-iii/description/) | 59.1% | <span style="color: orange;">Medium</span> |
 | 3119 | ❌ [Maximum Number of Potholes That Can Be Fixed](https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/description/) | 59.5% | <span style="color: orange;">Medium</span> |
 | 3120 | ❌ [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/) | 65.9% | <span style="color: green;">Easy</span> |
-| 3121 | ❌ [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/) | 41.7% | <span style="color: orange;">Medium</span> |
+| 3121 | ✔️ [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/) | 41.7% | <span style="color: orange;">Medium</span> |
 | 3122 | ❌ [Minimum Number of Operations to Satisfy Conditions](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/description/) | 41.4% | <span style="color: orange;">Medium</span> |
 | 3123 | ❌ [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/description/) | 47.8% | <span style="color: red;">Hard</span> |
 | 3124 | ❌ [Find Longest Calls](https://leetcode.com/problems/find-longest-calls/description/) | 63.8% | <span style="color: orange;">Medium</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
-<!---LeetCode Topics End-->
