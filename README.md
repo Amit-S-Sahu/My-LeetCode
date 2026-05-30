@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 641/3312
+### Solved: 642/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -3166,7 +3166,7 @@
 | 3158 | ❌ [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/) | 82.0% | <span style="color: green;">Easy</span> |
 | 3159 | ❌ [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/) | 73.5% | <span style="color: orange;">Medium</span> |
 | 3160 | ✔️ [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/) | 41.3% | <span style="color: orange;">Medium</span> |
-| 3161 | ❌ [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/description/) | 14.3% | <span style="color: red;">Hard</span> |
+| 3161 | ✔️ [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/description/) | 14.3% | <span style="color: red;">Hard</span> |
 | 3162 | ❌ [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/description/) | 86.8% | <span style="color: green;">Easy</span> |
 | 3163 | ✔️ [String Compression III](https://leetcode.com/problems/string-compression-iii/description/) | 56.0% | <span style="color: orange;">Medium</span> |
 | 3164 | ❌ [Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/description/) | 25.8% | <span style="color: orange;">Medium</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3161-block-placement-queries](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3161-block-placement-queries/) | Hard |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3161-block-placement-queries](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3161-block-placement-queries/) | Hard |
-## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3161-block-placement-queries](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3161-block-placement-queries/) | Hard |
-## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3161-block-placement-queries](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/3161-block-placement-queries/) | Hard |
-<!---LeetCode Topics End-->
