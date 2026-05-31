@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 642/3312
+### Solved: 643/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -2131,7 +2131,7 @@
 | 2123 | ❌ [Minimum Operations to Remove Adjacent Ones in Matrix](https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix/description/) | 40.4% | <span style="color: red;">Hard</span> |
 | 2124 | ❌ [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-a's-appears-before-all-b's/description/) | 72.2% | <span style="color: green;">Easy</span> |
 | 2125 | ✔️ [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/) | 85.6% | <span style="color: orange;">Medium</span> |
-| 2126 | ❌ [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) | 51.9% | <span style="color: orange;">Medium</span> |
+| 2126 | ✔️ [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) | 51.9% | <span style="color: orange;">Medium</span> |
 | 2127 | ✔️ [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/) | 37.4% | <span style="color: red;">Hard</span> |
 | 2128 | ❌ [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/) | 76.2% | <span style="color: orange;">Medium</span> |
 | 2129 | ❌ [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/) | 65.1% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2126-destroying-asteroids](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2126-destroying-asteroids](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2126-destroying-asteroids](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
-<!---LeetCode Topics End-->
