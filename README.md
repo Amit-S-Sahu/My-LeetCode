@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 643/3312
+### Solved: 644/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -2149,7 +2149,7 @@
 | 2141 | ✔️ [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/) | 50.0% | <span style="color: red;">Hard</span> |
 | 2142 | ❌ [The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/description/) | 48.7% | <span style="color: orange;">Medium</span> |
 | 2143 | ❌ [Choose Numbers From Two Arrays in Range](https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range/description/) | 52.3% | <span style="color: red;">Hard</span> |
-| 2144 | ❌ [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | 61.6% | <span style="color: green;">Easy</span> |
+| 2144 | ✔️ [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/) | 61.6% | <span style="color: green;">Easy</span> |
 | 2145 | ✔️ [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/description/) | 39.1% | <span style="color: orange;">Medium</span> |
 | 2146 | ❌ [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/) | 43.5% | <span style="color: orange;">Medium</span> |
 | 2147 | ✔️ [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/description/) | 49.3% | <span style="color: red;">Hard</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
-<!---LeetCode Topics End-->
