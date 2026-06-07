@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 645/3312
+### Solved: 646/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -2201,7 +2201,7 @@
 | 2193 | ❌ [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/) | 51.3% | <span style="color: red;">Hard</span> |
 | 2194 | ❌ [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/) | 84.2% | <span style="color: green;">Easy</span> |
 | 2195 | ❌ [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/description/) | 25.6% | <span style="color: orange;">Medium</span> |
-| 2196 | ❌ [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | 81.8% | <span style="color: orange;">Medium</span> |
+| 2196 | ✔️ [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/) | 81.8% | <span style="color: orange;">Medium</span> |
 | 2197 | ✔️ [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/) | 39.9% | <span style="color: red;">Hard</span> |
 | 2198 | ❌ [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/description/) | 54.7% | <span style="color: orange;">Medium</span> |
 | 2199 | ❌ [Finding the Topic of Each Post](https://leetcode.com/problems/finding-the-topic-of-each-post/description/) | 50.1% | <span style="color: red;">Hard</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2196-create-binary-tree-from-descriptions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2196-create-binary-tree-from-descriptions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2196-create-binary-tree-from-descriptions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2196-create-binary-tree-from-descriptions](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
-<!---LeetCode Topics End-->
