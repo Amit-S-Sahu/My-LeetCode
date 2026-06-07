@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 644/3312
+### Solved: 645/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -2579,7 +2579,7 @@
 | 2571 | ❌ [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/description/) | 55.9% | <span style="color: orange;">Medium</span> |
 | 2572 | ❌ [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/) | 23.6% | <span style="color: orange;">Medium</span> |
 | 2573 | ✔️ [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/description/) | 31.5% | <span style="color: red;">Hard</span> |
-| 2574 | ❌ [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | 87.1% | <span style="color: green;">Easy</span> |
+| 2574 | ✔️ [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/) | 87.1% | <span style="color: green;">Easy</span> |
 | 2575 | ❌ [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/) | 33.6% | <span style="color: orange;">Medium</span> |
 | 2576 | ❌ [Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/description/) | 39.0% | <span style="color: orange;">Medium</span> |
 | 2577 | ✔️ [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/) | 35.6% | <span style="color: red;">Hard</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2574-left-and-right-sum-differences](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2574-left-and-right-sum-differences](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
-<!---LeetCode Topics End-->
