@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 646/3312
+### Solved: 647/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -2135,7 +2135,7 @@
 | 2127 | ✔️ [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/) | 37.4% | <span style="color: red;">Hard</span> |
 | 2128 | ❌ [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/) | 76.2% | <span style="color: orange;">Medium</span> |
 | 2129 | ❌ [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/) | 65.1% | <span style="color: green;">Easy</span> |
-| 2130 | ❌ [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | 81.0% | <span style="color: orange;">Medium</span> |
+| 2130 | ✔️ [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | 81.0% | <span style="color: orange;">Medium</span> |
 | 2131 | ✔️ [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/) | 48.0% | <span style="color: orange;">Medium</span> |
 | 2132 | ❌ [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/description/) | 32.5% | <span style="color: red;">Hard</span> |
 | 2133 | ❌ [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/) | 52.1% | <span style="color: green;">Easy</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
-<!---LeetCode Topics End-->
