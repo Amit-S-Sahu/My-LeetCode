@@ -1,20 +1,21 @@
 class Solution {
-    private long modPow(long base, long exp, int mod) {
-        long result = 1;
-        base %= mod;
-        while (exp > 0) {
-            if ((exp & 1) == 1) result = (result * base) % mod;
-            base = (base * base) % mod;
-            exp >>= 1;
+    long MOD = (long)1e9 + 7;
+
+    private long modPow(long a, long b) {
+        if (b == 0) return 1;
+        long ans = 1;
+        while (b > 0) {
+            if ((b & 1) == 1) ans = (ans * (a % MOD)) % MOD;
+            a = (a * a) % MOD;
+            b >>= 1;
         }
-        return result;
+        return ans;
     }
 
     public int countGoodNumbers(long n) {
-        int mod = 1_000_000_007;
-        long numEvens = (n + 1) / 2;
-        long numPrimes = n / 2;
-        long result = (modPow(5, numEvens, mod) * modPow(4, numPrimes, mod)) % mod;
-        return (int) result;
+        long ans;
+        if ((n & 1) == 0) ans = ((modPow(5, n / 2) % MOD) * (modPow(4, n / 2) % MOD)) % MOD;
+        else ans = ((modPow(5, (n / 2) + 1) % MOD) * (modPow(4, n / 2) % MOD)) % MOD;
+        return (int)ans;
     }
 }
