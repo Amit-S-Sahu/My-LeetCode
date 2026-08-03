@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 649/3312
+### Solved: 650/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1121,7 +1121,7 @@
 | 1113 | ❌ [Reported Posts](https://leetcode.com/problems/reported-posts/description/) | 64.9% | <span style="color: green;">Easy</span> |
 | 1114 | ✔️ [Print in Order](https://leetcode.com/problems/print-in-order/description/) | 70.0% | <span style="color: green;">Easy</span> |
 | 1115 | ✔️ [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/description/) | 67.2% | <span style="color: orange;">Medium</span> |
-| 1116 | ❌ [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/) | 61.7% | <span style="color: orange;">Medium</span> |
+| 1116 | ✔️ [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/) | 61.7% | <span style="color: orange;">Medium</span> |
 | 1117 | ❌ [Building H2O](https://leetcode.com/problems/building-h2o/description/) | 56.9% | <span style="color: orange;">Medium</span> |
 | 1118 | ❌ [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) | 58.6% | <span style="color: green;">Easy</span> |
 | 1119 | ❌ [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) | 91.2% | <span style="color: green;">Easy</span> |
@@ -3318,11 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Concurrency
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1116-print-zero-even-odd](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1116-print-zero-even-odd/) | Medium |
-<!---LeetCode Topics End-->
