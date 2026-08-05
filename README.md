@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 650/3312
+### Solved: 651/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -84,7 +84,7 @@
 | 76 | ❌ [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | 43.8% | <span style="color: red;">Hard</span> |
 | 77 | ❌ [Combinations](https://leetcode.com/problems/combinations/description/) | 71.4% | <span style="color: orange;">Medium</span> |
 | 78 | ✔️ [Subsets](https://leetcode.com/problems/subsets/description/) | 79.3% | <span style="color: orange;">Medium</span> |
-| 79 | ❌ [Word Search](https://leetcode.com/problems/word-search/description/) | 43.7% | <span style="color: orange;">Medium</span> |
+| 79 | ✔️ [Word Search](https://leetcode.com/problems/word-search/description/) | 43.7% | <span style="color: orange;">Medium</span> |
 | 80 | ❌ [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | 60.4% | <span style="color: orange;">Medium</span> |
 | 81 | ❌ [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | 38.2% | <span style="color: orange;">Medium</span> |
 | 82 | ❌ [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | 48.4% | <span style="color: orange;">Medium</span> |
@@ -3318,27 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0079-word-search](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0079-word-search/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0079-word-search](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0079-word-search/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0079-word-search](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0079-word-search/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0079-word-search](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0079-word-search/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0079-word-search](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0079-word-search/) | Medium |
-<!---LeetCode Topics End-->
