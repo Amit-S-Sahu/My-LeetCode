@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 651/3312
+### Solved: 652/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -103,7 +103,7 @@
 | 95 | ❌ [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | 58.8% | <span style="color: orange;">Medium</span> |
 | 96 | ✔️ [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | 61.6% | <span style="color: orange;">Medium</span> |
 | 97 | ❌ [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | 40.7% | <span style="color: orange;">Medium</span> |
-| 98 | ❌ [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | 33.5% | <span style="color: orange;">Medium</span> |
+| 98 | ✔️ [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | 33.5% | <span style="color: orange;">Medium</span> |
 | 99 | ❌ [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | 54.4% | <span style="color: orange;">Medium</span> |
 | 100 | ❌ [Same Tree](https://leetcode.com/problems/same-tree/description/) | 63.4% | <span style="color: green;">Easy</span> |
 | 101 | ❌ [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | 57.7% | <span style="color: green;">Easy</span> |
