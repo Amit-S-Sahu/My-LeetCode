@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 652/3312
+### Solved: 653/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1921,7 +1921,7 @@
 | 1913 | ❌ [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/) | 82.9% | <span style="color: green;">Easy</span> |
 | 1914 | ✔️ [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/) | 49.8% | <span style="color: orange;">Medium</span> |
 | 1915 | ❌ [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/) | 66.9% | <span style="color: orange;">Medium</span> |
-| 1916 | ❌ [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/description/) | 48.9% | <span style="color: red;">Hard</span> |
+| 1916 | ✔️ [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/description/) | 48.9% | <span style="color: red;">Hard</span> |
 | 1917 | ❌ [Leetcodify Friends Recommendations](https://leetcode.com/problems/leetcodify-friends-recommendations/description/) | 27.2% | <span style="color: red;">Hard</span> |
 | 1918 | ❌ [Kth Smallest Subarray Sum](https://leetcode.com/problems/kth-smallest-subarray-sum/description/) | 53.2% | <span style="color: orange;">Medium</span> |
 | 1919 | ❌ [Leetcodify Similar Friends](https://leetcode.com/problems/leetcodify-similar-friends/description/) | 42.2% | <span style="color: red;">Hard</span> |
@@ -3318,47 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## DP on Trees
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-## Fermat's Little Theorem
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1916-count-ways-to-build-rooms-in-an-ant-colony/) | Hard |
-<!---LeetCode Topics End-->
