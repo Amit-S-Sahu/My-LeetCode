@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 653/3312
+### Solved: 654/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -134,7 +134,7 @@
 | 126 | ❌ [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | 27.1% | <span style="color: red;">Hard</span> |
 | 127 | ✔️ [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | 40.5% | <span style="color: red;">Hard</span> |
 | 128 | ✔️ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | 47.5% | <span style="color: orange;">Medium</span> |
-| 129 | ❌ [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | 66.8% | <span style="color: orange;">Medium</span> |
+| 129 | ✔️ [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | 66.8% | <span style="color: orange;">Medium</span> |
 | 130 | ❌ [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | 40.9% | <span style="color: orange;">Medium</span> |
 | 131 | ❌ [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | 70.4% | <span style="color: orange;">Medium</span> |
 | 132 | ❌ [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/) | 34.4% | <span style="color: red;">Hard</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
-<!---LeetCode Topics End-->
