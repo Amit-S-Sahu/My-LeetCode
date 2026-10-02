@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 655/3312
+### Solved: 656/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -27,7 +27,7 @@
 | 19 | ✔️ [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 20 | ✔️ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 41.1% | <span style="color: green;">Easy</span> |
 | 21 | ✔️ [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | 65.4% | <span style="color: green;">Easy</span> |
-| 22 | ❌ [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | 75.6% | <span style="color: orange;">Medium</span> |
+| 22 | ✔️ [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | 75.6% | <span style="color: orange;">Medium</span> |
 | 23 | ✔️ [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | 54.3% | <span style="color: red;">Hard</span> |
 | 24 | ❌ [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | 65.5% | <span style="color: orange;">Medium</span> |
 | 25 | ✔️ [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | 60.6% | <span style="color: red;">Hard</span> |
