@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 656/3312
+### Solved: 657/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -37,7 +37,7 @@
 | 29 | ❌ [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | 17.8% | <span style="color: orange;">Medium</span> |
 | 30 | ❌ [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | 32.5% | <span style="color: red;">Hard</span> |
 | 31 | ✔️ [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | 41.2% | <span style="color: orange;">Medium</span> |
-| 32 | ❌ [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | 34.9% | <span style="color: red;">Hard</span> |
+| 32 | ✔️ [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | 34.9% | <span style="color: red;">Hard</span> |
 | 33 | ✔️ [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 41.6% | <span style="color: orange;">Medium</span> |
 | 34 | ✔️ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 45.3% | <span style="color: orange;">Medium</span> |
 | 35 | ✔️ [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | 47.3% | <span style="color: green;">Easy</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0032-longest-valid-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0032-longest-valid-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0032-longest-valid-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
-## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0032-longest-valid-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
-<!---LeetCode Topics End-->
