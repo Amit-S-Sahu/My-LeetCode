@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 657/3312
+### Solved: 658/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -683,7 +683,7 @@
 | 675 | ❌ [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) | 34.7% | <span style="color: red;">Hard</span> |
 | 676 | ❌ [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | 57.7% | <span style="color: orange;">Medium</span> |
 | 677 | ❌ [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | 56.9% | <span style="color: orange;">Medium</span> |
-| 678 | ❌ [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) | 38.3% | <span style="color: orange;">Medium</span> |
+| 678 | ✔️ [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) | 38.3% | <span style="color: orange;">Medium</span> |
 | 679 | ✔️ [24 Game](https://leetcode.com/problems/24-game/description/) | 49.5% | <span style="color: red;">Hard</span> |
 | 680 | ❌ [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | 41.5% | <span style="color: green;">Easy</span> |
 | 681 | ❌ [Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | 46.8% | <span style="color: orange;">Medium</span> |
@@ -3318,27 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0678-valid-parenthesis-string](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0678-valid-parenthesis-string](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0678-valid-parenthesis-string](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0678-valid-parenthesis-string](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
-## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0678-valid-parenthesis-string](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
-<!---LeetCode Topics End-->
