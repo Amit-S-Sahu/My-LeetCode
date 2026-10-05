@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 658/3312
+### Solved: 659/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -861,7 +861,7 @@
 | 853 | ❌ [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | 52.0% | <span style="color: orange;">Medium</span> |
 | 854 | ❌ [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | 40.0% | <span style="color: red;">Hard</span> |
 | 855 | ❌ [Exam Room](https://leetcode.com/problems/exam-room/description/) | 43.6% | <span style="color: orange;">Medium</span> |
-| 856 | ❌ [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | 64.0% | <span style="color: orange;">Medium</span> |
+| 856 | ✔️ [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | 64.0% | <span style="color: orange;">Medium</span> |
 | 857 | ❌ [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | 63.6% | <span style="color: red;">Hard</span> |
 | 858 | ❌ [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | 62.4% | <span style="color: orange;">Medium</span> |
 | 859 | ❌ [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | 33.3% | <span style="color: green;">Easy</span> |
