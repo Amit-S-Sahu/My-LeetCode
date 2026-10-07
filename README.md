@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 659/3312
+### Solved: 660/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -306,7 +306,7 @@
 | 298 | ❌ [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | 53.8% | <span style="color: orange;">Medium</span> |
 | 299 | ❌ [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) | 50.7% | <span style="color: orange;">Medium</span> |
 | 300 | ✔️ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | 56.4% | <span style="color: orange;">Medium</span> |
-| 301 | ❌ [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | 48.6% | <span style="color: red;">Hard</span> |
+| 301 | ✔️ [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | 48.6% | <span style="color: red;">Hard</span> |
 | 302 | ❌ [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) | 59.2% | <span style="color: red;">Hard</span> |
 | 303 | ❌ [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable/description/) | 65.3% | <span style="color: green;">Easy</span> |
 | 304 | ❌ [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d---immutable/description/) | 55.3% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0301-remove-invalid-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0301-remove-invalid-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0301-remove-invalid-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
-<!---LeetCode Topics End-->
