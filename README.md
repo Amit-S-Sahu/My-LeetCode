@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 660/3312
+### Solved: 661/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1026,7 +1026,7 @@
 | 1018 | ✔️ [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) | 46.8% | <span style="color: green;">Easy</span> |
 | 1019 | ❌ [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) | 61.4% | <span style="color: orange;">Medium</span> |
 | 1020 | ❌ [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | 69.5% | <span style="color: orange;">Medium</span> |
-| 1021 | ❌ [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | 84.0% | <span style="color: green;">Easy</span> |
+| 1021 | ✔️ [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | 84.0% | <span style="color: green;">Easy</span> |
 | 1022 | ✔️ [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) | 73.2% | <span style="color: green;">Easy</span> |
 | 1023 | ❌ [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) | 62.9% | <span style="color: orange;">Medium</span> |
 | 1024 | ❌ [Video Stitching](https://leetcode.com/problems/video-stitching/description/) | 51.6% | <span style="color: orange;">Medium</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
-## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
-<!---LeetCode Topics End-->
