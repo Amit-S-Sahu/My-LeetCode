@@ -6,7 +6,7 @@ public:
         for (auto ch : s) {
             if (ch == ')') st.pop();
             if (!st.empty()) ans.push_back(ch);
-            if (ch == '(') st.emplace(ch);
+            if (ch == '(') st.push(ch);
         }
         return ans;
     }
