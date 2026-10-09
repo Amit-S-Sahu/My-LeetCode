@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 661/3312
+### Solved: 662/3312
 
 [███░░░░░░░░░░░░░░░░░] 19%
 
@@ -1546,7 +1546,7 @@
 | 1538 | ❌ [Guess the Majority in a Hidden Array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/description/) | 70.1% | <span style="color: orange;">Medium</span> |
 | 1539 | ❌ [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) | 60.9% | <span style="color: green;">Easy</span> |
 | 1540 | ❌ [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/description/) | 35.6% | <span style="color: orange;">Medium</span> |
-| 1541 | ❌ [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/) | 52.8% | <span style="color: orange;">Medium</span> |
+| 1541 | ✔️ [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/) | 52.8% | <span style="color: orange;">Medium</span> |
 | 1542 | ❌ [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/description/) | 44.3% | <span style="color: red;">Hard</span> |
 | 1543 | ❌ [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format/description/) | 59.3% | <span style="color: green;">Easy</span> |
 | 1544 | ❌ [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) | 68.3% | <span style="color: green;">Easy</span> |
