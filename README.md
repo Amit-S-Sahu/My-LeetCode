@@ -1,8 +1,8 @@
 # LeetCode Progress
 
-### Solved: 662/3312
+### Solved: 663/3312
 
-[███░░░░░░░░░░░░░░░░░] 19%
+[████░░░░░░░░░░░░░░░░] 20%
 
 | #   | Question       | Acceptance Rate | Difficulty |
 |-----|----------------|-----------------|------------|
@@ -2783,7 +2783,7 @@
 | 2775 | ❌ [Undefined to Null](https://leetcode.com/problems/undefined-to-null/description/) | 69.6% | <span style="color: orange;">Medium</span> |
 | 2776 | ❌ [Convert Callback Based Function to Promise Based Function](https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function/description/) | 92.1% | <span style="color: orange;">Medium</span> |
 | 2777 | ❌ [Date Range Generator](https://leetcode.com/problems/date-range-generator/description/) | 81.3% | <span style="color: orange;">Medium</span> |
-| 2778 | ❌ [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/) | 81.9% | <span style="color: green;">Easy</span> |
+| 2778 | ✔️ [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/) | 81.9% | <span style="color: green;">Easy</span> |
 | 2779 | ✔️ [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/) | 38.9% | <span style="color: orange;">Medium</span> |
 | 2780 | ✔️ [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/) | 62.5% | <span style="color: orange;">Medium</span> |
 | 2781 | ❌ [Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/description/) | 38.0% | <span style="color: red;">Hard</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
-<!---LeetCode Topics End-->
