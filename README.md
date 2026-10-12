@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 663/3312
+### Solved: 664/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -2902,7 +2902,7 @@
 | 2894 | ✔️ [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/) | 89.4% | <span style="color: green;">Easy</span> |
 | 2895 | ❌ [Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/description/) | 69.5% | <span style="color: orange;">Medium</span> |
 | 2896 | ❌ [Apply Operations to Make Two Strings Equal](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/description/) | 27.1% | <span style="color: orange;">Medium</span> |
-| 2897 | ❌ [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/) | 46.8% | <span style="color: red;">Hard</span> |
+| 2897 | ✔️ [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/) | 46.8% | <span style="color: red;">Hard</span> |
 | 2898 | ❌ [Maximum Linear Stock Score](https://leetcode.com/problems/maximum-linear-stock-score/description/) | 68.0% | <span style="color: orange;">Medium</span> |
 | 2899 | ❌ [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/description/) | 66.4% | <span style="color: green;">Easy</span> |
 | 2900 | ✔️ [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/) | 62.0% | <span style="color: green;">Easy</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
-<!---LeetCode Topics End-->
