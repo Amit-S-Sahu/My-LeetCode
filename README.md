@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 664/3312
+### Solved: 665/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -2918,7 +2918,7 @@
 | 2910 | ❌ [Minimum Number of Groups to Create a Valid Assignment](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/description/) | 25.0% | <span style="color: orange;">Medium</span> |
 | 2911 | ❌ [Minimum Changes to Make K Semi-palindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/description/) | 36.5% | <span style="color: red;">Hard</span> |
 | 2912 | ❌ [Number of Ways to Reach Destination in the Grid](https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid/description/) | 60.4% | <span style="color: red;">Hard</span> |
-| 2913 | ❌ [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/) | 82.9% | <span style="color: green;">Easy</span> |
+| 2913 | ✔️ [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/) | 82.9% | <span style="color: green;">Easy</span> |
 | 2914 | ✔️ [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | 60.5% | <span style="color: orange;">Medium</span> |
 | 2915 | ❌ [Length of the Longest Subsequence That Sums to Target](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/description/) | 36.5% | <span style="color: orange;">Medium</span> |
 | 2916 | ❌ [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/) | 21.5% | <span style="color: red;">Hard</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
-## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
-## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
-<!---LeetCode Topics End-->
