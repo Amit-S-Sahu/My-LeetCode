@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 665/3312
+### Solved: 666/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -2921,7 +2921,7 @@
 | 2913 | ✔️ [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/) | 82.9% | <span style="color: green;">Easy</span> |
 | 2914 | ✔️ [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/) | 60.5% | <span style="color: orange;">Medium</span> |
 | 2915 | ❌ [Length of the Longest Subsequence That Sums to Target](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/description/) | 36.5% | <span style="color: orange;">Medium</span> |
-| 2916 | ❌ [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/) | 21.5% | <span style="color: red;">Hard</span> |
+| 2916 | ✔️ [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/) | 21.5% | <span style="color: red;">Hard</span> |
 | 2917 | ❌ [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/description/) | 74.8% | <span style="color: green;">Easy</span> |
 | 2918 | ✔️ [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/description/) | 35.8% | <span style="color: orange;">Medium</span> |
 | 2919 | ❌ [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/description/) | 34.5% | <span style="color: orange;">Medium</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
-## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
-## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
-<!---LeetCode Topics End-->
