@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 666/3312
+### Solved: 667/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -1574,7 +1574,7 @@
 | 1566 | ❌ [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/description/) | 43.4% | <span style="color: green;">Easy</span> |
 | 1567 | ❌ [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/) | 44.3% | <span style="color: orange;">Medium</span> |
 | 1568 | ❌ [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) | 59.7% | <span style="color: red;">Hard</span> |
-| 1569 | ❌ [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) | 53.6% | <span style="color: red;">Hard</span> |
+| 1569 | ✔️ [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) | 53.6% | <span style="color: red;">Hard</span> |
 | 1570 | ❌ [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/) | 89.9% | <span style="color: orange;">Medium</span> |
 | 1571 | ❌ [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/description/) | 87.6% | <span style="color: green;">Easy</span> |
 | 1572 | ❌ [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | 83.3% | <span style="color: green;">Easy</span> |
@@ -3318,51 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-## Fermat's Little Theorem
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
-<!---LeetCode Topics End-->
