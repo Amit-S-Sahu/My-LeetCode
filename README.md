@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 667/3312
+### Solved: 668/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -2094,7 +2094,7 @@
 | 2086 | ❌ [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/description/) | 46.9% | <span style="color: orange;">Medium</span> |
 | 2087 | ❌ [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/description/) | 51.1% | <span style="color: orange;">Medium</span> |
 | 2088 | ❌ [Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/description/) | 65.1% | <span style="color: red;">Hard</span> |
-| 2089 | ❌ [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/) | 76.8% | <span style="color: green;">Easy</span> |
+| 2089 | ✔️ [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/) | 76.8% | <span style="color: green;">Easy</span> |
 | 2090 | ❌ [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/) | 45.9% | <span style="color: orange;">Medium</span> |
 | 2091 | ❌ [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/) | 55.0% | <span style="color: orange;">Medium</span> |
 | 2092 | ✔️ [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/) | 45.5% | <span style="color: red;">Hard</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2089-find-target-indices-after-sorting-array](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2089-find-target-indices-after-sorting-array](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2089-find-target-indices-after-sorting-array](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
-<!---LeetCode Topics End-->
