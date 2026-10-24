@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 668/3312
+### Solved: 669/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -2414,7 +2414,7 @@
 | 2406 | ✔️ [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | 47.8% | <span style="color: orange;">Medium</span> |
 | 2407 | ❌ [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/description/) | 24.5% | <span style="color: red;">Hard</span> |
 | 2408 | ❌ [Design SQL](https://leetcode.com/problems/design-sql/description/) | 78.2% | <span style="color: orange;">Medium</span> |
-| 2409 | ❌ [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/) | 45.6% | <span style="color: green;">Easy</span> |
+| 2409 | ✔️ [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/description/) | 45.6% | <span style="color: green;">Easy</span> |
 | 2410 | ✔️ [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/) | 64.1% | <span style="color: orange;">Medium</span> |
 | 2411 | ✔️ [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/) | 44.6% | <span style="color: orange;">Medium</span> |
 | 2412 | ❌ [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/description/) | 40.6% | <span style="color: red;">Hard</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2409-count-days-spent-together](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2409-count-days-spent-together](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
-<!---LeetCode Topics End-->
