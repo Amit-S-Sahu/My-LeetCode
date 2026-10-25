@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 669/3312
+### Solved: 670/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -1259,7 +1259,7 @@
 | 1251 | ❌ [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/) | 37.2% | <span style="color: green;">Easy</span> |
 | 1252 | ❌ [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/) | 78.9% | <span style="color: green;">Easy</span> |
 | 1253 | ❌ [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/) | 47.0% | <span style="color: orange;">Medium</span> |
-| 1254 | ❌ [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 66.5% | <span style="color: orange;">Medium</span> |
+| 1254 | ✔️ [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 66.5% | <span style="color: orange;">Medium</span> |
 | 1255 | ❌ [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | 82.0% | <span style="color: red;">Hard</span> |
 | 1256 | ❌ [Encode Number](https://leetcode.com/problems/encode-number/description/) | 70.0% | <span style="color: orange;">Medium</span> |
 | 1257 | ❌ [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/description/) | 67.9% | <span style="color: orange;">Medium</span> |
@@ -3318,27 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1254-number-of-closed-islands](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1254-number-of-closed-islands](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1254-number-of-closed-islands](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1254-number-of-closed-islands](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1254-number-of-closed-islands](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
-<!---LeetCode Topics End-->
