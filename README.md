@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 670/3312
+### Solved: 671/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -458,7 +458,7 @@
 | 450 | ❌ [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | 52.1% | <span style="color: orange;">Medium</span> |
 | 451 | ❌ [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | 73.1% | <span style="color: orange;">Medium</span> |
 | 452 | ❌ [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | 59.4% | <span style="color: orange;">Medium</span> |
-| 453 | ❌ [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | 57.1% | <span style="color: orange;">Medium</span> |
+| 453 | ✔️ [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | 57.1% | <span style="color: orange;">Medium</span> |
 | 454 | ❌ [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | 57.4% | <span style="color: orange;">Medium</span> |
 | 455 | ✔️ [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | 53.2% | <span style="color: green;">Easy</span> |
 | 456 | ❌ [132 Pattern](https://leetcode.com/problems/132-pattern/description/) | 33.8% | <span style="color: orange;">Medium</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0453-minimum-moves-to-equal-array-elements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0453-minimum-moves-to-equal-array-elements](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
-<!---LeetCode Topics End-->
