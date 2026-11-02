@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 671/3312
+### Solved: 672/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -467,7 +467,7 @@
 | 459 | ✔️ [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | 46.3% | <span style="color: green;">Easy</span> |
 | 460 | ❌ [LFU Cache](https://leetcode.com/problems/lfu-cache/description/) | 45.0% | <span style="color: red;">Hard</span> |
 | 461 | ❌ [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | 75.6% | <span style="color: green;">Easy</span> |
-| 462 | ❌ [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | 60.4% | <span style="color: orange;">Medium</span> |
+| 462 | ✔️ [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | 60.4% | <span style="color: orange;">Medium</span> |
 | 463 | ❌ [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | 73.1% | <span style="color: green;">Easy</span> |
 | 464 | ❌ [Can I Win](https://leetcode.com/problems/can-i-win/description/) | 29.8% | <span style="color: orange;">Medium</span> |
 | 465 | ❌ [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/description/) | 49.6% | <span style="color: red;">Hard</span> |
@@ -3318,19 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
-<!---LeetCode Topics End-->
