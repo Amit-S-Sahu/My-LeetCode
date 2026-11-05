@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 672/3312
+### Solved: 673/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -1390,7 +1390,7 @@
 | 1382 | ✔️ [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | 84.7% | <span style="color: orange;">Medium</span> |
 | 1383 | ❌ [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/description/) | 47.7% | <span style="color: red;">Hard</span> |
 | 1384 | ❌ [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/description/) | 60.9% | <span style="color: red;">Hard</span> |
-| 1385 | ❌ [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/) | 69.1% | <span style="color: green;">Easy</span> |
+| 1385 | ✔️ [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/) | 69.1% | <span style="color: green;">Easy</span> |
 | 1386 | ❌ [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/) | 42.3% | <span style="color: orange;">Medium</span> |
 | 1387 | ❌ [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/description/) | 70.3% | <span style="color: orange;">Medium</span> |
 | 1388 | ❌ [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/description/) | 52.3% | <span style="color: red;">Hard</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-<!---LeetCode Topics End-->
