@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 673/3312
+### Solved: 674/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -2752,7 +2752,7 @@
 | 2744 | ❌ [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/) | 81.9% | <span style="color: green;">Easy</span> |
 | 2745 | ❌ [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/description/) | 54.4% | <span style="color: orange;">Medium</span> |
 | 2746 | ❌ [Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/description/) | 27.2% | <span style="color: orange;">Medium</span> |
-| 2747 | ❌ [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/description/) | 33.2% | <span style="color: orange;">Medium</span> |
+| 2747 | ✔️ [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/description/) | 33.2% | <span style="color: orange;">Medium</span> |
 | 2748 | ❌ [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/description/) | 50.7% | <span style="color: green;">Easy</span> |
 | 2749 | ✔️ [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | 30.3% | <span style="color: orange;">Medium</span> |
 | 2750 | ❌ [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) | 34.5% | <span style="color: orange;">Medium</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2747-count-zero-request-servers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
-<!---LeetCode Topics End-->
