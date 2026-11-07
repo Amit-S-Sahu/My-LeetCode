@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 674/3312
+### Solved: 675/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -1887,7 +1887,7 @@
 | 1879 | ❌ [Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/) | 48.3% | <span style="color: red;">Hard</span> |
 | 1880 | ❌ [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/) | 74.4% | <span style="color: green;">Easy</span> |
 | 1881 | ❌ [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/description/) | 38.3% | <span style="color: orange;">Medium</span> |
-| 1882 | ❌ [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/) | 40.5% | <span style="color: orange;">Medium</span> |
+| 1882 | ✔️ [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/) | 40.5% | <span style="color: orange;">Medium</span> |
 | 1883 | ❌ [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/description/) | 38.0% | <span style="color: red;">Hard</span> |
 | 1884 | ❌ [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/description/) | 73.3% | <span style="color: orange;">Medium</span> |
 | 1885 | ❌ [Count Pairs in Two Arrays](https://leetcode.com/problems/count-pairs-in-two-arrays/description/) | 60.5% | <span style="color: orange;">Medium</span> |
@@ -3318,15 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1882-process-tasks-using-servers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1882-process-tasks-using-servers](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
-<!---LeetCode Topics End-->
