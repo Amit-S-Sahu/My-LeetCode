@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-### Solved: 675/3312
+### Solved: 676/3312
 
 [████░░░░░░░░░░░░░░░░] 20%
 
@@ -1611,7 +1611,7 @@
 | 1603 | ❌ [Design Parking System](https://leetcode.com/problems/design-parking-system/description/) | 88.0% | <span style="color: green;">Easy</span> |
 | 1604 | ❌ [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/) | 46.0% | <span style="color: orange;">Medium</span> |
 | 1605 | ❌ [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/) | 83.1% | <span style="color: orange;">Medium</span> |
-| 1606 | ❌ [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/) | 43.7% | <span style="color: red;">Hard</span> |
+| 1606 | ✔️ [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/) | 43.7% | <span style="color: red;">Hard</span> |
 | 1607 | ❌ [Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/description/) | 54.3% | <span style="color: green;">Easy</span> |
 | 1608 | ❌ [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) | 66.9% | <span style="color: green;">Easy</span> |
 | 1609 | ❌ [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/) | 66.1% | <span style="color: orange;">Medium</span> |
@@ -3318,23 +3318,3 @@
 | 3310 | ❌ [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/description/) | 46.7% | <span style="color: orange;">Medium</span> |
 | 3311 | ❌ [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/description/) | 20.2% | <span style="color: red;">Hard</span> |
 | 3312 | ❌ [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/description/) | 12.1% | <span style="color: red;">Hard</span> |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
-## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Amit-S-Sahu/My-LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
-<!---LeetCode Topics End-->
